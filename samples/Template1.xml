@@ -1,0 +1,2821 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>Template</Group>
+  <Story>This is the meat and potatoes of a story. A [Boat] sailed onto the high seas, and on board was a bunch of [Passengers]&#xD;
+&#xD;
+[BOSSNAME] &#xD;
+&#xD;
+[BOSSTYPE] &#xD;
+&#xD;
+[REWARDNAME]&#xD;
+&#xD;
+ [MAPNAME]</Story>
+  <Story_Fields>
+    <Field Name="COMMANDER_MALE">
+		<Value>Baron</Value>
+		<Value>King</Value>
+		<Value>Lord</Value>
+		<Value>Duke</Value>
+		<Value>Prince</Value>
+    </Field>
+    <Field Name="COMMANDER_FEMALE">
+		<Value>Princess</Value>
+		<Value>Baroness</Value>
+		<Value>Queen</Value>
+		<Value>Dutchess</Value>
+		<Value>Lady</Value>
+    </Field>
+	<Field Name="COMMANDER_CAPS">
+		<Value>Captain</Value>
+		<Value>Chief</Value>
+		<Value>Slavedriver</Value>
+		<Value>Leader</Value>
+		<Value>Chieftain</Value>
+		<Value>Commander</Value>
+		<Value>Diplomat</Value>
+		<Value>Master</Value>
+		<Value>General</Value>
+		<Value>Overseer</Value>
+		<Value>Officer</Value>
+		<Value>Overlord</Value>
+		<Value>Slavemaster</Value>
+		<Value>Slaver</Value>
+		<Value>Taskmaster</Value>
+		<Value>Warlord</Value>
+		<Value>Elder</Value>
+		<Value>Marshal</Value>
+		<Value>Hero</Value>
+		<Value>Ruler</Value>
+		<Value>Tribal Chief</Value>
+		<Value>Sensei</Value>
+		<Value>Vizier</Value>
+		<Value>Mayor</Value>
+		<Value>Governor</Value>
+		<Value>Sheriff</Value>
+		<Value>Leader</Value>
+		<Value>Chief</Value>	
+	</Field>	
+	<Field Name="COMMANDER">
+		<Value>captain</Value>
+		<Value>chief</Value>
+		<Value>slavedriver</Value>
+		<Value>leader</Value>
+		<Value>chieftain</Value>
+		<Value>commander</Value>
+		<Value>diplomat</Value>
+		<Value>master</Value>
+		<Value>general</Value>
+		<Value>overseer</Value>
+		<Value>officer</Value>
+		<Value>overlord</Value>
+		<Value>slavemaster</Value>
+		<Value>slaver</Value>
+		<Value>taskmaster</Value>
+		<Value>warlord</Value>
+		<Value>elder</Value>
+		<Value>marshal</Value>
+		<Value>hero</Value>
+		<Value>ruler</Value>
+		<Value>tribal chief</Value>
+		<Value>sensei</Value>
+		<Value>vizier</Value>
+		<Value>mayor</Value>
+		<Value>governor</Value>
+		<Value>sheriff</Value>
+		<Value>leader</Value>
+		<Value>chief</Value>	
+	</Field>	
+	<Field Name="ARTISAN">
+		<Value>Innkeeper</Value>
+		<Value>Armorsmith</Value>
+		<Value>Baker</Value>
+		<Value>Banker</Value>
+		<Value>Dockmaster</Value>
+		<Value>Barber</Value>
+		<Value>Locksmith</Value>
+		<Value>Dyer</Value>
+		<Value>Engineer</Value>
+		<Value>Blacksmith</Value>
+		<Value>Bricklayer</Value>
+		<Value>Tailor</Value>
+		<Value>Clothier</Value>
+		<Value>Farmer</Value>
+		<Value>Cook</Value>
+		<Value>Furrier</Value>
+		<Value>Cartographer</Value>
+		<Value>Farmhand</Value>
+		<Value>Gravedigger</Value>
+		<Value>Dockworker</Value>
+		<Value>Fisherman</Value>
+		<Value>Mason</Value>
+		<Value>Merchant</Value>
+		<Value>Miner</Value>
+		<Value>Moneylender</Value>
+		<Value>Mountaineer</Value>
+		<Value>Navigator</Value>
+		<Value>Sailor</Value>
+		<Value>Smith</Value>
+		<Value>Tanner</Value>
+		<Value>Tinkerer</Value>
+		<Value>Trader</Value>
+		<Value>Trainer</Value>
+		<Value>Weaver</Value>
+		<Value>Artisan</Value>
+		<Value>Herbalist</Value>
+		<Value>Liege</Value>
+		<Value>Helot</Value>
+		<Value>Bowyer</Value>
+		<Value>Weaponsmith</Value>
+		<Value>Carpenter</Value>
+		<Value>Artificer</Value>
+		<Value>Inventor</Value>
+		<Value>Artist</Value>
+		<Value>Architect</Value>
+		<Value>Grocer</Value>
+		<Value>Cooper</Value>
+		<Value>Brewer</Value>
+		<Value>Arrowsmith</Value>
+		<Value>Fletcher</Value>
+		<Value>Coppersmith</Value>
+		<Value>Ironsmith</Value>
+		<Value>Jeweler</Value>
+		<Value>Moneylender</Value>
+		<Value>Cheesemaker</Value>
+		<Value>Plumber</Value>
+		<Value>Cartwright</Value>
+		<Value>Cartographer</Value>
+		<Value>Gemcutter</Value>
+		<Value>Woodcarver</Value>
+		<Value>Sapper</Value>
+		<Value>Lawyer</Value>
+		<Value>Coiffurist</Value>
+		<Value>Chef</Value>
+		<Value>Bartender</Value>	
+	</Field> 	
+	<Field Name="ALCHEMIST">
+		<Value>Astrologer</Value>
+		<Value>Astronomer</Value>
+		<Value>Augurer</Value>
+		<Value>Clairvoyant</Value>
+		<Value>Oracle</Value>
+		<Value>Diviner</Value>
+		<Value>Theurgist</Value>
+		<Value>Prophet</Value>
+		<Value>Soothsayer</Value>
+		<Value>Stargazer</Value>
+		<Value>Seer</Value>
+		<Value>Invoker</Value>
+		<Value>Summoner</Value>
+		<Value>Magician</Value>
+		<Value>Magus</Value>
+		<Value>Conjurer</Value>
+		<Value>Enchanter</Value>
+		<Value>Mesmerist</Value>
+		<Value>Illusionist</Value>
+		<Value>Runecaster</Value>
+		<Value>Evoker</Value>
+		<Value>Scribe</Value>
+		<Value>Mage</Value>
+		<Value>Pyromancer</Value>
+		<Value>Wizard</Value>
+		<Value>Beguiler</Value>
+		<Value>Cabalist</Value>
+		<Value>Corruptor</Value>
+		<Value>Hexer</Value>
+		<Value>Sorcerer</Value>
+		<Value>Diabolist</Value>
+		<Value>Dissembler</Value>
+		<Value>Harrower</Value>
+		<Value>Phantasmer</Value>
+		<Value>Occultist</Value>
+		<Value>Warlock</Value>
+		<Value>Soulslayer</Value>
+		<Value>Witch</Value>
+		<Value>Demonologist</Value>
+		<Value>Apothecary</Value>
+		<Value>Visionary</Value>
+		<Value>Haruspex</Value>
+		<Value>Mentalist</Value>
+		<Value>Tasseograph</Value>
+		<Value>Fortuneteller</Value>
+		<Value>Tyromancer</Value>
+		<Value>Arithmancer</Value>
+		<Value>Botanist</Value>
+		<Value>Numerologist</Value>
+		<Value>Phrenologist</Value>	
+	</Field>  	
+	<Field Name="ROGUE">
+		<Value>Hooligan</Value>
+		<Value>Bandit</Value>
+		<Value>Brigand</Value>
+		<Value>Dastard</Value>
+		<Value>Corsair</Value>
+		<Value>Hired Killer</Value>
+		<Value>Blackguard</Value>
+		<Value>Desperado</Value>
+		<Value>Kidnapper</Value>
+		<Value>Criminal</Value>
+		<Value>Cutpurse</Value>
+		<Value>Extortionist</Value>
+		<Value>Cutthroat</Value>
+		<Value>Highwayman</Value>
+		<Value>Crook</Value>
+		<Value>Freebooter</Value>
+		<Value>Hijacker</Value>
+		<Value>Degenerate</Value>
+		<Value>Gangster</Value>
+		<Value>Knave</Value>
+		<Value>Mountebank</Value>
+		<Value>Mobster</Value>
+		<Value>Outlaw</Value>
+		<Value>Pickpocket</Value>
+		<Value>Pirate</Value>
+		<Value>Privateer</Value>
+		<Value>Prowler</Value>
+		<Value>Raider</Value>
+		<Value>Rebel</Value>
+		<Value>Robber</Value>
+		<Value>Rogue</Value>
+		<Value>Ruffian</Value>
+		<Value>Scoundrel</Value>
+		<Value>Smuggler</Value>
+		<Value>Thief</Value>
+		<Value>Thug</Value>
+		<Value>Vagabond</Value>
+		<Value>Charlatan</Value>
+		<Value>Mariner</Value>
+		<Value>Rake</Value>
+		<Value>Sneak</Value>
+		<Value>Burglar</Value>
+		<Value>Swashbuckler</Value>
+		<Value>Boothaler</Value>
+		<Value>Footpad</Value>
+		<Value>Shill</Value>
+		<Value>Thimblerigger</Value>
+		<Value>Urchin</Value>
+		<Value>Rascal</Value>
+		<Value>Shyster</Value>
+		<Value>Skulldugger</Value>
+		<Value>Riffraff</Value>
+		<Value>Cad</Value>
+		<Value>Cur</Value>
+		<Value>Rapscallion</Value>
+		<Value>Renegade</Value>
+		<Value>Grifter</Value>
+	</Field>  	
+	<Field Name="KNIGHT">
+		<Value>Paladin</Value>
+		<Value>Inquisitor</Value>
+		<Value>Knight</Value>
+		<Value>Defender</Value>
+		<Value>Templar</Value>
+		<Value>Zealot</Value>
+		<Value>Protector</Value>
+		<Value>Champion</Value>
+		<Value>Advocate</Value>
+		<Value>Vindicator</Value>
+		<Value>Warpriest</Value>
+		<Value>Avenger</Value>
+		<Value>Crusader</Value>
+		<Value>Arbiter</Value>
+		<Value>Cavalier</Value>
+		<Value>Chevalier</Value>
+		<Value>Justicar</Value>
+		<Value>Lancer</Value>
+		<Value>Ronin</Value>
+		<Value>Tactician</Value>
+		<Value>Regulator</Value>
+		<Value>Sentinel</Value>	
+	</Field>  	
+	<Field Name="FIGHTER">
+		<Value>Barbarian</Value>
+		<Value>Berserker</Value>
+		<Value>Brawler</Value>
+		<Value>Savage</Value>
+		<Value>Bruiser</Value>
+		<Value>Warmonger</Value>
+		<Value>Grunt</Value>
+		<Value>Marauder</Value>
+		<Value>Warrior</Value>
+		<Value>Pillager</Value>
+		<Value>Butcher</Value>
+		<Value>Duelist</Value>
+		<Value>Veteran</Value>
+		<Value>Bodyguard</Value>
+		<Value>Conscript</Value>
+		<Value>Dragoon</Value>
+		<Value>Mercenary</Value>
+		<Value>Recruit</Value>
+		<Value>Enforcer</Value>
+		<Value>Executioner</Value>
+		<Value>Sentinel</Value>
+		<Value>Fighter</Value>
+		<Value>Gladiator</Value>
+		<Value>Sellsword</Value>
+		<Value>Guard</Value>
+		<Value>Spearman</Value>
+		<Value>Footsoldier</Value>
+		<Value>Sentry</Value>
+		<Value>Squire</Value>
+		<Value>Legionnaire</Value>
+		<Value>Soldier</Value>
+		<Value>Militant</Value>
+		<Value>Man-At-Arms</Value>
+		<Value>Trooper</Value>
+		<Value>Pugilist</Value>
+		<Value>Skirmisher</Value>
+		<Value>Boxer</Value>
+		<Value>Martialist</Value>	
+	</Field>  	
+	<Field Name="HEALER">
+		<Value>Evangelist</Value>
+		<Value>Abbot</Value>
+		<Value>Acolyte</Value>
+		<Value>Adept</Value>
+		<Value>Initiate</Value>
+		<Value>Ambassador</Value>
+		<Value>Bishop</Value>
+		<Value>Pilgrim</Value>
+		<Value>Priest</Value>
+		<Value>Apostate</Value>
+		<Value>Chaplain</Value>
+		<Value>Cardinal</Value>
+		<Value>Cleric</Value>
+		<Value>Exorcist</Value>
+		<Value>Priestess</Value>
+		<Value>Friar</Value>
+		<Value>Monk</Value>
+		<Value>Conefessor</Value>
+		<Value>Student</Value>
+		<Value>Minister</Value>
+		<Value>Neophyte</Value>
+		<Value>Worshiper</Value>
+		<Value>Missionary</Value>
+		<Value>Bloodletter</Value>
+		<Value>Chirurgeon</Value>
+		<Value>Doctor</Value>
+		<Value>Witchdoctor</Value>
+		<Value>Empath</Value>
+		<Value>Healer</Value>
+		<Value>Medic</Value>
+		<Value>Mender</Value>
+		<Value>Shaman</Value>
+		<Value>Surgeon</Value>
+		<Value>Physician</Value>
+		<Value>Druid</Value>
+		<Value>Nurse</Value>
+		<Value>Midwife</Value>
+		<Value>Medicine Man</Value>
+		<Value>Faith Healer</Value>
+		<Value>Wangateur</Value>
+		<Value>Witch Doctor</Value>
+		<Value>Therapist</Value>
+		<Value>Hippocratist</Value>
+		<Value>Galenite</Value>
+		<Value>Humourist</Value>
+		<Value>Practitioner</Value>
+		<Value>Corpsman</Value>
+		<Value>Internist</Value>
+		<Value>Sage</Value>
+		<Value>Pharmacist</Value>	
+	</Field>  
+	<Field Name="ARCHER">
+		<Value>Archer</Value>
+		<Value>Warden</Value>
+		<Value>Lookout</Value>
+		<Value>Outrider</Value>
+		<Value>Hunter</Value>
+		<Value>Wayfarer</Value>
+		<Value>Ranger</Value>
+		<Value>Sharpshooter</Value>
+		<Value>Dervish</Value>
+		<Value>Sniper</Value>
+		<Value>Scout</Value>
+		<Value>Trapper</Value>
+		<Value>Wanderer</Value>
+		<Value>Spy</Value>
+		<Value>Marksman</Value>
+		<Value>Strider</Value>
+		<Value>Naturalist</Value>
+		<Value>Adventurer</Value>
+		<Value>Forester</Value>
+		<Value>Messenger</Value>
+		<Value>Explorer</Value>
+		<Value>Bowman</Value>
+		<Value>Crossbowman</Value>
+		<Value>Longbowman</Value>
+		<Value>Slingman</Value>
+		<Value>Arrowman</Value>
+		<Value>Arbalist</Value>
+		<Value>Janissary</Value>
+		<Value>Bountyhunter</Value>	
+	</Field>  	
+	<Field Name="TOWNSPEOPLE">
+		<Value>Woodcutter</Value>
+		<Value>Caretaker</Value>
+		<Value>Actor</Value>
+		<Value>Assistant</Value>
+		<Value>Entertainer</Value>
+		<Value>Bard</Value>
+		<Value>Maid</Value>
+		<Value>Chambermaid</Value>
+		<Value>Housemaid</Value>
+		<Value>Butler</Value>
+		<Value>Banker</Value>
+		<Value>Pollman</Value>
+		<Value>Salesman</Value>
+		<Value>Denizen</Value>
+		<Value>Native</Value>
+		<Value>Subject</Value>
+		<Value>Villager</Value>
+		<Value>Civilian</Value>
+		<Value>Performer</Value>
+		<Value>Musician</Value>
+		<Value>Minstrel</Value>
+		<Value>Poet</Value>
+		<Value>Prankster</Value>
+		<Value>Prisoner</Value>
+		<Value>Rebel</Value>
+		<Value>Widow</Value>
+		<Value>Servant</Value>
+		<Value>Singer</Value>
+		<Value>Skald</Value>
+		<Value>Spy</Value>
+		<Value>Stranger</Value>
+		<Value>Swindler</Value>
+		<Value>Whistler</Value>
+		<Value>Swordsman</Value>
+		<Value>Troubadour</Value>
+		<Value>Virtuoso</Value>
+		<Value>Bastard</Value>
+		<Value>Peon</Value>
+		<Value>Serf</Value>
+		<Value>Deputy</Value>
+		<Value>Noble</Value>
+		<Value>Nomad</Value>
+		<Value>Tribesman</Value>
+		<Value>Aristocrat</Value>
+		<Value>Bourgeois</Value>
+		<Value>Yeowman</Value>
+		<Value>Page</Value>
+		<Value>Freeman</Value>
+		<Value>Thrall</Value>
+		<Value>Commoner</Value>
+		<Value>Peasant</Value>
+		<Value>Laborer</Value>
+		<Value>Vassal</Value>
+		<Value>Worker</Value>
+		<Value>Herder</Value>
+		<Value>Rat Catcher</Value>
+		<Value>Courtesan</Value>
+		<Value>Fiddler</Value>
+		<Value>Tax Collector</Value>
+		<Value>Peddler</Value>
+		<Value>Haberdasher</Value>
+		<Value>Wench</Value>
+		<Value>Porter</Value>
+		<Value>Traveler</Value>
+		<Value>Spinster</Value>
+		<Value>Transient</Value>
+		<Value>Solicitor</Value>
+		<Value>Stablehand</Value>
+		<Value>Valet</Value>
+		<Value>Harlot</Value>
+		<Value>Dung Carter</Value>
+		<Value>Hermit</Value>
+		<Value>Recluse</Value>
+		<Value>Bum</Value>
+		<Value>Lowlife</Value>
+		<Value>Outcast</Value>
+		<Value>Refugee</Value>
+		<Value>Tramp</Value>
+		<Value>Gypsy</Value>
+		<Value>Immigrant</Value>
+		<Value>Settler</Value>
+		<Value>Migrant</Value>
+		<Value>Outsider</Value>
+		<Value>Squatter</Value>
+		<Value>Drifter</Value>
+		<Value>Citizen</Value>
+		<Value>Houndsman</Value>	
+	</Field>
+  	<Field Name="RANDOMPERSON">
+		<Value>woodcutter</Value>
+		<Value>caretaker</Value>
+		<Value>actor</Value>
+		<Value>assistant</Value>
+		<Value>entertainer</Value>
+		<Value>bard</Value>
+		<Value>maid</Value>
+		<Value>chambermaid</Value>
+		<Value>housemaid</Value>
+		<Value>butler</Value>
+		<Value>banker</Value>
+		<Value>pollman</Value>
+		<Value>salesman</Value>
+		<Value>denizen</Value>
+		<Value>native</Value>
+		<Value>subject</Value>
+		<Value>villager</Value>
+		<Value>civilian</Value>
+		<Value>performer</Value>
+		<Value>musician</Value>
+		<Value>minstrel</Value>
+		<Value>poet</Value>
+		<Value>prankster</Value>
+		<Value>prisoner</Value>
+		<Value>rebel</Value>
+		<Value>widow</Value>
+		<Value>servant</Value>
+		<Value>singer</Value>
+		<Value>skald</Value>
+		<Value>spy</Value>
+		<Value>stranger</Value>
+		<Value>swindler</Value>
+		<Value>whistler</Value>
+		<Value>swordsman</Value>
+		<Value>troubadour</Value>
+		<Value>virtuoso</Value>
+		<Value>bastard</Value>
+		<Value>peon</Value>
+		<Value>serf</Value>
+		<Value>deputy</Value>
+		<Value>noble</Value>
+		<Value>nomad</Value>
+		<Value>tribesman</Value>
+		<Value>aristocrat</Value>
+		<Value>bourgeois</Value>
+		<Value>yeowman</Value>
+		<Value>page</Value>
+		<Value>freeman</Value>
+		<Value>thrall</Value>
+		<Value>commoner</Value>
+		<Value>peasant</Value>
+		<Value>laborer</Value>
+		<Value>vassal</Value>
+		<Value>worker</Value>
+		<Value>herder</Value>
+		<Value>rat catcher</Value>
+		<Value>courtesan</Value>
+		<Value>fiddler</Value>
+		<Value>tax collector</Value>
+		<Value>peddler</Value>
+		<Value>haberdasher</Value>
+		<Value>wench</Value>
+		<Value>porter</Value>
+		<Value>traveler</Value>
+		<Value>spinster</Value>
+		<Value>transient</Value>
+		<Value>solicitor</Value>
+		<Value>stablehand</Value>
+		<Value>valet</Value>
+		<Value>harlot</Value>
+		<Value>dung carter</Value>
+		<Value>hermit</Value>
+		<Value>recluse</Value>
+		<Value>bum</Value>
+		<Value>lowlife</Value>
+		<Value>outcast</Value>
+		<Value>refugee</Value>
+		<Value>tramp</Value>
+		<Value>gypsy</Value>
+		<Value>immigrant</Value>
+		<Value>settler</Value>
+		<Value>migrant</Value>
+		<Value>outsider</Value>
+		<Value>squatter</Value>
+		<Value>drifter</Value>
+		<Value>citizen</Value>
+		<Value>houndsman</Value>	
+	</Field>  	
+	<Field Name="FARMER">
+		<Value>ackerman</Value>
+		<Value>cowherd</Value>
+		<Value>crofter</Value>
+		<Value>dairymaid</Value>
+		<Value>dung carter</Value>
+		<Value>farmer</Value>
+		<Value>gardener</Value>
+		<Value>goatherd</Value>
+		<Value>hawker</Value>
+		<Value>herder</Value>
+		<Value>horse trainer</Value>
+		<Value>plowman</Value>
+		<Value>sheepshearer</Value>
+		<Value>shepherd</Value>
+		<Value>swineherd</Value>
+		<Value>tillerman</Value>
+		<Value>woodcutter</Value>
+		<Value>woolcomber</Value>
+		<Value>woolman</Value>
+		<Value>yeoman</Value>	
+	</Field>  	
+	<Field Name="HUNTER">
+		<Value>falconer</Value>
+		<Value>fewterer</Value>
+		<Value>forester</Value>
+		<Value>gamekeeper</Value>
+		<Value>hawker</Value>
+		<Value>hunter</Value>
+		<Value>huntsman</Value>
+		<Value>master of hounds</Value>
+		<Value>molecatcher</Value>
+		<Value>rat catcher</Value>
+		<Value>trapper</Value>
+		<Value>fisherman</Value>
+		<Value>oyster raker</Value>
+		<Value>seaweed harvester</Value>	
+	</Field>  
+	<Field Name="ARTIST">
+		<Value>artist</Value>
+		<Value>artisan</Value>
+		<Value>fresco painter</Value>
+		<Value>glasspainter</Value>
+		<Value>limner</Value>
+		<Value>painter</Value>
+		<Value>sculptor</Value>	
+	</Field>  
+	<Field Name="WRITER">
+		<Value>composer</Value>
+		<Value>illuminator</Value>
+		<Value>limner</Value>
+		<Value>playwright</Value>
+		<Value>poet</Value>
+		<Value>writer</Value>
+		<Value>author</Value>
+		<Value>editor</Value>
+		<Value>novelist</Value>
+		<Value>reporter</Value>
+		<Value>scribe</Value>
+		<Value>wordsmith</Value>
+		<Value>dramatist</Value>	
+	</Field>  
+	<Field Name="CRAFTSMAN">
+		<Value>shoemaker</Value>
+		<Value>furrier</Value>
+		<Value>tailor</Value>
+		<Value>jeweler</Value>
+		<Value>pastrycook</Value>
+		<Value>mason</Value>
+		<Value>carpenter</Value>
+		<Value>weaver</Value>
+		<Value>chandler</Value>
+		<Value>cooper</Value>
+		<Value>baker</Value>
+		<Value>scabbard maker</Value>
+		<Value>hatmaker</Value>
+		<Value>saddler</Value>
+		<Value>chicken butcher</Value>
+		<Value>purse maker</Value>
+		<Value>meat butcher</Value>
+		<Value>buckle maker</Value>
+		<Value>blacksmith</Value>
+		<Value>roofer</Value>
+		<Value>locksmith</Value>
+		<Value>ropemaker</Value>
+		<Value>tanner</Value>
+		<Value>rugmaker</Value>
+		<Value>harness maker</Value>
+		<Value>bleacher</Value>
+		<Value>cutler</Value>
+		<Value>glover</Value>
+		<Value>cobbler</Value>
+	</Field>  
+	<Field Name="CRAFTSMAN2">
+		<Value>architect</Value>
+		<Value>baker</Value>
+		<Value>basketmaker</Value>
+		<Value>beerbrewer</Value>
+		<Value>bellfounder</Value>
+		<Value>bellmaker</Value>
+		<Value>blockcutter</Value>
+		<Value>bonecarver</Value>
+		<Value>bookbinder</Value>
+		<Value>bookprinter</Value>
+		<Value>brewer</Value>
+		<Value>bricker</Value>
+		<Value>bricklayer</Value>
+		<Value>broomdasher</Value>
+		<Value>buttonmaker</Value>
+		<Value>cabinetmaker</Value>
+		<Value>calligrapher</Value>
+		<Value>canvasser</Value>
+		<Value>cardmaker</Value>
+		<Value>cartographer</Value>
+		<Value>cartwright</Value>
+		<Value>chainmaker</Value>
+		<Value>cheesemaker</Value>
+		<Value>clockmaker</Value>
+		<Value>clothier</Value>
+		<Value>coiner</Value>
+		<Value>combmaker</Value>
+		<Value>compasssmith</Value>
+		<Value>confectioner</Value>
+		<Value>corsetier</Value>
+		<Value>delver</Value>
+		<Value>disher</Value>
+		<Value>draper</Value>
+		<Value>feltmaker</Value>
+		<Value>furniture maker</Value>
+		<Value>gemcutter</Value>
+		<Value>gilder</Value>
+		<Value>glassblower</Value>
+		<Value>glazier</Value>
+		<Value>hatter</Value>
+		<Value>jeweler</Value>
+		<Value>lacemaker</Value>
+		<Value>lanternmaker</Value>
+		<Value>leadworker</Value>
+		<Value>lutemaker</Value>
+		<Value>master builder</Value>
+		<Value>minter</Value>
+		<Value>mintmaster</Value>
+		<Value>mirrorer</Value>
+		<Value>nailmaker</Value>
+		<Value>netmaker</Value>
+		<Value>oilmaker</Value>
+		<Value>perfumer</Value>
+		<Value>quilter</Value>
+		<Value>potter</Value>
+		<Value>rugweaver</Value>
+		<Value>sailmaker</Value>
+		<Value>salter</Value>
+		<Value>sawyer</Value>
+		<Value>shingler</Value>
+		<Value>spinner</Value>
+		<Value>stonecarver</Value>
+		<Value>stonecutter</Value>
+		<Value>threadmaker</Value>
+		<Value>tile maker</Value>
+		<Value>weaver</Value>
+		<Value>wheelwright</Value>	
+	</Field>  
+	<Field Name="MUSICIAN">
+		<Value>bard</Value>
+		<Value>fiddler</Value>
+		<Value>harper</Value>
+		<Value>jongleur</Value>
+		<Value>lutenist</Value>
+		<Value>minstrel</Value>
+		<Value>musician</Value>
+		<Value>piper</Value>
+		<Value>singer</Value>	
+	</Field>  
+	<Field Name="ACTOR">
+		<Value>actor</Value>
+		<Value>bard</Value>
+		<Value>dancer</Value>
+		<Value>jester</Value>
+		<Value>juggler</Value>
+		<Value>mummer</Value>
+		<Value>player</Value>
+		<Value>playwright</Value>
+		<Value>poet</Value>
+		<Value>skald</Value>
+		<Value>storyteller</Value>
+		<Value>troubadour</Value>
+		<Value>tumbler</Value>	
+	</Field>  
+	<Field Name="SMITH">
+		<Value>armorsmith</Value>
+		<Value>arrowsmith</Value>
+		<Value>blacksmith</Value>
+		<Value>bladesmith</Value>
+		<Value>bowyer</Value>
+		<Value>fletcher</Value>
+		<Value>knifesmith</Value>
+		<Value>lancier</Value>
+		<Value>linen-armorer</Value>
+		<Value>mailmaker</Value>
+		<Value>merchant tailor</Value>
+		<Value>poleturner</Value>
+		<Value>scythesmith</Value>
+		<Value>stringer</Value>
+		<Value>swordsmith</Value>
+		<Value>weaponsmith</Value>
+		<Value>buckle maker</Value>
+		<Value>coppersmith</Value>
+		<Value>farrier</Value>
+		<Value>foundryman</Value>
+		<Value>silversmith</Value>
+		<Value>smith</Value>
+		<Value>tinker</Value>
+		<Value>tinsmith</Value>
+	</Field>  
+	<Field Name="BUREAUCRAT">
+		<Value>bureaucrat</Value>
+		<Value>administrator</Value>
+		<Value>civil servant</Value>
+		<Value>functionary</Value>
+		<Value>public servant</Value>
+		<Value>bailiff</Value>
+		<Value>chamberlain</Value>
+		<Value>chancellor</Value>
+		<Value>chancery clerk</Value>
+		<Value>clerk</Value>
+		<Value>cofferer</Value>
+		<Value>hayward</Value>
+		<Value>herald</Value>
+		<Value>seneschal</Value>
+		<Value>tax collector</Value>
+		<Value>toll keeper</Value>	
+	</Field>  
+	<Field Name="SERVICEPERSON">
+		<Value>accountant</Value>
+		<Value>bagger</Value>
+		<Value>bailiff</Value>
+		<Value>barrister</Value>
+		<Value>bartender</Value>
+		<Value>bath attendent</Value>
+		<Value>bodyguard</Value>
+		<Value>bodyservant</Value>
+		<Value>butler</Value>
+		<Value>carter</Value>
+		<Value>chimney sweep</Value>
+		<Value>cook</Value>
+		<Value>courtesan</Value>
+		<Value>ditcher</Value>
+		<Value>diver</Value>
+		<Value>dung carter</Value>
+		<Value>ferryman</Value>
+		<Value>lawyer</Value>
+		<Value>servant</Value>
+		<Value>miller</Value>
+		<Value>porter</Value>
+		<Value>privycleaner</Value>
+		<Value>rat catcher</Value>
+		<Value>scullion</Value>
+		<Value>solicitor</Value>
+		<Value>stabler</Value>
+		<Value>stablehand</Value>
+		<Value>teamster</Value>
+		<Value>valet</Value>
+		<Value>wagoner</Value>
+		<Value>water carrier</Value>
+		<Value>potboy</Value>
+		<Value>gong farmer</Value>
+	</Field>  
+	<Field Name="BIGANIMAL">
+		<Value>bear</Value>
+		<Value>crocodile</Value>
+		<Value>dingo</Value>
+		<Value>drop bear</Value>
+		<Value>gorilla</Value>
+		<Value>grizzly bear</Value>
+		<Value>hippopotamus</Value>
+		<Value>honey badger</Value>
+		<Value>hyena</Value>
+		<Value>leopard</Value>
+		<Value>liger</Value>
+		<Value>lion</Value>
+		<Value>pack of hyenas</Value>
+		<Value>pack of wolves</Value>
+		<Value>pack of dingos</Value>
+		<Value>polar bear</Value>
+		<Value>puma</Value>
+		<Value>rabid giraffe</Value>
+		<Value>rhinoceros</Value>
+		<Value>tiger</Value>
+		<Value>warthog</Value>
+		<Value>wild boar</Value>
+		<Value>wolf</Value>
+		<Value>wolverine</Value>
+		<Value>dragon</Value>
+		<Value>chupacabra</Value>
+		<Value>skunk ape</Value>
+		<Value>catoblepas</Value>	
+	</Field>  
+	<Field Name="QUEST">
+		<Value>Adventure</Value>
+		<Value>Journey</Value>
+		<Value>Voyage</Value>
+		<Value>Travel</Value>	
+	</Field>  
+	<Field Name="ATTACKS">
+		<Value>Assails</Value>
+		<Value>Assaults</Value>
+		<Value>Attacks</Value>
+		<Value>Burglarizes</Value>
+		<Value>Invades</Value>
+		<Value>Pillages</Value>
+		<Value>Plunders</Value>
+		<Value>Raids</Value>
+		<Value>Ravages</Value>
+		<Value>Storms</Value>
+		<Value>Terrorizes</Value>
+	</Field> 
+	<Field Name="ATTACKED">
+		<Value>attacked</Value>
+		<Value>looted</Value>
+		<Value>marauded</Value>
+		<Value>plundered</Value>
+		<Value>raided</Value>
+		<Value>ransacked</Value>
+		<Value>ravaged</Value>
+		<Value>robbed</Value>
+		<Value>sacked</Value>
+	</Field> 	
+	<Field Name="STOLEN">
+		<Value>filched</Value>
+		<Value>hijacked</Value>
+		<Value>misappropriated</Value>
+		<Value>pinched</Value>
+		<Value>poached</Value>
+		<Value>purloined</Value>
+		<Value>robbed</Value>
+		<Value>snatched</Value>
+		<Value>stolen</Value>
+		<Value>swiped</Value>
+	</Field>  
+	<Field Name="STOLE">
+		<Value>"misappropriated"</Value>
+		<Value>absconded with</Value>
+		<Value>embezzled</Value>
+		<Value>made off with</Value>
+		<Value>pilfered</Value>
+		<Value>pinched</Value>
+		<Value>purloined</Value>
+		<Value>ran off with</Value>
+		<Value>snatched</Value>
+		<Value>spirited away with</Value>
+		<Value>stole</Value>
+		<Value>swiped</Value>
+		<Value>walked off with</Value>
+	</Field>  
+	<Field Name="KILL">
+		<Value>assassinate</Value>
+		<Value>destroy</Value>
+		<Value>dispatch</Value>
+		<Value>eliminate</Value>
+		<Value>execute</Value>
+		<Value>kill</Value>
+		<Value>murder</Value>
+		<Value>slaughter</Value>
+		<Value>slay</Value>
+		<Value>stop</Value>
+	</Field>  
+	<Field Name="KILLED">
+		<Value>assassinated</Value>
+		<Value>destroyed</Value>
+		<Value>dispatched</Value>
+		<Value>eliminated</Value>
+		<Value>executed</Value>
+		<Value>killed</Value>
+		<Value>murdered</Value>
+		<Value>slaughtered</Value>
+		<Value>slayed</Value>
+	</Field>  
+	<Field Name="EVIL">
+		<Value>abhorrent</Value>
+		<Value>accursed</Value>
+		<Value>atrocious</Value>
+		<Value>awful</Value>
+		<Value>corrupt</Value>
+		<Value>cruel</Value>
+		<Value>dangerous</Value>
+		<Value>debased</Value>
+		<Value>debauched</Value>
+		<Value>demented</Value>
+		<Value>depraved</Value>
+		<Value>deranged</Value>
+		<Value>deviant</Value>
+		<Value>devilish</Value>
+		<Value>evil</Value>
+		<Value>foul</Value>
+		<Value>grotesque</Value>
+		<Value>hateful</Value>
+		<Value>heinous</Value>
+		<Value>hideous</Value>
+		<Value>infamous</Value>
+		<Value>loathsome</Value>
+		<Value>malevolent</Value>
+		<Value>monstrous</Value>
+		<Value>nasty</Value>
+		<Value>nefarious</Value>
+		<Value>obscene</Value>
+		<Value>pernicious</Value>
+		<Value>perverse</Value>
+		<Value>perverted</Value>
+		<Value>psychopathic</Value>
+		<Value>sick</Value>
+		<Value>sociopathic</Value>
+		<Value>twisted</Value>
+		<Value>vicious</Value>
+		<Value>vile</Value>
+		<Value>villainous</Value>
+		<Value>violent</Value>
+		<Value>wicked</Value>
+		<Value>"misunderstood"</Value>
+		<Value>callous</Value>
+		<Value>diabolical</Value>
+		<Value>heartless</Value>
+		<Value>implacable</Value>
+		<Value>inhumane</Value>
+		<Value>malicious</Value>
+		<Value>remorseless</Value>
+		<Value>ruthless</Value>
+		<Value>sadistic</Value>
+		<Value>savage</Value>
+	</Field>  
+	<Field Name="AN_EVIL_CAPS">
+		<Value>A "misunderstood"</Value>
+		<Value>A barbarous</Value>
+		<Value>A corrupt</Value>
+		<Value>A cruel</Value>
+		<Value>A dangerous</Value>
+		<Value>A debased</Value>
+		<Value>A depraved</Value>
+		<Value>A devilish</Value>
+		<Value>A foul</Value>
+		<Value>A hateful</Value>
+		<Value>A heinous</Value>
+		<Value>A hideous</Value>
+		<Value>A loathsome</Value>
+		<Value>A malevolent</Value>
+		<Value>A monstrous</Value>
+		<Value>A nasty</Value>
+		<Value>A nefarious</Value>
+		<Value>A pernicious</Value>
+		<Value>A perverse</Value>
+		<Value>A sociopathic</Value>
+		<Value>A vicious</Value>
+		<Value>A vile</Value>
+		<Value>A villainous</Value>
+		<Value>A violent</Value>
+		<Value>A wicked</Value>
+		<Value>An abhorrent</Value>
+		<Value>An accursed</Value>
+		<Value>An atrocious</Value>
+		<Value>An awful</Value>
+		<Value>An evil</Value>
+		<Value>An infamous</Value>
+		<Value>An obscene</Value>
+	</Field>
+	<Field Name="AN_EVIL_LOWERCASE">
+		<Value>a "misunderstood"</Value>
+		<Value>a barbarous</Value>
+		<Value>a corrupt</Value>
+		<Value>a cruel</Value>
+		<Value>a dangerous</Value>
+		<Value>a debased</Value>
+		<Value>a depraved</Value>
+		<Value>a devilish</Value>
+		<Value>a foul</Value>
+		<Value>a hateful</Value>
+		<Value>a heinous</Value>
+		<Value>a hideous</Value>
+		<Value>a loathsome</Value>
+		<Value>a malevolent</Value>
+		<Value>a monstrous</Value>
+		<Value>a nasty</Value>
+		<Value>a nefarious</Value>
+		<Value>a pernicious</Value>
+		<Value>a perverse</Value>
+		<Value>a sociopathic</Value>
+		<Value>a vicious</Value>
+		<Value>a vile</Value>
+		<Value>a villainous</Value>
+		<Value>a violent</Value>
+		<Value>a wicked</Value>
+		<Value>an abhorrent</Value>
+		<Value>an accursed</Value>
+		<Value>an atrocious</Value>
+		<Value>an awful</Value>
+		<Value>an evil</Value>
+		<Value>an infamous</Value>
+		<Value>an obscene</Value>
+	</Field>  
+	<Field Name="A_THING_OF_Value">
+		<Value>a black pearl necklace</Value>
+		<Value>a blue diamond</Value>
+		<Value>a large diamond</Value>
+		<Value>a bottle of 50-year-old Port</Value>
+		<Value>a chest of rare foreign cigars</Value>
+		<Value>a child-sized mithril shirt</Value>
+		<Value>a codex of scientific writings</Value>
+		<Value>a family heirloom</Value>
+		<Value>a first-edition novel about some crazy guy who rides on a horse</Value>
+		<Value>a first-edition novel about some guy on a boat</Value>
+		<Value>a first-edition novel</Value>
+		<Value>a gem-encrusted hip flask</Value>
+		<Value>a gemmed chess set</Value>
+		<Value>a historical treaty</Value>
+		<Value>a holy relic</Value>
+		<Value>a limited-edition sword (signed!)</Value>
+		<Value>a limited-edition sword</Value>
+		<Value>a priceless artifact</Value>
+		<Value>a set of painted pewter figurines</Value>
+		<Value>an ancient papyrus</Value>
+		<Value>an archaeological relic</Value>
+		<Value>contraband cigars</Value>
+		<Value>original sheet music</Value>
+		<Value>the Queen's wedding dress</Value>
+		<Value>the Royal Jewels</Value>
+		<Value>the blueprints to the King's Castle</Value>
+		<Value>a small sword that glows blue when goblins are near</Value>
+	</Field>  
+	<Field Name="THING_OF_Value">
+		<Value>Royal Jewels</Value>
+		<Value>ancient papyrus</Value>
+		<Value>archaeological relic</Value>
+		<Value>black pearl necklace</Value>
+		<Value>blue diamond</Value>
+		<Value>blueprints to the King's Castle</Value>
+		<Value>bottle of 50-year-old Port</Value>
+		<Value>chest of rare foreign cigars</Value>
+		<Value>child-sized mithril shirt</Value>
+		<Value>codex of scientific writings</Value>
+		<Value>contraband cigars</Value>
+		<Value>family heirloom</Value>
+		<Value>first-edition novel about some crazy guy who rides on a horse</Value>
+		<Value>first-edition novel about some guy on a boat</Value>
+		<Value>first-edition novel</Value>
+		<Value>gem-encrusted hip flask</Value>
+		<Value>gemmed chess set</Value>
+		<Value>historical treaty</Value>
+		<Value>holy relic</Value>
+		<Value>limited-edition sword (signed!)</Value>
+		<Value>limited-edition sword</Value>
+		<Value>original sheet music</Value>
+		<Value>priceless artifact</Value>
+		<Value>set of painted pewter figurines</Value>
+		<Value>wedding dress</Value>
+		<Value>small sword that glows blue when goblins are near</Value>
+	</Field>  
+	<Field Name="A_VALUABLE_ARTIFACT">
+		<Value>a clay vase filled with untranslated papyrus</Value>
+		<Value>a codex of alchemical formulas</Value>
+		<Value>a copper mechanism with a heavy patina</Value>
+		<Value>a goblet made of a giant's skull</Value>
+		<Value>a long, thin wooden cylinder with a feather core</Value>
+		<Value>a mysterious glowing artifact</Value>
+		<Value>a shiny cylindric sword hilt with a button that does nothing</Value>
+		<Value>a silver goblet belonging to the first King</Value>
+		<Value>a small lightweight device with snaking silver filigree inside</Value>
+		<Value>a strange rock figurine of a pregnant woman</Value>
+		<Value>a weird alien artifact</Value>
+		<Value>a prehistoric handaxe made of obsidian</Value>
+		<Value>an ancient vellum translation of an important religious text</Value>
+		<Value>an illustrated codex of important plants used in alchemy</Value>
+		<Value>an important multi-lingual etched stone</Value>
+		<Value>an unworldy troll skull made of crystal</Value>	
+	</Field>  
+	<Field Name="ASSOCIATE">
+		<Value>affiliate</Value>
+		<Value>ally</Value>
+		<Value>associate</Value>
+		<Value>band</Value>
+		<Value>cohort</Value>
+		<Value>partner</Value>
+		<Value>travel</Value>
+	</Field> 
+	<Field Name="ASSOCIATES">
+		<Value>affiliates</Value>
+		<Value>allies</Value>
+		<Value>associates</Value>
+		<Value>band of misfits</Value>
+		<Value>band of vagrants</Value>
+		<Value>band</Value>
+		<Value>brood of bastards</Value>
+		<Value>cadre</Value>
+		<Value>clan</Value>
+		<Value>cohort</Value>
+		<Value>company of fools</Value>
+		<Value>company</Value>
+		<Value>conclave</Value>
+		<Value>confederates</Value>
+		<Value>council</Value>
+		<Value>covey of connivers</Value>
+		<Value>crew</Value>
+		<Value>gaggle of crooks</Value>
+		<Value>gang of thugs</Value>
+		<Value>gang</Value>
+		<Value>group</Value>
+		<Value>ilk</Value>
+		<Value>ne'er-do-wells</Value>
+		<Value>partners</Value>
+		<Value>thugs</Value>
+		<Value>tribe</Value>
+		<Value>troop of idiots</Value>
+	</Field> 	
+	<Field Name="QUESTGIVER_DESC">
+		<Value>A blustery</Value>
+		<Value>A concerned</Value>
+		<Value>A crying</Value>
+		<Value>A desperate</Value>
+		<Value>A distant</Value>
+		<Value>A distressed</Value>
+		<Value>A foreign</Value>
+		<Value>A frantic</Value>
+		<Value>A friendly</Value>
+		<Value>A frightened</Value>
+		<Value>A local</Value>
+		<Value>A nearby</Value>
+		<Value>A neighboring</Value>
+		<Value>A nervous</Value>
+		<Value>A nosy</Value>
+		<Value>A sobbing</Value>
+		<Value>A terrified</Value>
+		<Value>A travelling</Value>
+		<Value>A vagrant</Value>
+		<Value>A</Value>
+		<Value>An agitated</Value>
+		<Value>An angry</Value>
+		<Value>An upset</Value>
+	</Field>  
+	<Field Name="QUESTGIVER_DESC2">
+		<Value>a blustery</Value>
+		<Value>a concerned</Value>
+		<Value>a crying</Value>
+		<Value>a desperate</Value>
+		<Value>a distant</Value>
+		<Value>a distressed</Value>
+		<Value>a foreign</Value>
+		<Value>a frantic</Value>
+		<Value>a friendly</Value>
+		<Value>a frightened</Value>
+		<Value>a local</Value>
+		<Value>a nearby</Value>
+		<Value>a neighboring</Value>
+		<Value>a nervous</Value>
+		<Value>a nosy</Value>
+		<Value>a sobbing</Value>
+		<Value>a terrified</Value>
+		<Value>a travelling</Value>
+		<Value>a vagrant</Value>
+		<Value>a</Value>
+		<Value>an agitated</Value>
+		<Value>an angry</Value>
+		<Value>an upset</Value>
+	</Field>  	
+	<Field Name="A_BEDRAGGLED">
+		<Value>A bedraggled</Value>
+		<Value>A dingy</Value>
+		<Value>A dirty</Value>
+		<Value>A disheveled</Value>
+		<Value>A disordered</Value>
+		<Value>A dowdy</Value>
+		<Value>A frumpy</Value>
+		<Value>A grungy</Value>
+		<Value>A scruffy</Value>
+		<Value>A sullied</Value>
+		<Value>A threadbare</Value>
+		<Value>An unkempt</Value>
+		<Value>An untidy</Value>
+	</Field>  
+	<Field Name="CITYLOCATION">
+		<Value>abbey</Value>
+		<Value>Alchemists Guild</Value>
+		<Value>Archers Guild</Value>
+		<Value>Artisans Guild</Value>
+		<Value>bar</Value>
+		<Value>barbershop</Value>
+		<Value>beer festival</Value>
+		<Value>brewery</Value>
+		<Value>chapter house</Value>
+		<Value>church</Value>
+		<Value>commons</Value>
+		<Value>concourse</Value>
+		<Value>fair</Value>
+		<Value>farmers market</Value>
+		<Value>Fighters Guild</Value>
+		<Value>grocer</Value>
+		<Value>Guild Hall</Value>
+		<Value>Healers Guild</Value>
+		<Value>inn</Value>
+		<Value>job fair</Value>
+		<Value>Knights Guild</Value>
+		<Value>lodge</Value>
+		<Value>market</Value>
+		<Value>park</Value>
+		<Value>piazza</Value>
+		<Value>plaza</Value>
+		<Value>square</Value>
+		<Value>tavern</Value>
+		<Value>temple</Value>
+		<Value>town hub</Value>
+		<Value>town square</Value>
+		<Value>trade union</Value>
+		<Value>trading center</Value>
+		<Value>village green</Value>
+		<Value>Workers Guild</Value>
+		<Value>hall</Value>
+	</Field>  
+	<Field Name="CITYTYPE">
+		<Value>capital</Value>
+		<Value>city</Value>
+		<Value>colony</Value>
+		<Value>community</Value>
+		<Value>country hamlet</Value>
+		<Value>district</Value>
+		<Value>ghetto</Value>
+		<Value>hamlet</Value>
+		<Value>harbor</Value>
+		<Value>inner city</Value>
+		<Value>large city</Value>
+		<Value>neighborhood</Value>
+		<Value>parish</Value>
+		<Value>precinct</Value>
+		<Value>shire</Value>
+		<Value>small city</Value>
+		<Value>small town</Value>
+		<Value>suburb</Value>
+		<Value>town</Value>
+		<Value>township</Value>
+		<Value>village</Value>
+		<Value>ward</Value>
+	</Field>  
+	<Field Name="REGION">
+		<Value>area</Value>
+		<Value>canton</Value>
+		<Value>country</Value>
+		<Value>county</Value>
+		<Value>domain</Value>
+		<Value>nation</Value>
+		<Value>province</Value>
+		<Value>realm</Value>
+		<Value>region</Value>
+		<Value>territory</Value>
+	</Field>  
+	<Field Name="REQUESTS">
+		<Value>asks</Value>
+		<Value>begs</Value>
+		<Value>demands</Value>
+		<Value>insists</Value>
+		<Value>presses</Value>
+		<Value>requests</Value>
+	</Field>  
+	<Field Name="HISHER">
+		<Value>his</Value>
+		<Value>her</Value>
+	</Field>  
+	<Field Name="HESHE">
+		<Value>He</Value>
+		<Value>She</Value>
+	</Field>  	
+	<Field Name="TRADEGOODS">
+		<Value>avocados</Value>
+		<Value>barrels</Value>
+		<Value>beads</Value>
+		<Value>beautiful maps</Value>
+		<Value>beeswax</Value>
+		<Value>books</Value>
+		<Value>brass sheets</Value>
+		<Value>candles</Value>
+		<Value>canvas</Value>
+		<Value>chalk</Value>
+		<Value>clay</Value>
+		<Value>cloves</Value>
+		<Value>coal</Value>
+		<Value>coffee beans</Value>
+		<Value>cotton</Value>
+		<Value>cows</Value>
+		<Value>crystal vials</Value>
+		<Value>exotic feathers</Value>
+		<Value>expensive dye</Value>
+		<Value>fine paper</Value>
+		<Value>fine twine</Value>
+		<Value>fine wine</Value>
+		<Value>flint</Value>
+		<Value>foreign currency</Value>
+		<Value>foreign linen</Value>
+		<Value>frankincense</Value>
+		<Value>gold leaf</Value>
+		<Value>granite</Value>
+		<Value>guano</Value>
+		<Value>hemp</Value>
+		<Value>horseshoes</Value>
+		<Value>ink</Value>
+		<Value>iron ore</Value>
+		<Value>ivory tusks</Value>
+		<Value>jars</Value>
+		<Value>jasmine</Value>
+		<Value>kittens</Value>
+		<Value>leaded crystal</Value>
+		<Value>leather</Value>
+		<Value>lime</Value>
+		<Value>limes</Value>
+		<Value>mahogany boards</Value>
+		<Value>mandrake root</Value>
+		<Value>maple lumber</Value>
+		<Value>marble</Value>
+		<Value>multi-colored yarn</Value>
+		<Value>nightshade</Value>
+		<Value>oil</Value>
+		<Value>pearls</Value>
+		<Value>pepper</Value>
+		<Value>peppers</Value>
+		<Value>pine tar</Value>
+		<Value>pitch</Value>
+		<Value>puppies</Value>
+		<Value>resin</Value>
+		<Value>rope</Value>
+		<Value>rose water</Value>
+		<Value>saffron</Value>
+		<Value>salt</Value>
+		<Value>sheep</Value>
+		<Value>shovels</Value>
+		<Value>silk</Value>
+		<Value>silver ingots</Value>
+		<Value>silver ore</Value>
+		<Value>silverware</Value>
+		<Value>spices</Value>
+		<Value>steel ingots</Value>
+		<Value>tea</Value>
+		<Value>tobacco</Value>
+		<Value>uncut diamonds</Value>
+		<Value>uncut rubies</Value>
+		<Value>uncut sapphires</Value>
+		<Value>unpainted pewter figurines</Value>
+		<Value>valuable paint</Value>
+		<Value>vanilla</Value>
+		<Value>vellum</Value>
+		<Value>velvet</Value>
+		<Value>vitriol</Value>
+		<Value>whale oil</Value>	
+	</Field>  
+	<Field Name="LIVESAT">
+		<Value>dwells in</Value>
+		<Value>found shelter in</Value>
+		<Value>has gone into hiding at</Value>
+		<Value>has gone underground in</Value>
+		<Value>has settled</Value>
+		<Value>hides in</Value>
+		<Value>is holed-up in</Value>
+		<Value>inhabits</Value>
+		<Value>is lying low in</Value>
+		<Value>is rumored to be at</Value>
+		<Value>lives at</Value>
+		<Value>lives in</Value>
+		<Value>occupies</Value>
+		<Value>resides at</Value>
+		<Value>resides in</Value>
+		<Value>roosts in</Value>
+		<Value>sought shelter at</Value>
+		<Value>squats at</Value>
+		<Value>squats in</Value>
+		<Value>bunks at</Value>
+		<Value>has found lodge at</Value>
+		<Value>has taken root at</Value>
+		<Value>has set up home at</Value>
+		<Value>has set up home in</Value>
+		<Value>has taken up residence at</Value>
+		<Value>has taken up residence in</Value>
+		<Value>has taken cover at</Value>
+		<Value>has set up camp in</Value>
+		<Value>has found shelter at</Value>
+		<Value>has tucked-away at</Value>
+		<Value>has sheltered in</Value>
+		<Value>was spotted at</Value>
+		<Value>was sighted in</Value>
+		<Value>has been located at</Value>
+		<Value>was seen at</Value>
+		<Value>was last seen at</Value>
+	</Field> 
+	<Field Name="FAMILYMEMBER">
+		<Value>aunt</Value>
+		<Value>beau</Value>
+		<Value>beloved</Value>
+		<Value>best friend</Value>
+		<Value>betrothed</Value>
+		<Value>boy</Value>
+		<Value>boyfriend</Value>
+		<Value>brother</Value>
+		<Value>brother-in-law</Value>
+		<Value>cat</Value>
+		<Value>child</Value>
+		<Value>companion</Value>
+		<Value>cousin</Value>
+		<Value>dad</Value>
+		<Value>daddy</Value>
+		<Value>dog</Value>
+		<Value>father</Value>
+		<Value>father-in-law</Value>
+		<Value>favorite escort</Value>
+		<Value>ferret</Value>
+		<Value>girl</Value>
+		<Value>girlfriend</Value>
+		<Value>grammy</Value>
+		<Value>grandfather</Value>
+		<Value>grandma's knitting circle leader</Value>
+		<Value>grandmother</Value>
+		<Value>grandpa</Value>
+		<Value>grandpa's war buddy</Value>
+		<Value>great aunt</Value>
+		<Value>great grandfather</Value>
+		<Value>great grandmother</Value>
+		<Value>great uncle</Value>
+		<Value>horse</Value>
+		<Value>kid</Value>
+		<Value>kitten</Value>
+		<Value>loved-one</Value>
+		<Value>lover</Value>
+		<Value>mistress</Value>
+		<Value>mommy</Value>
+		<Value>mother</Value>
+		<Value>mother-in-law</Value>
+		<Value>mum</Value>
+		<Value>nanna</Value>
+		<Value>nephew</Value>
+		<Value>niece</Value>
+		<Value>papa</Value>
+		<Value>paramour</Value>
+		<Value>partner</Value>
+		<Value>puppy</Value>
+		<Value>second cousin</Value>
+		<Value>sister</Value>
+		<Value>sister's BFF</Value>
+		<Value>sister-in-law</Value>
+		<Value>sweetheart</Value>
+		<Value>third cousin (once removed)</Value>
+		<Value>uncle</Value>
+	</Field> 	
+	<Field Name="CRIMESREAL">
+		<Value>Aggravated Assault</Value>
+		<Value>Aiding and Abetting</Value>
+		<Value>Apostasy</Value>
+		<Value>Arson</Value>
+		<Value>Artwork Theft</Value>
+		<Value>Assault</Value>
+		<Value>Battery</Value>
+		<Value>Bigamy</Value>
+		<Value>Blackmail</Value>
+		<Value>Blasphemy </Value>
+		<Value>Bribery</Value>
+		<Value>Burglary</Value>
+		<Value>Cattle Theft</Value>
+		<Value>Conspiracy</Value>
+		<Value>Contraband</Value>
+		<Value>Corrupting a Public Official</Value>
+		<Value>Defacing Property</Value>
+		<Value>Disorderly Conduct</Value>
+		<Value>Disrupting a House of Worship</Value>
+		<Value>Disturbing the Peace</Value>
+		<Value>Domestic Violence</Value>
+		<Value>Embezzlement</Value>
+		<Value>Espionage</Value>
+		<Value>Extortion</Value>
+		<Value>False Claims of Postal Losses</Value>
+		<Value>Forgery</Value>
+		<Value>Fraud</Value>
+		<Value>Gambling</Value>
+		<Value>Genocide</Value>
+		<Value>Harassment</Value>
+		<Value>Hazing</Value>
+		<Value>Hooliganism</Value>
+		<Value>Horse Theft</Value>
+		<Value>Identity Theft</Value>
+		<Value>Indecent Exposure</Value>
+		<Value>Insurance Fraud</Value>
+		<Value>Kidnapping</Value>
+		<Value>Littering</Value>
+		<Value>Livestock Theft</Value>
+		<Value>Looking Into Another's Window</Value>
+		<Value>Making Threats</Value>
+		<Value>Manslaughter</Value>
+		<Value>Manufacturing Biological Weapons</Value>
+		<Value>Matricide</Value>
+		<Value>Mayhem</Value>
+		<Value>Murder Death Kill</Value>
+		<Value>Murder</Value>
+		<Value>Patricide</Value>
+		<Value>Perjury</Value>
+		<Value>Polygamy</Value>
+		<Value>Public Intoxication</Value>
+		<Value>Riot</Value>
+		<Value>Robbery</Value>
+		<Value>Shoplifting</Value>
+		<Value>Smuggling</Value>
+		<Value>Stalking</Value>
+		<Value>Stealing Pensions</Value>
+		<Value>Tax Evasion</Value>
+		<Value>Theft</Value>
+		<Value>Trespassing</Value>
+		<Value>Truancy</Value>
+		<Value>Unlawful Assembly</Value>
+		<Value>Vagrancy</Value>
+		<Value>Vandalism</Value>
+		<Value>Violation of Zoning Restrictions</Value>
+		<Value>Wildlife Smuggling</Value>
+		<Value>Alectryomachy</Value>
+		<Value>Logomachy</Value>
+		<Value>Tauromachy</Value>
+		<Value>Monomachy</Value>
+	</Field>
+	<Field Name="CRIMESREAL_LOWERCASE">
+		<Value>aggravated assault</Value>
+		<Value>aiding and abetting</Value>
+		<Value>apostasy</Value>
+		<Value>arson</Value>
+		<Value>artwork theft</Value>
+		<Value>assault</Value>
+		<Value>battery</Value>
+		<Value>bigamy</Value>
+		<Value>blackmail</Value>
+		<Value>blasphemy </Value>
+		<Value>bribery</Value>
+		<Value>burglary</Value>
+		<Value>cattle Theft</Value>
+		<Value>conspiracy</Value>
+		<Value>contraband</Value>
+		<Value>corrupting a public official</Value>
+		<Value>defacing property</Value>
+		<Value>disorderly conduct</Value>
+		<Value>disrupting a house of worship</Value>
+		<Value>disturbing the peace</Value>
+		<Value>domestic violence</Value>
+		<Value>embezzlement</Value>
+		<Value>espionage</Value>
+		<Value>extortion</Value>
+		<Value>false claims of postal losses</Value>
+		<Value>forgery</Value>
+		<Value>fraud</Value>
+		<Value>gambling</Value>
+		<Value>genocide</Value>
+		<Value>harassment</Value>
+		<Value>hazing</Value>
+		<Value>hooliganism</Value>
+		<Value>horse theft</Value>
+		<Value>identity theft</Value>
+		<Value>indecent exposure</Value>
+		<Value>insurance fraud</Value>
+		<Value>kidnapping</Value>
+		<Value>littering</Value>
+		<Value>livestock theft</Value>
+		<Value>looking into another's window</Value>
+		<Value>making threats</Value>
+		<Value>manslaughter</Value>
+		<Value>manufacturing biological weapons</Value>
+		<Value>matricide</Value>
+		<Value>mayhem</Value>
+		<Value>murder death kill</Value>
+		<Value>murder</Value>
+		<Value>patricide</Value>
+		<Value>perjury</Value>
+		<Value>polygamy</Value>
+		<Value>public intoxication</Value>
+		<Value>riot</Value>
+		<Value>robbery</Value>
+		<Value>shoplifting</Value>
+		<Value>smuggling</Value>
+		<Value>stalking</Value>
+		<Value>stealing pensions</Value>
+		<Value>tax evasion</Value>
+		<Value>theft</Value>
+		<Value>trespassing</Value>
+		<Value>truancy</Value>
+		<Value>unlawful assembly</Value>
+		<Value>vagrancy</Value>
+		<Value>vandalism</Value>
+		<Value>violation of zoning restrictions</Value>
+		<Value>wildlife smuggling</Value>
+		<Value>alectryomachy</Value>
+		<Value>logomachy</Value>
+		<Value>tauromachy</Value>
+		<Value>monomachy</Value>
+	</Field>  	
+	<Field Name="CRIMESFANTASY">
+		<Value>Carrying a Concealed Dagger Without a Permit</Value>
+		<Value>Cryptomancy</Value>
+		<Value>Dicing</Value>
+		<Value>Dowsing</Value>
+		<Value>Failure to Register as a Necromancer</Value>
+		<Value>Hate Crimes Against Dragonites</Value>
+		<Value>Hate Crimes Against Drooges</Value>
+		<Value>Hate Crimes Against Dwarves</Value>
+		<Value>Hate Crimes Against Elementals</Value>
+		<Value>Hate Crimes Against Elves</Value>
+		<Value>Hate Crimes Against Giants</Value>
+		<Value>Hate Crimes Against Gnomes</Value>
+		<Value>Hate Crimes Against Golems</Value>
+		<Value>Hate Crimes Against Halflings</Value>
+		<Value>Hate Crimes Against Humans</Value>
+		<Value>Hate Crimes Against Kobolds</Value>
+		<Value>Hate Crimes Against Nymphs</Value>
+		<Value>Hate Crimes Against Orcs</Value>
+		<Value>Hate Crimes Against Trolls</Value>
+		<Value>Hate Crimes Against Undead</Value>
+		<Value>Hate Crimes Against Witches</Value>
+		<Value>Hunting in the King's Forest</Value>
+		<Value>Illegal Manufacture and Distribution of Potions</Value>
+		<Value>Illicit Spice Farming</Value>
+		<Value>Insulting the King</Value>
+		<Value>Leaving a Horse Unhitched</Value>
+		<Value>Necromancy</Value>
+		<Value>Nightshade Cultivation</Value>
+		<Value>Practicing Healing Without a License</Value>
+		<Value>Practicing Magic</Value>
+		<Value>Pretending to be a Healer</Value>
+		<Value>Riding a Horse Too Slowly</Value>
+		<Value>Riding a Horse Whilst Drunken</Value>
+		<Value>Shooting Craps</Value>
+		<Value>Silvers Counterfeiting</Value>
+		<Value>Silvers Laundering</Value>
+		<Value>Skullduggery</Value>
+		<Value>Unlawful Practice of Tattooing</Value>
+		<Value>Unlawful Raising of Dead</Value>
+		<Value>Unlawful Use of a Crossbow</Value>
+	</Field>
+	<Field Name="CRIMESFANTASY_LOWERCASE">
+		<Value>carrying a concealed dagger without a permit</Value>
+		<Value>cryptomancy</Value>
+		<Value>dicing</Value>
+		<Value>dowsing</Value>
+		<Value>failure to register as a necromancer</Value>
+		<Value>hate crimes against dragonites</Value>
+		<Value>hate crimes against drooges</Value>
+		<Value>hate crimes against dwarves</Value>
+		<Value>hate crimes against elementals</Value>
+		<Value>hate crimes against elves</Value>
+		<Value>hate crimes against giants</Value>
+		<Value>hate crimes against gnomes</Value>
+		<Value>hate crimes against golems</Value>
+		<Value>hate crimes against halflings</Value>
+		<Value>hate crimes against humans</Value>
+		<Value>hate crimes against kobolds</Value>
+		<Value>hate crimes against nymphs</Value>
+		<Value>hate crimes against orcs</Value>
+		<Value>hate crimes against trolls</Value>
+		<Value>hate crimes against undead</Value>
+		<Value>hate crimes against witches</Value>
+		<Value>hunting in the king's forest</Value>
+		<Value>illegal manufacture and distribution of potions</Value>
+		<Value>illicit spice farming</Value>
+		<Value>insulting the king</Value>
+		<Value>leaving a horse unhitched</Value>
+		<Value>necromancy</Value>
+		<Value>nightshade cultivation</Value>
+		<Value>practicing healing without a license</Value>
+		<Value>practicing magic</Value>
+		<Value>pretending to be a healer</Value>
+		<Value>riding a horse too slowly</Value>
+		<Value>riding a horse whilst drunken</Value>
+		<Value>shooting craps</Value>
+		<Value>silvers counterfeiting</Value>
+		<Value>silvers laundering</Value>
+		<Value>skullduggery</Value>
+		<Value>unlawful practice of tattooing</Value>
+		<Value>unlawful raising of dead</Value>
+		<Value>unlawful use of a crossbow</Value>
+	</Field>  
+	<Field Name="CRIMESFUNNY">
+		<Value>Abuse of Cheese</Value>
+		<Value>Allowing a Domestic Fowl to be at Large</Value>
+		<Value>Chamberpot Hoarding</Value>
+		<Value>Chicanery</Value>
+		<Value>Dandy Brandishing</Value>
+		<Value>Decent Exposure</Value>
+		<Value>Disturbing a Corpse</Value>
+		<Value>Failure to Register a Fire Elemental</Value>
+		<Value>Fig-eating</Value>
+		<Value>Horsejacking</Value>
+		<Value>Keeping a Pet Fire Elemental Within City Limits</Value>
+		<Value>Making Loud Vocalizations</Value>
+		<Value>Misuse of Public Latrines</Value>
+		<Value>Possession of a Greater than 1 oz but Less Than 16 oz of Halfling Pipe Weed with Intent to Distribute</Value>
+		<Value>Profanity in the Presence of Children</Value>
+		<Value>Rascality</Value>
+		<Value>Running an Illicit Three-card Monte Empire</Value>
+		<Value>Selling Illicit Paintings of Kobolds</Value>
+		<Value>Sheep Tickling</Value>
+		<Value>Spitting</Value>
+		<Value>Tethering a Kobold</Value>
+		<Value>Theft of Biscuits</Value>
+		<Value>Tyromancy</Value>
+		<Value>Uncleanliness</Value>
+		<Value>Unlawful Breeding of Forest Gnomes</Value>
+		<Value>Wasting Beer</Value>
+		<Value>Poetomachia</Value>
+		<Value>Psychomachy</Value>
+		<Value>Skiamachy</Value>
+	</Field>
+	<Field Name="CRIMESFUNNY_LOWERCASE">
+		<Value>abuse of cheese</Value>
+		<Value>allowing a domestic fowl to be at large</Value>
+		<Value>chamberpot hoarding</Value>
+		<Value>chicanery</Value>
+		<Value>dandy brandishing</Value>
+		<Value>decent exposure</Value>
+		<Value>disturbing a corpse</Value>
+		<Value>failure to register a fire elemental</Value>
+		<Value>fig-eating</Value>
+		<Value>horsejacking</Value>
+		<Value>keeping a pet fire elemental within city limits</Value>
+		<Value>making loud vocalizations</Value>
+		<Value>misuse of public latrines</Value>
+		<Value>possession of a greater than 1 oz but less than 16 oz of halfling pipe weed with intent to distribute</Value>
+		<Value>profanity in the presence of children</Value>
+		<Value>rascality</Value>
+		<Value>running an illicit three-card monte empire</Value>
+		<Value>selling illicit paintings of kobolds</Value>
+		<Value>sheep tickling</Value>
+		<Value>spitting</Value>
+		<Value>tethering a kobold</Value>
+		<Value>theft of biscuits</Value>
+		<Value>tyromancy</Value>
+		<Value>uncleanliness</Value>
+		<Value>unlawful breeding of forest gnomes</Value>
+		<Value>wasting beer</Value>
+		<Value>poetomachia</Value>
+		<Value>psychomachy</Value>
+		<Value>skiamachy</Value>
+	</Field>  
+	<Field Name="COMMITINGACRIME">
+		<Value>"selling" the town bridge to gullible foreigners</Value>
+		<Value>committing hate crimes against non-humanoids</Value>
+		<Value>committing hate crimes against other humanoid races</Value>
+		<Value>drugging the drinks of unsuspecting patrons at the Inn</Value>
+		<Value>helping prisoners escape</Value>
+		<Value>preaching in the streets</Value>
+		<Value>running an illicit flophouse</Value>
+		<Value>selling snakeoil to gullible citizens</Value>
+		<Value>sneaking into homes and tickling citizen's feet while they sleep</Value>
+		<Value>spiking trees in the woodcutter's forest</Value>
+		<Value>stealing biscuits from the local grocer</Value>
+		<Value>stealing undergarments off laundry lines</Value>
+		<Value>sucker-punching dwarves at the local tavern</Value>
+		<Value>tainting the local water supply</Value>
+		<Value>taunting halflings with really bad puns about their height</Value>
+	</Field>  
+	<Field Name="EMBARASSINGGOSSIP">
+		<Value>a collection of fine women's undergarments</Value>
+		<Value>a signed confession of crimes committed as a youth</Value>
+		<Value>a stash of little blue potions</Value>
+		<Value>an affair with an elf</Value>
+		<Value>alcoholism</Value>
+		<Value>an artbook containing drawings of halfling feet</Value>
+		<Value>an embarrassing tattoo on his nethers</Value>
+		<Value>an extramarital affair with a halfling</Value>
+		<Value>an extramarital affair with a kobold</Value>
+		<Value>keeping an unlicensed fire elemental in his closet</Value>
+		<Value>past history of biscuit theft</Value>
+		<Value>spice addiction</Value>
+		<Value>tax avoidance</Value>
+		<Value>tinkering in necromancy</Value>
+		<Value>tinkering in tyromancy</Value>
+	</Field>  
+	<Field Name="A_GENERICREWARD">
+		<Value>a bounty</Value>
+		<Value>a prized possession</Value>
+		<Value>a reward</Value>
+		<Value>payment</Value>
+		<Value>compensation</Value>
+		<Value>recompense</Value>
+		<Value>gratitude</Value>
+	</Field>  
+	<Field Name="AN_ALCOHOL">
+		<Value>a brown ale</Value>
+		<Value>a cold brew</Value>
+		<Value>a cup of aleberry</Value>
+		<Value>a cup of hot cider</Value>
+		<Value>a fine red wine</Value>
+		<Value>a glass of wine</Value>
+		<Value>a mild ale</Value>
+		<Value>a mug of honey jack</Value>
+		<Value>a mug of warm honey mead</Value>
+		<Value>a pint of lager</Value>
+		<Value>a spiced ale</Value>
+		<Value>a thimble of sake</Value>
+		<Value>an ale</Value>
+		<Value>an imperial stout</Value>
+		<Value>an oatmeal cream stout</Value>
+		<Value>cup of mead</Value>
+		<Value>shots of vodka</Value>
+		<Value>skin of wine</Value>
+		<Value>some really watered-down beer</Value>
+		<Value>some sake</Value>
+		<Value>some spirits</Value>
+	</Field>  
+	<Field Name="ALCOHOL">
+		<Value>ale</Value>
+		<Value>brown ale</Value>
+		<Value>cold brew</Value>
+		<Value>cup of aleberry</Value>
+		<Value>cup of hot cider</Value>
+		<Value>cup of mead</Value>
+		<Value>fine red wine</Value>
+		<Value>glass of wine</Value>
+		<Value>imperial stout</Value>
+		<Value>mild ale</Value>
+		<Value>mug of honey jack</Value>
+		<Value>mug of warm honey mead</Value>
+		<Value>oatmeal cream stout</Value>
+		<Value>pint of lager</Value>
+		<Value>sake</Value>
+		<Value>shots of vodka</Value>
+		<Value>skin of wine</Value>
+		<Value>spiced ale</Value>
+		<Value>spirits</Value>
+		<Value>thimble of sake</Value>
+	</Field>  	
+	<Field Name="THREATENING">
+		<Value>assailing</Value>
+		<Value>attacking</Value>
+		<Value>badgering</Value>
+		<Value>besieging</Value>
+		<Value>bullying</Value>
+		<Value>bullyragging</Value>
+		<Value>disturbing</Value>
+		<Value>harassing</Value>
+		<Value>hassling</Value>
+		<Value>hounding</Value>
+		<Value>intimidating</Value>
+		<Value>molesting</Value>
+		<Value>pestering</Value>
+		<Value>threatening</Value>	
+	</Field>  
+	<Field Name="ASSHOLE">
+		<Value>animal</Value>
+		<Value>asshat</Value>
+		<Value>bad egg</Value>
+		<Value>bastard</Value>
+		<Value>beast</Value>
+		<Value>big meanie</Value>
+		<Value>bigot</Value>
+		<Value>bitter dregs</Value>
+		<Value>blockhead</Value>
+		<Value>bonehead</Value>
+		<Value>boob</Value>
+		<Value>bootlicker</Value>
+		<Value>bozo</Value>
+		<Value>brainless buffoon</Value>
+		<Value>buffoon</Value>
+		<Value>bumpkin</Value>
+		<Value>butter troll</Value>
+		<Value>butthead</Value>
+		<Value>cad</Value>
+		<Value>chicken lover</Value>
+		<Value>chicken</Value>
+		<Value>chowder head</Value>
+		<Value>chump</Value>
+		<Value>churl</Value>
+		<Value>clod</Value>
+		<Value>clodhopper</Value>
+		<Value>clown</Value>
+		<Value>contemptible cad</Value>
+		<Value>country bumpkin</Value>
+		<Value>coward</Value>
+		<Value>craven</Value>
+		<Value>creep</Value>
+		<Value>creepy goat-licker</Value>
+		<Value>cur</Value>
+		<Value>dastard</Value>
+		<Value>degenerate creep</Value>
+		<Value>degenerate</Value>
+		<Value>delinquent</Value>
+		<Value>detestable dirt-eater</Value>
+		<Value>devil</Value>
+		<Value>dingbat</Value>
+		<Value>disgraceful wretch</Value>
+		<Value>donkey</Value>
+		<Value>dope</Value>
+		<Value>dunce</Value>
+		<Value>dunderhead</Value>
+		<Value>dweeb</Value>
+		<Value>evildoer</Value>
+		<Value>fiend</Value>
+		<Value>fink</Value>
+		<Value>fool</Value>
+		<Value>goober</Value>
+		<Value>good-for-nothing</Value>
+		<Value>goon</Value>
+		<Value>hayseed</Value>
+		<Value>heel</Value>
+		<Value>hick</Value>
+		<Value>hoi polloi</Value>
+		<Value>hoodlum</Value>
+		<Value>ignoramus</Value>
+		<Value>immoral fink</Value>
+		<Value>inbred hillbilly</Value>
+		<Value>jerk</Value>
+		<Value>lamebrain</Value>
+		<Value>loathsome malefactor</Value>
+		<Value>louse</Value>
+		<Value>lout</Value>
+		<Value>low-life no-good slimy creep</Value>
+		<Value>lowlife</Value>
+		<Value>lummox</Value>
+		<Value>maggot</Value>
+		<Value>malodorous mucker</Value>
+		<Value>mean dastard</Value>
+		<Value>morbidly obese turd</Value>
+		<Value>motherless swine</Value>
+		<Value>mucker</Value>
+		<Value>musty-smelling scum</Value>
+		<Value>myopic</Value>
+		<Value>nearsighted gynecologist</Value>
+		<Value>nerf herder</Value>
+		<Value>nimrod</Value>
+		<Value>ninny</Value>
+		<Value>noob</Value>
+		<Value>numskull</Value>
+		<Value>oaf</Value>
+		<Value>person of questionable pedigree</Value>
+		<Value>perverse deviant</Value>
+		<Value>pinhead</Value>
+		<Value>poltroon</Value>
+		<Value>pox on society</Value>
+		<Value>rat</Value>
+		<Value>recreant</Value>
+		<Value>redneck</Value>
+		<Value>reprehensible reprobate</Value>
+		<Value>reprobate</Value>
+		<Value>rock-biter</Value>
+		<Value>rube</Value>
+		<Value>sadistic rube</Value>
+		<Value>sap</Value>
+		<Value>scalawag</Value>
+		<Value>scum</Value>
+		<Value>scumbag</Value>
+		<Value>scuzzy chump</Value>
+		<Value>shameful shark</Value>
+		<Value>simpleton</Value>
+		<Value>sleazebag</Value>
+		<Value>sleazy slimeball</Value>
+		<Value>slimeball</Value>
+		<Value>small-minded fart-face</Value>
+		<Value>snake</Value>
+		<Value>son-of-a-goblin</Value>
+		<Value>stinker</Value>
+		<Value>stooge</Value>
+		<Value>toad</Value>
+		<Value>toadie</Value>
+		<Value>troglodyte</Value>
+		<Value>turd burglar</Value>
+		<Value>twerp</Value>
+		<Value>twit</Value>
+		<Value>vile villain</Value>
+		<Value>vulgarian</Value>
+		<Value>weakling</Value>
+		<Value>weirdo</Value>
+		<Value>wimp</Value>
+		<Value>wretch</Value>
+		<Value>wretched rat</Value>
+		<Value>yahoo</Value>
+		<Value>yellowbelly</Value>
+		<Value>yokel</Value>
+		<Value>bottom feeder</Value>
+		<Value>cretin</Value>
+		<Value>jabrony</Value>
+		<Value>loser</Value>
+		<Value>no-good loser</Value>
+		<Value>louse</Value>
+		<Value>goblin lover</Value>
+		<Value>schmuck</Value>
+		<Value>schmoe</Value>
+		<Value>cockroach</Value>
+		<Value>banana bender</Value>
+		<Value>jobber</Value>
+		<Value>cheesehead</Value>
+		<Value>troll</Value>
+		<Value>gutter troll</Value>
+		<Value>gong farmer</Value>
+		<Value>no-good gong farmer</Value>
+		<Value>flatlander</Value>
+		<Value>woolyback</Value>
+		<Value>nose-picker</Value>
+		<Value>snot-eater</Value> 
+		<Value>clamhead</Value>
+		<Value>lamer</Value>
+		<Value>low-life loser</Value>
+		<Value>gonk</Value>
+		<Value>prat</Value>
+		<Value>prattling twit</Value>
+		<Value>plucky loser</Value>
+		<Value>creepy weirdo</Value>
+		<Value>degenerate dreg of society</Value>
+		<Value>butt boil</Value>
+	</Field> 
+	<Field Name="IDIOT">
+		<Value>dimwit</Value>
+		<Value>dolt</Value>
+		<Value>fool</Value>
+		<Value>idiot</Value>
+		<Value>imbecile</Value>
+		<Value>moron</Value>
+		<Value>nitwit</Value>
+		<Value>dunce</Value>
+		<Value>dunderhead</Value>
+		<Value>halfwit</Value>
+		<Value>brainless buffoon</Value>
+		<Value>mindless moron</Value>
+		<Value>foolish dullard</Value>
+		<Value>witless idiot</Value>
+		<Value>witless nitwit</Value>
+	</Field> 	
+	<Field Name="AMBUSHED">
+		<Value>ambushed</Value>
+		<Value>waylaid</Value>
+		<Value>accosted</Value>
+		<Value>bushwhacked</Value>
+		<Value>caught</Value>
+		<Value>captured</Value>
+		<Value>set upon</Value>
+		<Value>ambuscaded</Value>
+		<Value>trapped</Value>
+	</Field>  
+	<Field Name="SHIPMENT">
+		<Value>shipment</Value>
+		<Value>cargo</Value>
+		<Value>parcel</Value>
+		<Value>lot</Value>
+		<Value>package</Value>
+		<Value>load</Value>
+		<Value>payload</Value>
+	</Field>  
+	<Field Name="AN_INFAMOUS_CAPS">
+		<Value>A contemptible</Value>
+		<Value>A corrupt</Value>
+		<Value>A creepy</Value>
+		<Value>A disgraceful</Value>
+		<Value>A knavish</Value>
+		<Value>A loathsome</Value>
+		<Value>A miscreant</Value>
+		<Value>A nefarious</Value>
+		<Value>A notorious</Value>
+		<Value>A questionable</Value>
+		<Value>A salty</Value>
+		<Value>A scandalous</Value>
+		<Value>A shadowy</Value>
+		<Value>A shady</Value>
+		<Value>A sleazy</Value>
+		<Value>A tawdry</Value>
+		<Value>A treacherous</Value>
+		<Value>A two-faced</Value>
+		<Value>A villainous</Value>
+		<Value>A vulgar</Value>
+		<Value>An egregious</Value>
+		<Value>An infamous</Value>
+		<Value>An odious</Value>
+		<Value>An unscrupulous</Value>
+	</Field>  
+	<Field Name="AN_INFAMOUS_LOWERCASE">
+		<Value>a contemptible</Value>
+		<Value>a corrupt</Value>
+		<Value>a creepy</Value>
+		<Value>a disgraceful</Value>
+		<Value>a knavish</Value>
+		<Value>a loathsome</Value>
+		<Value>a miscreant</Value>
+		<Value>a nefarious</Value>
+		<Value>a notorious</Value>
+		<Value>a questionable</Value>
+		<Value>a salty</Value>
+		<Value>a scandalous</Value>
+		<Value>a shadowy</Value>
+		<Value>a shady</Value>
+		<Value>a sleazy</Value>
+		<Value>a tawdry</Value>
+		<Value>a treacherous</Value>
+		<Value>a two-faced</Value>
+		<Value>a villainous</Value>
+		<Value>a vulgar</Value>
+		<Value>an egregious</Value>
+		<Value>an infamous</Value>
+		<Value>an odious</Value>
+		<Value>an unscrupulous</Value>
+	</Field> 	
+	<Field Name="INFAMOUS">
+		<Value>contemptible</Value>
+		<Value>corrupt</Value>
+		<Value>creepy</Value>
+		<Value>disgraceful</Value>
+		<Value>egregious</Value>
+		<Value>infamous</Value>
+		<Value>knavish</Value>
+		<Value>loathsome</Value>
+		<Value>miscreant</Value>
+		<Value>nefarious</Value>
+		<Value>notorious</Value>
+		<Value>odious</Value>
+		<Value>questionable</Value>
+		<Value>salty</Value>
+		<Value>scandalous</Value>
+		<Value>scurvy</Value>
+		<Value>shadowy</Value>
+		<Value>shady</Value>
+		<Value>sleazy</Value>
+		<Value>tawdry</Value>
+		<Value>treacherous</Value>
+		<Value>two-faced</Value>
+		<Value>unscrupulous</Value>
+		<Value>villainous</Value>
+		<Value>vulgar</Value>
+	</Field>  
+	<Field Name="PROPER_NPC_PERSON">
+		<Value>Akt'Thuul the Lich</Value>
+		<Value>Barbafacane the Funky</Value>
+		<Value>Custeaux the Spelunker</Value>
+		<Value>Duke Eisen</Value>
+		<Value>Edain the Explorer</Value>
+		<Value>Jeetoo Bumblefink</Value>
+		<Value>King Idris IV</Value>
+		<Value>Piscaro the Staunch</Value>
+		<Value>Mayor of Nordburg</Value>
+		<Value>Mad Dog McClellan</Value>
+	</Field>  
+	<Field Name="FAMOUS">
+		<Value>acclaimed</Value>
+		<Value>brilliant</Value>
+		<Value>distinguished</Value>
+		<Value>eminent</Value>
+		<Value>exalted</Value>
+		<Value>famous</Value>
+		<Value>honored</Value>
+		<Value>illustrious</Value>
+		<Value>renowned</Value>
+		<Value>reputable</Value>
+		<Value>well-known</Value>
+		<Value>well-renowned</Value>
+		<Value>world-renowned</Value>
+	</Field>  
+	<Field Name="A_FAMOUS_CAPS">
+		<Value>An acclaimed</Value>
+		<Value>A brilliant</Value>
+		<Value>A distinguished</Value>
+		<Value>An eminent</Value>
+		<Value>An exalted</Value>
+		<Value>A famous</Value>
+		<Value>A honored</Value>
+		<Value>An illustrious</Value>
+		<Value>A renowned</Value>
+		<Value>A well-renowned</Value>
+		<Value>A world-renowned</Value>
+		<Value>A reputable</Value>
+		<Value>A well-known</Value>
+	</Field>  		
+	<Field Name="A_FAMOUS">
+		<Value>an acclaimed</Value>
+		<Value>a brilliant</Value>
+		<Value>a distinguished</Value>
+		<Value>an eminent</Value>
+		<Value>an exalted</Value>
+		<Value>a famous</Value>
+		<Value>a honored</Value>
+		<Value>an illustrious</Value>
+		<Value>a renowned</Value>
+		<Value>a well-renowned</Value>
+		<Value>a world-renowned</Value>
+		<Value>a reputable</Value>
+		<Value>a well-known</Value>
+	</Field>  
+	<Field Name="TAVERN">
+		<Value>bar</Value>
+		<Value>brewery</Value>
+		<Value>canteen</Value>
+		<Value>cantina</Value>
+		<Value>drinkery</Value>
+		<Value>lounge</Value>
+		<Value>pub</Value>
+		<Value>rathskeller</Value>
+		<Value>saloon</Value>
+		<Value>tavern</Value>
+		<Value>watering hole</Value>
+		<Value>cocktail lounge</Value>
+		<Value>public house</Value>
+	</Field>  
+	<Field Name="A_MYSTERIOUS_CAPS">
+		<Value>A cryptic</Value>
+		<Value>A mysterious</Value>
+		<Value>A mysterious</Value>
+		<Value>A mysterious</Value> 
+		<Value>A secretive</Value>
+		<Value>A strange</Value>
+		<Value>An arcane</Value>
+		<Value>An eerie</Value>
+		<Value>An enigmatic</Value>
+		<Value>An esoteric</Value>
+		<Value>An inscrutable</Value>
+		<Value>An uncanny</Value>	
+	</Field>
+		<Field Name="A_MYSTERIOUS_LOWERCASE">
+		<Value>a cryptic</Value>
+		<Value>a mysterious</Value>
+		<Value>a mysterious</Value>
+		<Value>a mysterious</Value>
+		<Value>a secretive</Value>
+		<Value>a strange</Value>
+		<Value>an arcane</Value>
+		<Value>an eerie</Value>
+		<Value>an enigmatic</Value>
+		<Value>an esoteric</Value>
+		<Value>an inscrutable</Value>
+		<Value>an uncanny</Value>	
+	</Field>  
+	<Field Name="MYSTERIOUS">
+		<Value>abnormal</Value>
+		<Value>arcane</Value>
+		<Value>baffling</Value>
+		<Value>bizarre</Value>
+		<Value>cryptic</Value>
+		<Value>curious</Value>
+		<Value>eerie</Value>
+		<Value>enigmatic</Value>
+		<Value>esoteric</Value>
+		<Value>extraordinary</Value>
+		<Value>inexplicable</Value>
+		<Value>mysterious</Value>
+		<Value>mystifying</Value>
+		<Value>peculiar</Value>
+		<Value>perplexing</Value>
+		<Value>puzzling</Value>
+		<Value>secretive</Value>
+		<Value>strange</Value>
+		<Value>uncanny</Value>
+		<Value>weird</Value>
+	</Field> 
+	<Field Name="GUILD">
+		<Value>Adventurers Guild</Value>
+		<Value>Alchemists Guild</Value>
+		<Value>Archers Guild</Value>
+		<Value>Artisans Guild</Value>
+		<Value>Bounty Hunters Guild</Value>
+		<Value>Dock Workers Guild</Value>
+		<Value>Explorers Guild</Value>
+		<Value>Fighters Guild</Value>
+		<Value>Gladiators Guild</Value>
+		<Value>Healers Guild</Value>
+		<Value>Laborers Guild</Value>
+		<Value>Mages Guild</Value>
+		<Value>Mariners Guild</Value>
+		<Value>Mercenaries Guild</Value>
+		<Value>Paladins Guild</Value>
+		<Value>Rogues Guild</Value>
+		<Value>Spice Conglomerate</Value>
+		<Value>Miners Guild</Value>
+	</Field> 	
+	<Field Name="RACIALGUILD">
+		<Value>Barbarian Throng</Value>
+		<Value>Dark Elf Coterie</Value>
+		<Value>Dragonite Lounge</Value>
+		<Value>Dwarven Synod</Value>
+		<Value>Elven Conclave</Value>
+		<Value>Greater Association of Lyraen Gnomes</Value>
+		<Value>Halfling Authority</Value>
+		<Value>High Elf Council</Value>
+		<Value>Highborn Directorate</Value>
+		<Value>Hissling Lounge</Value>
+		<Value>Hobgoblin-Goblin-Knobgoblin Kindred Assemblage</Value>
+		<Value>Human Coalition of Haven</Value>
+		<Value>Imperial Advisors</Value>
+		<Value>Ministry of the Prophet of Sorrows</Value>
+		<Value>Society for the Prevention of Cruelty to Non-humanoids</Value>
+		<Value>United Humanists of Lyrae</Value>
+		<Value>Vultare Venue</Value>
+		<Value>Wood Elf Conclave</Value>
+	</Field>  
+	<Field Name="STORE">
+		<Value>bazaar</Value>
+		<Value>boutique</Value>
+		<Value>emporium</Value>
+		<Value>flea market</Value>
+		<Value>galleria</Value>
+		<Value>market</Value>
+		<Value>marketplace</Value>
+		<Value>pawn shop</Value>
+		<Value>shop</Value>
+		<Value>store</Value>
+		<Value>street market</Value>
+		<Value>thrift store</Value>
+	</Field>  
+	<Field Name="KILLING">
+		<Value>assassinating</Value>
+		<Value>dispatching</Value>
+		<Value>eliminating</Value>
+		<Value>eradicating</Value>
+		<Value>executing</Value>
+		<Value>exterminating</Value>
+		<Value>killing</Value>
+		<Value>murdering</Value>
+		<Value>obliterating</Value>
+		<Value>offing</Value>
+		<Value>slaughtering</Value>
+		<Value>slaying</Value>
+	</Field>  
+	<Field Name="CRIMINAL">
+		<Value>criminal</Value>
+		<Value>culprit</Value>
+		<Value>delinquent</Value>
+		<Value>desperado</Value>
+		<Value>fugitive</Value>
+		<Value>hood</Value>
+		<Value>hoodlum</Value>
+		<Value>hooligan</Value>
+		<Value>lawbreaker</Value>
+		<Value>offender</Value>
+		<Value>outlaw</Value>
+		<Value>scofflaw</Value>
+		<Value>thug</Value>
+		<Value>wrongdoer</Value>
+	</Field>  
+	<Field Name="SKILLED">
+		<Value>adept</Value>
+		<Value>adroit</Value>
+		<Value>apt</Value>
+		<Value>capable</Value>
+		<Value>competent</Value>
+		<Value>experienced</Value>
+		<Value>expert</Value>
+		<Value>practiced</Value>
+		<Value>proficient</Value>
+		<Value>qualified</Value>
+		<Value>seasoned</Value>
+		<Value>skilled</Value>
+		<Value>well-honed</Value>
+		<Value>talented</Value>
+		<Value>elite</Value>
+	</Field>  
+	<Field Name="A_SKILLED_CAPS">
+		<Value>An adept</Value>
+		<Value>An adroit</Value>
+		<Value>An apt</Value>
+		<Value>A capable</Value>
+		<Value>A competent</Value>
+		<Value>An experienced</Value>
+		<Value>An expert</Value>
+		<Value>A practiced</Value>
+		<Value>A proficient</Value>
+		<Value>A qualified</Value>
+		<Value>A seasoned</Value>
+		<Value>A skilled</Value>
+		<Value>A well-honed</Value>
+		<Value>A talented</Value>
+	</Field>
+	<Field Name="A_SKILLED_LOWERCASE">
+		<Value>an adept</Value>
+		<Value>an adroit</Value>
+		<Value>an apt</Value>
+		<Value>a capable</Value>
+		<Value>a competent</Value>
+		<Value>an experienced</Value>
+		<Value>an expert</Value>
+		<Value>a practiced</Value>
+		<Value>a proficient</Value>
+		<Value>a qualified</Value>
+		<Value>a seasoned</Value>
+		<Value>a skilled</Value>
+		<Value>a well-honed</Value>
+		<Value>a talented</Value>
+	</Field>  	
+	<Field Name="BUTT">
+		<Value>backside</Value>
+		<Value>behind</Value>
+		<Value>bottom</Value>
+		<Value>bum</Value>
+		<Value>buns</Value>
+		<Value>buttocks</Value>
+		<Value>derriere</Value>
+		<Value>heinie</Value>
+		<Value>keister</Value>
+		<Value>posterior</Value>
+		<Value>rear end</Value>
+		<Value>rear</Value>
+		<Value>rump</Value>
+		<Value>tush</Value>
+		<Value>butt</Value>
+	</Field>  
+	<Field Name="DESERTER">
+		<Value>deserter</Value>
+		<Value>defector</Value>
+		<Value>escapee</Value>
+		<Value>absconder</Value>
+		<Value>derelict</Value>
+		<Value>recreant</Value>
+		<Value>renegade</Value>
+		<Value>runaway</Value>
+		<Value>shirker</Value>
+		<Value>traitor</Value>
+		<Value>turncoat</Value>
+	</Field>  
+	<Field Name="SCHOLAR">
+		<Value>academic</Value>
+		<Value>docent</Value>
+		<Value>educator</Value>
+		<Value>instructor</Value>
+		<Value>intellectual</Value>
+		<Value>lecturer</Value>
+		<Value>pedagogue</Value>
+		<Value>philosopher</Value>
+		<Value>professor</Value>
+		<Value>sage</Value>
+		<Value>scholar</Value>	
+	</Field>  
+	<Field Name="A_QUEST">
+		<Value>a considerable task</Value>
+		<Value>a critical task</Value>
+		<Value>a dangerous job</Value>
+		<Value>a job</Value>
+		<Value>a quest</Value>
+		<Value>a serious task</Value>
+		<Value>a task</Value>
+		<Value>an assignment</Value>
+		<Value>an important quest</Value>
+		<Value>an opportunity</Value>
+		<Value>an undertaking</Value>
+		<Value>an urgent assignment</Value>
+		<Value>employment</Value>
+		<Value>serious work</Value>
+		<Value>work</Value>
+	</Field> 
+	<Field Name="JOB">
+		<Value>task</Value>
+		<Value>dangerous job</Value>
+		<Value>job</Value>
+		<Value>quest</Value>
+		<Value>assignment</Value>
+		<Value>important quest</Value>
+		<Value>opportunity</Value>
+		<Value>undertaking</Value>
+		<Value>mission</Value>
+	</Field> 	
+	<Field Name="POLICE">
+		<Value>constable</Value>
+		<Value>constabulary</Value>
+		<Value>deputy</Value>
+		<Value>lawman</Value>
+		<Value>marshal</Value>
+		<Value>police</Value>
+		<Value>sheriff</Value>
+		<Value>law</Value>
+		<Value>sheriff's deputy</Value>
+		<Value>local constabulary</Value>
+		<Value>local sheriff</Value>
+		<Value>local constabulary</Value>
+		<Value>regional constabulary</Value>
+		<Value>Lyraen Marshal Service</Value>
+		<Value>Lyraen Bureau of Investigation</Value>
+		<Value>Lyraen Intelligence Service</Value>
+	</Field>  
+	<Field Name="CRIME">
+		<Value>crime</Value>
+		<Value>infraction</Value>
+		<Value>misdeed</Value>
+		<Value>transgression</Value>
+		<Value>violation</Value>
+		<Value>offense</Value>
+	</Field>  
+	<Field Name="CURSE">
+		<Value>a compulsion to steal biscuits</Value>
+		<Value>growth of a second head</Value>
+		<Value>a short attention span</Value>
+		<Value>growth of a sixth finger</Value>
+		<Value>bad luck</Value>
+		<Value>bleeding eyes</Value>
+		<Value>blinding stupidity</Value>
+		<Value>blindness</Value>
+		<Value>boils</Value>
+		<Value>boils, warts, zits, and festering sores</Value>
+		<Value>deafness</Value>
+		<Value>growing donkey ears</Value>
+		<Value>festering sores</Value>
+		<Value>forgetfulness</Value>
+		<Value>gnarled hands</Value>
+		<Value>homicidal tendencies</Value>
+		<Value>horrible body odor</Value>
+		<Value>massive hair growth</Value>
+		<Value>massive weight gain</Value>
+		<Value>muteness</Value>
+		<Value>passive-aggressiveness</Value>
+		<Value>spice addiction</Value>
+		<Value>stupidity</Value>
+		<Value>uncontrollable yawning</Value>
+		<Value>uncontrollable yelling</Value>
+		<Value>warts</Value>
+		<Value>zits</Value>
+		<Value>unpoppable zits</Value>
+		<Value>old age</Value>
+	</Field>  
+	<Field Name="FINDING">
+		<Value>finding</Value>
+		<Value>going after</Value>
+		<Value>hunting down</Value>
+		<Value>locating</Value>
+		<Value>running down</Value>
+		<Value>searching out</Value>
+		<Value>seeking out</Value>
+		<Value>sniffing out</Value>
+		<Value>tracking down</Value>
+		<Value>worming out</Value>
+	</Field>  
+	<Field Name="POWERFUL">
+		<Value>capable</Value>
+		<Value>dominant</Value>
+		<Value>fierce</Value>
+		<Value>mighty</Value>
+		<Value>powerful</Value>
+		<Value>staunch</Value>
+		<Value>stern</Value>
+		<Value>strong</Value>
+	</Field>  
+	<Field Name="CRAZY">
+		<Value>batty</Value>
+		<Value>crazy</Value>
+		<Value>cuckoo</Value>
+		<Value>insane</Value>
+		<Value>loony</Value>
+		<Value>mad</Value>
+		<Value>mentally unstable</Value>
+		<Value>mentally volatile</Value>
+		<Value>nuts</Value>
+		<Value>off-the-rocker</Value>
+		<Value>psychotic</Value>
+		<Value>unhinged</Value>
+	</Field>  
+	<Field Name="KIND">
+		<Value>beneficent</Value>
+		<Value>benevolent</Value>
+		<Value>bighearted</Value>
+		<Value>high-minded</Value>
+		<Value>kind</Value>
+		<Value>kindly</Value>
+		<Value>magnanimous</Value>
+		<Value>noble</Value>
+		<Value>principled</Value>
+		<Value>righteous</Value>
+		<Value>selfless</Value>
+		<Value>virtuous</Value>
+	</Field>  
+	<Field Name="CHARISMATIC">
+		<Value>affable</Value>
+		<Value>alluring</Value>
+		<Value>amiable</Value>
+		<Value>charismatic</Value>
+		<Value>charming</Value>
+		<Value>cordial</Value>
+		<Value>friendly</Value>
+		<Value>likable</Value>
+	</Field>  
+	<Field Name="PRISONER">
+		<Value>captive</Value>
+		<Value>convict</Value>
+		<Value>jailbird</Value>
+		<Value>prisoner</Value>	
+	</Field>  
+	<Field Name="CONTRABAND_CAPS">
+		<Value>Contraband</Value>
+		<Value>Moonshine</Value>
+		<Value>Spice</Value>
+		<Value>Fire elemental</Value>
+		<Value>Kobold</Value>
+		<Value>Slave</Value>
+	</Field> 
+	<Field Name="CONTRABAND_LOWERCASE">
+		<Value>contraband</Value>
+		<Value>moonshine</Value>
+		<Value>spice</Value>
+		<Value>fire elemental</Value>
+		<Value>kobold</Value>
+		<Value>slave</Value>
+	</Field> 	
+	<Field Name="LOYAL">
+		<Value>ardent</Value>
+		<Value>committed</Value>
+		<Value>dedicated</Value>
+		<Value>dependable</Value>
+		<Value>devoted</Value>
+		<Value>devout</Value>
+		<Value>dutiful</Value>
+		<Value>faithful</Value>
+		<Value>loyal</Value>
+		<Value>nationalistic</Value>
+		<Value>patriotic</Value>
+		<Value>staunch</Value>
+		<Value>steadfast</Value>
+		<Value>trustworthy</Value>
+	</Field> 	
+	<Field Name="DISEASE">
+		<Value>Black Water fever</Value>
+		<Value>Grocer's Itch</Value>
+		<Value>King's Evil</Value>
+		<Value>ablepsy</Value>
+		<Value>ague</Value>
+		<Value>aphtha</Value>
+		<Value>bilious fever</Value>
+		<Value>black fever</Value>
+		<Value>black pox</Value>
+		<Value>breakbone fever</Value>
+		<Value>cancer</Value>
+		<Value>chorea</Value>
+		<Value>cold plague</Value>
+		<Value>consumption</Value>
+		<Value>costiveness</Value>
+		<Value>cramp colic</Value>
+		<Value>distemper</Value>
+		<Value>dock fever</Value>
+		<Value>dropsy of the brain</Value>
+		<Value>dropsy</Value>
+		<Value>dry bellyache</Value>
+		<Value>falling sickness</Value>
+		<Value>heart disease</Value>
+		<Value>hepatitis</Value>
+		<Value>leprosy</Value>
+		<Value>lumbago</Value>
+		<Value>lupus</Value>
+		<Value>marasmus</Value>
+		<Value>milk fever</Value>
+		<Value>milk leg</Value>
+		<Value>mormal</Value>
+		<Value>morphew</Value>
+		<Value>mortification</Value>
+		<Value>puking fever</Value>
+		<Value>rabies</Value>
+		<Value>scrivener's palsy</Value>
+		<Value>scurvy</Value>
+		<Value>shakes</Value>
+		<Value>the black shakes</Value>
+		<Value>the bloody flux</Value>
+		<Value>the bloody sweats</Value>
+		<Value>the grippe</Value>
+		<Value>the miasma</Value>
+		<Value>the palsy</Value>
+		<Value>the shakes</Value>
+		<Value>trench mouth</Value>
+		<Value>ulcerative colitis</Value>
+		<Value>unbalanced humors</Value>
+		<Value>viper's dance</Value>
+		<Value>winter fever</Value>
+		<Value>worm fit</Value>
+	</Field>  
+	<Field Name="CHAOTIC">
+		<Value>anarchic</Value>
+		<Value>chaotic</Value>
+		<Value>discordant</Value>
+		<Value>lawless</Value>
+		<Value>tumultuous</Value>
+		<Value>turbulent</Value>
+		<Value>unruly</Value>
+	</Field>  
+	<Field Name="ORDER">
+		<Value>calm</Value>
+		<Value>control</Value>
+		<Value>law and order</Value>
+		<Value>law</Value>
+		<Value>order</Value>
+		<Value>peace</Value>
+	</Field>  
+	<Field Name="CHAOS">
+		<Value>anarchy</Value>
+		<Value>bedlam</Value>
+		<Value>chaos</Value>
+		<Value>disarray</Value>
+		<Value>discord</Value>
+		<Value>disorder</Value>
+		<Value>lawlessness</Value>
+		<Value>pandemonium</Value>
+		<Value>tumult</Value>
+		<Value>turmoil</Value>
+	</Field>  
+	<Field Name="RECENTLY">
+		<Value>A couple of years ago</Value>
+		<Value>A few months ago</Value>
+		<Value>A few years ago</Value>
+		<Value>A short while ago</Value>
+		<Value>In recent past</Value>
+		<Value>In recent times</Value>
+		<Value>Many years ago</Value>
+		<Value>Not long ago</Value>
+		<Value>Recently</Value>
+		<Value>Several months ago</Value>
+		<Value>Several years ago</Value>
+	</Field>  
+	<Field Name="A_LONG_TIME_AGO">
+		<Value>A long time ago</Value>
+		<Value>Decades ago</Value>
+		<Value>In days past</Value>
+		<Value>In times past</Value>
+		<Value>In years past</Value>
+		<Value>Long ago</Value>
+		<Value>Many years ago</Value>
+		<Value>Years ago</Value>
+	</Field>  
+	<Field Name="VENGEANCE">
+		<Value>avengement</Value>
+		<Value>punishment</Value>
+		<Value>reprisal</Value>
+		<Value>retaliation</Value>
+		<Value>retribution</Value>
+		<Value>revenge</Value>
+		<Value>vengeance</Value>
+		<Value>payback</Value>
+	</Field>  
+	<Field Name="NAIVE">
+		<Value>dupable</Value>
+		<Value>foolish</Value>
+		<Value>guileless</Value>
+		<Value>idealistic</Value>
+		<Value>inexperienced</Value>
+		<Value>innocent</Value>
+		<Value>naive</Value>
+		<Value>unworldly</Value>
+		<Value>wide-eyed</Value>
+	</Field>  	
+	<Field Name="DISGRACED">
+		<Value>besmirched</Value>
+		<Value>defamed</Value>
+		<Value>disgraced</Value>
+		<Value>dishonored</Value>
+		<Value>shamed</Value>
+		<Value>sullied</Value>	
+	</Field>	
+  </Story_Fields>
+</Story_Generator>

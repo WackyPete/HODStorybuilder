@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>Village</Group>
+  <Story>[BOSSNAME] was [AYOUNG] {BOSSRACE} with few [PROSPECTS] and little [ASPIRATIONS] for {BOSSHISHER} future. [BOSSHESHE] [LIVED] in the [GHETTO] of Nordburg, and [LIKE] many of {BOSSHISHER} friends, was addicted to spice. &#xD;
+&#xD;
+After one too many [ENCOUNTERS] with the [POLICE], [BOSSNAME] managed to kick {BOSSHISHER} spice habit, moved to the more-[UPSCALE] [TOWN] of Bradley Stoke, found [EMPLOYMENT] at [A_CRAFTSMAN]'s shop, and [BEGAN] {BOSSTYPE} training. Things were looking up for [BOSSNAME], but all this changed when {BOSSHISHER} old [FRIENDS] [SHOWED] at {BOSSHISHER} front door. &#xD;
+&#xD;
+The [GANG] was [FOLLOWING] the trail of a large [SHIPMENT] of [UNGUARDED] spice and needed {BOSSHISHER} [HELP] to [PULLOFF] a [HEIST]. Compelled to [OBLIGE] {BOSSHISHER} old comrades, [BOSSNAME] [RELUCTANTLY] agreed. &#xD;
+&#xD;
+The [HEISTX] was successful, but not without [GREAT] cost; all of {BOSSHISHER} friends were [KILLED] by the [UNEXPECTED] [APPEARANCEX] of Spice [SYNDICATE] [THUGS]. [BOSSNAME] was left alone with a [LARGE] [AMOUNT] of unsellable spice. &#xD;
+&#xD;
+The Spice [SYNDICATE] now needs your assistance to [RECOVER] their product, and [BOSSNAME] needs to be made an example of. [BOSSNAME] [LIVESAT] [MAPNAME] with {A_GROUP_OF} [DRUGADDLED] {MINIONRACES}. You will be rewarded with {REWARDNAME} for completing this [JOB].</Story>
+  <Story_Fields>
+    <Field Name="AMOUNT">
+      <Value>amount</Value>
+      <Value>stash</Value>
+      <Value>cache</Value>
+      <Value>trove</Value>
+    </Field>
+    <Field Name="LARGE">
+      <Value>large</Value>
+      <Value>huge</Value>
+    </Field>
+    <Field Name="APPEARANCEX">
+      <Value>appearance</Value>
+      <Value>arrival</Value>
+    </Field>
+    <Field Name="RELUCTANTLY">
+      <Value>reluctantly</Value>
+      <Value>hesitantly</Value>
+    </Field>
+    <Field Name="FOLLOWING">
+      <Value>on</Value>
+      <Value>following</Value>
+    </Field>
+    <Field Name="ENCOUNTERS">
+      <Value>encounters</Value>
+      <Value>confrontations</Value>
+      <Value>brushes</Value>
+    </Field>
+    <Field Name="LIKE">
+      <Value>like</Value>
+      <Value>along with</Value>
+    </Field>
+    <Field Name="UNEXPECTED">
+      <Value>unexpected</Value>
+      <Value>abrupt</Value>
+      <Value>unforseen</Value>
+    </Field>
+    <Field Name="THUGS">
+      <Value>thugs</Value>
+      <Value>gangsters</Value>
+      <Value>hoons</Value>
+      <Value>mobsters</Value>
+    </Field>
+    <Field Name="DRUGADDLED">
+      <Value>spice-addled</Value>
+      <Value>spice-addicted</Value>
+      <Value>debased</Value>
+      <Value>degenerate</Value>
+    </Field>
+    <Field Name="SYNDICATE">
+      <Value>Syndicate</Value>
+      <Value>Cartel</Value>
+      <Value>Conglomerate</Value>
+    </Field>
+    <Field Name="GREAT">
+      <Value>great</Value>
+      <Value>considerable</Value>
+      <Value>a tremendous</Value>
+      <Value>a terrible</Value>
+    </Field>
+    <Field Name="HEISTX">
+      <Value>heist</Value>
+      <Value>job</Value>
+      <Value>theft</Value>
+    </Field>
+    <Field Name="OBLIGE">
+      <Value>oblige</Value>
+      <Value>accomodate</Value>
+      <Value>please</Value>
+      <Value>gratify</Value>
+      <Value>aid</Value>
+      <Value>assist</Value>
+    </Field>
+    <Field Name="HEIST">
+      <Value>heist</Value>
+      <Value>theft</Value>
+      <Value>robbery</Value>
+    </Field>
+    <Field Name="PULLOFF">
+      <Value>pull off</Value>
+      <Value>carry out</Value>
+    </Field>
+    <Field Name="UNGUARDED">
+      <Value>unguarded</Value>
+      <Value>unprotected</Value>
+    </Field>
+    <Field Name="GANG">
+      <Value>gang</Value>
+      <Value>group</Value>
+      <Value>crew</Value>
+    </Field>
+    <Field Name="SHOWED">
+      <Value>showed up</Value>
+      <Value>appeared</Value>
+      <Value>turned up</Value>
+    </Field>
+    <Field Name="FRIENDS">
+      <Value>friends</Value>
+      <Value>associates</Value>
+      <Value>companions</Value>
+    </Field>
+    <Field Name="BEGAN">
+      <Value>began</Value>
+      <Value>started</Value>
+    </Field>
+    <Field Name="EMPLOYMENT">
+      <Value>employment</Value>
+      <Value>work</Value>
+      <Value>a job</Value>
+    </Field>
+    <Field Name="UPSCALE">
+      <Value>upscale</Value>
+      <Value>posh</Value>
+      <Value>chic</Value>
+      <Value>swank</Value>
+    </Field>
+    <Field Name="TOWN">
+      <Value>town</Value>
+      <Value>city</Value>
+      <Value>village</Value>
+    </Field>
+    <Field Name="GHETTO">
+      <Value>ghetto</Value>
+      <Value>slum</Value>
+    </Field>
+    <Field Name="LIVED">
+      <Value>lived</Value>
+      <Value>resided</Value>
+      <Value>bunked</Value>
+      <Value>slummed</Value>
+    </Field>
+    <Field Name="ASPIRATIONS">
+      <Value>aspirations</Value>
+      <Value>ambitions</Value>
+      <Value>goals</Value>
+    </Field>
+    <Field Name="PROSPECTS">
+      <Value>prospects</Value>
+      <Value>hopes</Value>
+      <Value>expectations</Value>
+    </Field>
+    <Field Name="AYOUNG">
+      <Value>a young</Value>
+      <Value>a callow</Value>
+      <Value>an unsophisticated</Value>
+      <Value>an underachieving</Value>
+    </Field>
+    <Field Name="A_CRAFTSMAN">
+      <Value>a shoemaker</Value>
+      <Value>a furrier</Value>
+      <Value>a tailor</Value>
+      <Value>a jeweler</Value>
+      <Value>a pastrycook</Value>
+      <Value>a mason</Value>
+      <Value>a carpenter</Value>
+      <Value>a weaver</Value>
+      <Value>a chandler</Value>
+      <Value>a cooper</Value>
+      <Value>a baker</Value>
+      <Value>a scabbard maker</Value>
+      <Value>a hatmaker</Value>
+      <Value>a saddler</Value>
+      <Value>a chicken butcher</Value>
+      <Value>a purse maker</Value>
+      <Value>a meat butcher</Value>
+      <Value>a buckle maker</Value>
+      <Value>a blacksmith</Value>
+      <Value>a locksmith</Value>
+      <Value>a ropemaker</Value>
+      <Value>a tanner</Value>
+      <Value>a rugmaker</Value>
+      <Value>a harness maker</Value>
+      <Value>a cutler</Value>
+      <Value>a glover</Value>
+      <Value>a cobbler</Value>
+    </Field>
+    <Field Name="KILLED">
+      <Value>assassinated</Value>
+      <Value>eliminated</Value>
+      <Value>executed</Value>
+      <Value>killed</Value>
+      <Value>murdered</Value>
+      <Value>slaughtered</Value>
+    </Field>
+    <Field Name="LIVESAT">
+      <Value>dwells in</Value>
+      <Value>found shelter in</Value>
+      <Value>has gone into hiding at</Value>
+      <Value>has gone underground in</Value>
+      <Value>has settled</Value>
+      <Value>hides in</Value>
+      <Value>is holed-up in</Value>
+      <Value>inhabits</Value>
+      <Value>is lying low in</Value>
+      <Value>is rumored to be at</Value>
+      <Value>lives at</Value>
+      <Value>lives in</Value>
+      <Value>occupies</Value>
+      <Value>resides at</Value>
+      <Value>resides in</Value>
+      <Value>roosts in</Value>
+      <Value>sought shelter at</Value>
+      <Value>squats at</Value>
+      <Value>squats in</Value>
+      <Value>bunks at</Value>
+      <Value>has found lodge at</Value>
+      <Value>has taken root at</Value>
+      <Value>has set up home at</Value>
+      <Value>has set up home in</Value>
+      <Value>has taken up residence at</Value>
+      <Value>has taken up residence in</Value>
+      <Value>has taken cover at</Value>
+      <Value>has set up camp in</Value>
+      <Value>has found shelter at</Value>
+      <Value>has tucked-away at</Value>
+      <Value>has sheltered in</Value>
+      <Value>was spotted at</Value>
+      <Value>was sighted in</Value>
+      <Value>has been located at</Value>
+      <Value>was seen at</Value>
+      <Value>was last seen at</Value>
+    </Field>
+    <Field Name="SHIPMENT">
+      <Value>shipment</Value>
+      <Value>package</Value>
+      <Value>chest</Value>
+      <Value>crate</Value>
+    </Field>
+    <Field Name="JOB">
+      <Value>task</Value>
+      <Value>dangerous job</Value>
+      <Value>job</Value>
+      <Value>quest</Value>
+      <Value>assignment</Value>
+      <Value>important quest</Value>
+      <Value>opportunity</Value>
+      <Value>undertaking</Value>
+      <Value>mission</Value>
+    </Field>
+    <Field Name="POLICE">
+      <Value>constable</Value>
+      <Value>constabulary</Value>
+      <Value>deputy</Value>
+      <Value>lawman</Value>
+      <Value>marshal</Value>
+      <Value>police</Value>
+      <Value>sheriff</Value>
+      <Value>law</Value>
+      <Value>sheriff's deputy</Value>
+      <Value>local constabulary</Value>
+      <Value>local sheriff</Value>
+      <Value>regional constabulary</Value>
+      <Value>Lyraen Marshal Service</Value>
+      <Value>Lyraen Bureau of Investigation</Value>
+      <Value>Lyraen Intelligence Service</Value>
+    </Field>
+    <Field Name="A_GROUP_OF">
+      <Value>a group of</Value>
+      <Value>an assemblage of</Value>
+      <Value>a company of</Value>
+      <Value>a gang of</Value>
+      <Value>a party of</Value>
+      <Value>a bevy of</Value>
+      <Value>a cartel of</Value>
+      <Value>a covey of</Value>
+      <Value>a posse of</Value>
+    </Field>
+    <Field Name="HELP">
+      <Value>help</Value>
+      <Value>aid</Value>
+      <Value>assistance</Value>
+    </Field>
+    <Field Name="RECOVER">
+      <Value>reclaim</Value>
+      <Value>recover</Value>
+      <Value>regain</Value>
+      <Value>retrieve</Value>
+    </Field>
+  </Story_Fields>
+</Story_Generator>

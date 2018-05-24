@@ -1,0 +1,493 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>City</Group>
+  <Story>[ANSWERING] [A_REQUEST] for [HELP] at the local bulletin board, [QUESTGIVER_DESC2] {COMMANDER} informs you that [BOSSNAME], {AN_EVIL_LOWERCASE} {BOSSRACE} {BOSSTYPE}, has been [COMMITINGACRIME]. This sort of [ILLICIT] behavior cannot be allowed to [CONTINUE]!&#xD;
+&#xD;
+The [CRIMINAL] threatens to continue the crime spree unless {BOSSHESHE} is given [A_THING_OF_VALUE]. You and the {COMMANDER} decide it's better to negotiate with [WEAPONS] instead. &#xD;
+&#xD;
+The {COMMANDER} will reward you with {REWARDNAME} for [KILLING] the [ASSHOLE]. [BOSSNAME] [LIVESAT] [MAPNAME] with {BOSSHISHER} {MINIONRACE} {ASSOCIATES}. The {BOSSRACE} [IS_KNOWN_FOR_BEING_BRUTAL], so [BE_CAREFUL].</Story>
+  <Story_Fields>
+    <Field Name="WEAPONS">
+      <Value>weapons</Value>
+      <Value>swords</Value>
+      <Value>fists</Value>
+    </Field>
+    <Field Name="CONTINUE">
+      <Value>continue</Value>
+      <Value>go on</Value>
+    </Field>
+    <Field Name="ILLICIT">
+      <Value>illicit</Value>
+      <Value>criminal</Value>
+      <Value>clandestine</Value>
+      <Value>furtive</Value>
+      <Value>illegal</Value>
+      <Value>immoral</Value>
+      <Value>prohibited</Value>
+      <Value>unlawful</Value>
+      <Value>unlicensed</Value>
+      <Value>wrongful</Value>
+      <Value>lawless</Value>
+      <Value>crooked</Value>
+    </Field>
+    <Field Name="HELP">
+      <Value>help</Value>
+      <Value>aid</Value>
+      <Value>assistance</Value>
+    </Field>
+    <Field Name="A_REQUEST">
+      <Value>a request</Value>
+      <Value>a petition</Value>
+      <Value>an appeal</Value>
+      <Value>a call</Value>
+    </Field>
+    <Field Name="ANSWERING">
+      <Value>Answering</Value>
+      <Value>Responding to</Value>
+    </Field>
+    <Field Name="COMMANDER">
+      <Value>captain</Value>
+      <Value>chief</Value>
+      <Value>chieftain</Value>
+      <Value>commander</Value>
+      <Value>diplomat</Value>
+      <Value>general</Value>
+      <Value>overseer</Value>
+      <Value>officer</Value>
+      <Value>overlord</Value>
+      <Value>warlord</Value>
+      <Value>elder</Value>
+      <Value>hero</Value>
+      <Value>ruler</Value>
+      <Value>tribal chief</Value>
+      <Value>vizier</Value>
+      <Value>mayor</Value>
+      <Value>governor</Value>
+      <Value>sheriff</Value>
+    </Field>
+    <Field Name="AN_EVIL_LOWERCASE">
+      <Value>a "misunderstood"</Value>
+      <Value>a barbarous</Value>
+      <Value>a corrupt</Value>
+      <Value>a cruel</Value>
+      <Value>a dangerous</Value>
+      <Value>a debased</Value>
+      <Value>a depraved</Value>
+      <Value>a devilish</Value>
+      <Value>a foul</Value>
+      <Value>a hateful</Value>
+      <Value>a heinous</Value>
+      <Value>a hideous</Value>
+      <Value>a loathsome</Value>
+      <Value>a malevolent</Value>
+      <Value>a monstrous</Value>
+      <Value>a nasty</Value>
+      <Value>a nefarious</Value>
+      <Value>a pernicious</Value>
+      <Value>a perverse</Value>
+      <Value>a sociopathic</Value>
+      <Value>a vicious</Value>
+      <Value>a vile</Value>
+      <Value>a villainous</Value>
+      <Value>a violent</Value>
+      <Value>a wicked</Value>
+      <Value>an abhorrent</Value>
+      <Value>an accursed</Value>
+      <Value>an atrocious</Value>
+      <Value>an awful</Value>
+      <Value>an evil</Value>
+      <Value>an infamous</Value>
+      <Value>an obscene</Value>
+    </Field>
+    <Field Name="A_THING_OF_VALUE">
+      <Value>a valuable black pearl necklace</Value>
+      <Value>a famous blue diamond</Value>
+      <Value>a large diamond</Value>
+      <Value>a valuable bottle of 50-year-old Port</Value>
+      <Value>a chest of rare foreign cigars</Value>
+      <Value>a child-sized mithril shirt from the museum</Value>
+      <Value>a rare codex of scientific writings</Value>
+      <Value>a famed gem-encrusted hip flask</Value>
+      <Value>a gemmed chess set</Value>
+      <Value>a historical treaty</Value>
+      <Value>a holy relic</Value>
+      <Value>a limited-edition sword (signed!)</Value>
+      <Value>a limited-edition sword</Value>
+      <Value>a priceless artifact</Value>
+      <Value>a set of painted pewter figurines</Value>
+      <Value>an ancient papyrus of religious significance</Value>
+      <Value>an important archaeological relic</Value>
+      <Value>contraband cigars</Value>
+      <Value>the Queen's wedding dress</Value>
+      <Value>the Royal Jewels</Value>
+      <Value>the blueprints to the King's Castle</Value>
+      <Value>a small sword that glows blue when goblins are near</Value>
+    </Field>
+    <Field Name="ASSOCIATES">
+      <Value>affiliates</Value>
+      <Value>allies</Value>
+      <Value>associates</Value>
+      <Value>band of misfits</Value>
+      <Value>band of vagrants</Value>
+      <Value>band</Value>
+      <Value>brood of bastards</Value>
+      <Value>cadre</Value>
+      <Value>clan</Value>
+      <Value>cohort</Value>
+      <Value>company of fools</Value>
+      <Value>company</Value>
+      <Value>conclave</Value>
+      <Value>confederates</Value>
+      <Value>council</Value>
+      <Value>covey of connivers</Value>
+      <Value>crew</Value>
+      <Value>gaggle of crooks</Value>
+      <Value>gang of thugs</Value>
+      <Value>gang</Value>
+      <Value>group</Value>
+      <Value>ilk</Value>
+      <Value>ne'er-do-wells</Value>
+      <Value>partners</Value>
+      <Value>thugs</Value>
+      <Value>tribe</Value>
+      <Value>troop of idiots</Value>
+    </Field>
+    <Field Name="QUESTGIVER_DESC2">
+      <Value>a blustery</Value>
+      <Value>a concerned</Value>
+      <Value>a crying</Value>
+      <Value>a desperate</Value>
+      <Value>a distressed</Value>
+      <Value>a foreign</Value>
+      <Value>a frantic</Value>
+      <Value>a friendly</Value>
+      <Value>a frightened</Value>
+      <Value>a local</Value>
+      <Value>a nervous</Value>
+      <Value>a nosy</Value>
+      <Value>a sobbing</Value>
+      <Value>a terrified</Value>
+      <Value>a travelling</Value>
+      <Value>a vagrant</Value>
+      <Value>a</Value>
+      <Value>an agitated</Value>
+      <Value>an angry</Value>
+      <Value>an upset</Value>
+    </Field>
+    <Field Name="LIVESAT">
+      <Value>dwells in</Value>
+      <Value>found shelter in</Value>
+      <Value>has gone into hiding at</Value>
+      <Value>has gone underground in</Value>
+      <Value>has settled</Value>
+      <Value>hides in</Value>
+      <Value>is holed-up in</Value>
+      <Value>inhabits</Value>
+      <Value>is lying low in</Value>
+      <Value>is rumored to be at</Value>
+      <Value>lives at</Value>
+      <Value>lives in</Value>
+      <Value>occupies</Value>
+      <Value>resides at</Value>
+      <Value>resides in</Value>
+      <Value>roosts in</Value>
+      <Value>sought shelter at</Value>
+      <Value>squats at</Value>
+      <Value>squats in</Value>
+      <Value>bunks at</Value>
+      <Value>has found lodge at</Value>
+      <Value>has taken root at</Value>
+      <Value>has set up home at</Value>
+      <Value>has set up home in</Value>
+      <Value>has taken up residence at</Value>
+      <Value>has taken up residence in</Value>
+      <Value>has taken cover at</Value>
+      <Value>has set up camp in</Value>
+      <Value>has found shelter at</Value>
+      <Value>has tucked-away at</Value>
+      <Value>has sheltered in</Value>
+      <Value>was spotted at</Value>
+      <Value>was sighted in</Value>
+      <Value>has been located at</Value>
+      <Value>was seen at</Value>
+      <Value>was last seen at</Value>
+    </Field>
+    <Field Name="COMMITINGACRIME">
+      <Value>"selling" the town bridge to gullible foreigners</Value>
+      <Value>committing hate crimes against non-humanoids</Value>
+      <Value>committing hate crimes against other humanoid races</Value>
+      <Value>drugging the drinks of unsuspecting patrons at the Inn</Value>
+      <Value>helping prisoners escape Shambala Prison</Value>
+      <Value>preaching in the streets after being told repeatedly not to</Value>
+      <Value>running an illicit flophouse</Value>
+      <Value>selling snakeoil to gullible citizens</Value>
+      <Value>sneaking into homes and tickling citizen's feet while they sleep</Value>
+      <Value>spiking trees in the woodcutter's forest</Value>
+      <Value>stealing biscuits from the local grocer</Value>
+      <Value>stealing undergarments off laundry lines</Value>
+      <Value>sucker-punching dwarves at the local tavern</Value>
+      <Value>tainting the local water supply</Value>
+      <Value>taunting halflings with really bad puns about their height</Value>
+    </Field>
+    <Field Name="ASSHOLE">
+      <Value>animal</Value>
+      <Value>asshat</Value>
+      <Value>bad egg</Value>
+      <Value>bastard</Value>
+      <Value>beast</Value>
+      <Value>big meanie</Value>
+      <Value>bigot</Value>
+      <Value>bitter dregs</Value>
+      <Value>blockhead</Value>
+      <Value>bonehead</Value>
+      <Value>boob</Value>
+      <Value>bootlicker</Value>
+      <Value>bozo</Value>
+      <Value>brainless buffoon</Value>
+      <Value>buffoon</Value>
+      <Value>bumpkin</Value>
+      <Value>butter troll</Value>
+      <Value>butthead</Value>
+      <Value>cad</Value>
+      <Value>chicken lover</Value>
+      <Value>chicken</Value>
+      <Value>chowder head</Value>
+      <Value>chump</Value>
+      <Value>churl</Value>
+      <Value>clod</Value>
+      <Value>clodhopper</Value>
+      <Value>clown</Value>
+      <Value>contemptible cad</Value>
+      <Value>country bumpkin</Value>
+      <Value>coward</Value>
+      <Value>craven</Value>
+      <Value>creep</Value>
+      <Value>creepy goat-licker</Value>
+      <Value>cur</Value>
+      <Value>dastard</Value>
+      <Value>degenerate creep</Value>
+      <Value>degenerate</Value>
+      <Value>delinquent</Value>
+      <Value>detestable dirt-eater</Value>
+      <Value>devil</Value>
+      <Value>dingbat</Value>
+      <Value>disgraceful wretch</Value>
+      <Value>donkey</Value>
+      <Value>dope</Value>
+      <Value>dunce</Value>
+      <Value>dunderhead</Value>
+      <Value>dweeb</Value>
+      <Value>evildoer</Value>
+      <Value>fiend</Value>
+      <Value>fink</Value>
+      <Value>fool</Value>
+      <Value>goober</Value>
+      <Value>good-for-nothing</Value>
+      <Value>goon</Value>
+      <Value>hayseed</Value>
+      <Value>heel</Value>
+      <Value>hick</Value>
+      <Value>hoi polloi</Value>
+      <Value>hoodlum</Value>
+      <Value>ignoramus</Value>
+      <Value>immoral fink</Value>
+      <Value>inbred hillbilly</Value>
+      <Value>jerk</Value>
+      <Value>lamebrain</Value>
+      <Value>loathsome malefactor</Value>
+      <Value>louse</Value>
+      <Value>lout</Value>
+      <Value>low-life no-good slimy creep</Value>
+      <Value>lowlife</Value>
+      <Value>lummox</Value>
+      <Value>maggot</Value>
+      <Value>malodorous mucker</Value>
+      <Value>mean dastard</Value>
+      <Value>morbidly obese turd</Value>
+      <Value>motherless swine</Value>
+      <Value>mucker</Value>
+      <Value>musty-smelling scum</Value>
+      <Value>myopic</Value>
+      <Value>nearsighted gynecologist</Value>
+      <Value>nerf herder</Value>
+      <Value>nimrod</Value>
+      <Value>ninny</Value>
+      <Value>noob</Value>
+      <Value>numskull</Value>
+      <Value>oaf</Value>
+      <Value>person of questionable pedigree</Value>
+      <Value>perverse deviant</Value>
+      <Value>pinhead</Value>
+      <Value>poltroon</Value>
+      <Value>pox on society</Value>
+      <Value>rat</Value>
+      <Value>recreant</Value>
+      <Value>redneck</Value>
+      <Value>reprehensible reprobate</Value>
+      <Value>reprobate</Value>
+      <Value>rock-biter</Value>
+      <Value>rube</Value>
+      <Value>sadistic rube</Value>
+      <Value>sap</Value>
+      <Value>scalawag</Value>
+      <Value>scum</Value>
+      <Value>scumbag</Value>
+      <Value>scuzzy chump</Value>
+      <Value>shameful shark</Value>
+      <Value>simpleton</Value>
+      <Value>sleazebag</Value>
+      <Value>sleazy slimeball</Value>
+      <Value>slimeball</Value>
+      <Value>small-minded fart-face</Value>
+      <Value>snake</Value>
+      <Value>son-of-a-goblin</Value>
+      <Value>stinker</Value>
+      <Value>stooge</Value>
+      <Value>toad</Value>
+      <Value>toadie</Value>
+      <Value>troglodyte</Value>
+      <Value>turd burglar</Value>
+      <Value>twerp</Value>
+      <Value>twit</Value>
+      <Value>vile villain</Value>
+      <Value>vulgarian</Value>
+      <Value>weakling</Value>
+      <Value>weirdo</Value>
+      <Value>wimp</Value>
+      <Value>wretch</Value>
+      <Value>wretched rat</Value>
+      <Value>yahoo</Value>
+      <Value>yellowbelly</Value>
+      <Value>yokel</Value>
+      <Value>bottom feeder</Value>
+      <Value>cretin</Value>
+      <Value>jabrony</Value>
+      <Value>loser</Value>
+      <Value>no-good loser</Value>
+      <Value>louse</Value>
+      <Value>goblin lover</Value>
+      <Value>schmuck</Value>
+      <Value>schmoe</Value>
+      <Value>cockroach</Value>
+      <Value>banana bender</Value>
+      <Value>jobber</Value>
+      <Value>cheesehead</Value>
+      <Value>troll</Value>
+      <Value>gutter troll</Value>
+      <Value>gong farmer</Value>
+      <Value>no-good gong farmer</Value>
+      <Value>flatlander</Value>
+      <Value>woolyback</Value>
+      <Value>nose-picker</Value>
+      <Value>snot-eater</Value>
+      <Value>clamhead</Value>
+      <Value>lamer</Value>
+      <Value>low-life loser</Value>
+      <Value>gonk</Value>
+      <Value>prat</Value>
+      <Value>prattling twit</Value>
+      <Value>plucky loser</Value>
+      <Value>creepy weirdo</Value>
+      <Value>degenerate dreg of society</Value>
+      <Value>butt boil</Value>
+    </Field>
+    <Field Name="KILLING">
+      <Value>assassinating</Value>
+      <Value>dispatching</Value>
+      <Value>eliminating</Value>
+      <Value>eradicating</Value>
+      <Value>executing</Value>
+      <Value>exterminating</Value>
+      <Value>killing</Value>
+      <Value>murdering</Value>
+      <Value>obliterating</Value>
+      <Value>offing</Value>
+      <Value>slaughtering</Value>
+      <Value>slaying</Value>
+    </Field>
+    <Field Name="CRIMINAL">
+      <Value>criminal</Value>
+      <Value>culprit</Value>
+      <Value>delinquent</Value>
+      <Value>desperado</Value>
+      <Value>fugitive</Value>
+      <Value>hood</Value>
+      <Value>hoodlum</Value>
+      <Value>hooligan</Value>
+      <Value>lawbreaker</Value>
+      <Value>offender</Value>
+      <Value>outlaw</Value>
+      <Value>scofflaw</Value>
+      <Value>thug</Value>
+      <Value>wrongdoer</Value>
+    </Field>
+    <Field Name="IS_KNOWN_FOR_BEING_BRUTAL">
+      <Value>is known for being especially brutal</Value>
+      <Value>is known for being especially barbarous</Value>
+      <Value>is known for being especially ferocious</Value>
+      <Value>is known for being especially inhumane</Value>
+      <Value>is known for being especially ruthless</Value>
+      <Value>is known for being especially vicious</Value>
+      <Value>is known for being especially bloodthirsty</Value>
+      <Value>is known for being especially heartless</Value>
+      <Value>is known for being especially uncivil</Value>
+      <Value>is known for being especially unmerciful</Value>
+      <Value>is known for being brutal</Value>
+      <Value>is known for being barbarous</Value>
+      <Value>is known for being ferocious</Value>
+      <Value>is known for being inhumane</Value>
+      <Value>is known for being ruthless</Value>
+      <Value>is known for being vicious</Value>
+      <Value>is known for being bloodthirsty</Value>
+      <Value>is known for being heartless</Value>
+      <Value>is known for being uncivil</Value>
+      <Value>is known for being unmerciful</Value>
+      <Value>is known for being especially vulgar</Value>
+      <Value>is known for being vulgar</Value>
+      <Value>has a reputation for being especially brutal</Value>
+      <Value>has a reputation for being especially barbarous</Value>
+      <Value>has a reputation for being especially ferocious</Value>
+      <Value>has a reputation for being especially inhumane</Value>
+      <Value>has a reputation for being especially ruthless</Value>
+      <Value>has a reputation for being especially vicious</Value>
+      <Value>has a reputation for being especially bloodthirsty</Value>
+      <Value>has a reputation for being especially heartless</Value>
+      <Value>has a reputation for being especially uncivil</Value>
+      <Value>has a reputation for being especially unmerciful</Value>
+      <Value>has a reputation for being brutal</Value>
+      <Value>has a reputation for being barbarous</Value>
+      <Value>has a reputation for being ferocious</Value>
+      <Value>has a reputation for being inhumane</Value>
+      <Value>has a reputation for being ruthless</Value>
+      <Value>has a reputation for being vicious</Value>
+      <Value>has a reputation for being bloodthirsty</Value>
+      <Value>has a reputation for being heartless</Value>
+      <Value>has a reputation for being uncivil</Value>
+      <Value>has a reputation for being unmerciful</Value>
+      <Value>has a reputation for being especially vulgar</Value>
+      <Value>has a reputation for being vulgar</Value>
+      <Value>is a known killer</Value>
+      <Value>is a known murderer</Value>
+      <Value>is a known butcher</Value>
+      <Value>is a known cut-throat</Value>
+    </Field>
+    <Field Name="BE_CAREFUL">
+      <Value>be careful</Value>
+      <Value>use caution</Value>
+      <Value>use caution on your adventure</Value>
+      <Value>take precautions</Value>
+      <Value>bring protection</Value>
+      <Value>anticipate problems</Value>
+      <Value>anticipate a fight</Value>
+      <Value>expect problems</Value>
+      <Value>expect a fight</Value>
+      <Value>use foresight</Value>
+      <Value>use foresight and be prepared</Value>
+      <Value>be prudent</Value>
+      <Value>be prudent and expect a rough fight</Value>
+      <Value>assume there will be violence</Value>
+      <Value>count on fighting</Value>
+      <Value>prepare for a hard fight</Value>
+    </Field>
+  </Story_Fields>
+</Story_Generator>

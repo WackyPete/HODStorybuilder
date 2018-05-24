@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>Forest</Group>
+  <Story>[A_LONG_TIME_AGO], a {STEELY} {BOSSRACE} {BOSSTYPE} [NAMED] [BOSSNAME] [DISCOVERED] [ALARGE] [VEIN] of spice while [DIGGING] a well in the [WILDS] near [MAPNAME]. [USING] {BOSSHISHER} [NEWFOUND] [WEALTH], {BOSSHESHE} [EMBARKEDON] [ASYSTEMATIC] and [STEADFAST] [TAKEOVER] of the [SURROUNDING] [LAND]; [QUICKLY] [SECURING] even more [WEALTHX] and [POWER].&#xD;
+&#xD;
+[BOSSNAME] was [RUTHLESS] to a fault; {BOSSHISHER} [ACTIONS] making [MANYENEMIES]. As time went on, {BOSSHESHE} became [INCREASINGLY] [PARANOID] and [CANTANKEROUS]. [BOSSHESHE] [ISOLATED] {BOSSHIMHER}self from society, [WALLOWING] in {BOSSHISHER} self-inflicted [MISERY].&#xD;
+&#xD;
+[RECENTLY], [BOSSNAME] was [CONFRONTED] by a Cultist Prophet. The [LANDBARON] had [ATTEMPTED] to [ACQUIRE] the Prophet's family {LANDX} many years [HITHERTO], but was [UNSUCCESSFUL] the [STUBBORN] nature of the [HOLDOUTS]. It is unclear what happened next, but in an apparent [FIT] of spice-[ADDLED] [RAGE] and [ANGER], [BOSSNAME] [BLOODILY] [KILLED] the Prophet with a candlepin.&#xD;
+&#xD;
+The Cultists seek [VENGEANCE] for their fallen Prophet; they offer a [REWARD] for the [DEATH] of [BOSSNAME]. Your reward for [COMPLETING] this [JOB] will be {REWARDNAME}, a [VALUABLE] [RELIGIOUS] [ARTIFACT].</Story>
+  <Story_Fields>
+    <Field Name="UNSUCCESSFUL">
+      <Value>unsuccessful due to the</Value>
+      <Value>foiled by</Value>
+      <Value>thwarted by</Value>
+    </Field>
+    <Field Name="LANDBARON">
+      <Value>land baron</Value>
+      <Value>businessman</Value>
+      <Value>capitalist</Value>
+      <Value>tycoon</Value>
+      <Value>entrepreneur</Value>
+    </Field>
+    <Field Name="STEELY">
+      <Value>steely</Value>
+      <Value>stern</Value>
+      <Value>tough</Value>
+      <Value>hard-nosed</Value>
+      <Value>harsh</Value>
+    </Field>
+    <Field Name="COMPLETING">
+      <Value>completing</Value>
+      <Value>carrying out</Value>
+    </Field>
+    <Field Name="FIT">
+      <Value>fit</Value>
+      <Value>frenzy</Value>
+      <Value>outburst</Value>
+    </Field>
+    <Field Name="ADDLED">
+      <Value>addled</Value>
+      <Value>clouded</Value>
+    </Field>
+    <Field Name="HOLDOUTS">
+      <Value>holdouts</Value>
+    </Field>
+    <Field Name="STUBBORN">
+      <Value>stubborn</Value>
+      <Value>headstrong</Value>
+      <Value>obstinate</Value>
+    </Field>
+    <Field Name="ATTEMPTED">
+      <Value>attempted</Value>
+      <Value>tried</Value>
+      <Value>sought</Value>
+    </Field>
+    <Field Name="ACTIONS">
+      <Value>actions</Value>
+      <Value>conduct</Value>
+    </Field>
+    <Field Name="POWER">
+      <Value>power</Value>
+      <Value>influence</Value>
+      <Value>power</Value>
+    </Field>
+    <Field Name="WEALTHX">
+      <Value>wealth</Value>
+      <Value>riches</Value>
+      <Value>silvers</Value>
+    </Field>
+    <Field Name="QUICKLY">
+      <Value>quickly</Value>
+      <Value>rapidly</Value>
+    </Field>
+    <Field Name="USING">
+      <Value>Using</Value>
+      <Value>Utilizing</Value>
+    </Field>
+    <Field Name="SECURING">
+      <Value>securing</Value>
+      <Value>attaining</Value>
+      <Value>procuring</Value>
+      <Value>acquiring</Value>
+    </Field>
+    <Field Name="WALLOWING">
+      <Value>wallowing</Value>
+      <Value>floundering</Value>
+      <Value>tottering</Value>
+      <Value>basking</Value>
+    </Field>
+    <Field Name="ARTIFACT">
+      <Value>artifact</Value>
+      <Value>relic</Value>
+      <Value>antique</Value>
+    </Field>
+    <Field Name="RELIGIOUS">
+      <Value>religious</Value>
+      <Value>doctrinal</Value>
+      <Value>sacred</Value>
+      <Value>spiritual</Value>
+      <Value>theological</Value>
+    </Field>
+    <Field Name="DEATH">
+      <Value>death</Value>
+      <Value>demise</Value>
+      <Value>annihilation</Value>
+    </Field>
+    <Field Name="REWARD">
+      <Value>reward</Value>
+      <Value>bounty</Value>
+    </Field>
+    <Field Name="BLOODILY">
+      <Value>bloodily</Value>
+      <Value>violently</Value>
+      <Value>murderously</Value>
+    </Field>
+    <Field Name="ANGER">
+      <Value>anger</Value>
+      <Value>enmity</Value>
+      <Value>hatred</Value>
+      <Value>ire</Value>
+    </Field>
+    <Field Name="RAGE">
+      <Value>rage</Value>
+      <Value>furor</Value>
+      <Value>mania</Value>
+    </Field>
+    <Field Name="HITHERTO">
+      <Value>hitherto</Value>
+      <Value>previously</Value>
+      <Value>ago</Value>
+      <Value>in the past</Value>
+    </Field>
+    <Field Name="ACQUIRE">
+      <Value>acquire</Value>
+      <Value>purchase</Value>
+    </Field>
+    <Field Name="LANDX">
+      <Value>land</Value>
+      <Value>homestead</Value>
+      <Value>farm</Value>
+    </Field>
+    <Field Name="CONFRONTED">
+      <Value>called on</Value>
+      <Value>visited</Value>
+    </Field>
+    <Field Name="MISERY">
+      <Value>misery</Value>
+      <Value>despair</Value>
+      <Value>depression</Value>
+      <Value>squalor</Value>
+      <Value>woe</Value>
+    </Field>
+    <Field Name="ISOLATED">
+      <Value>isolated</Value>
+      <Value>deatched</Value>
+      <Value>segregated</Value>
+      <Value>secluded</Value>
+    </Field>
+    <Field Name="CANTANKEROUS">
+      <Value>cantankerous</Value>
+      <Value>cranky</Value>
+      <Value>dour</Value>
+      <Value>grouchy</Value>
+      <Value>irascible</Value>
+      <Value>prickly</Value>
+      <Value>quarrelsome</Value>
+      <Value>testy</Value>
+    </Field>
+    <Field Name="PARANOID">
+      <Value>paranoid</Value>
+      <Value>unreasonable</Value>
+      <Value>overly-suspicious</Value>
+    </Field>
+    <Field Name="INCREASINGLY">
+      <Value>increasingly</Value>
+      <Value>progressively</Value>
+    </Field>
+    <Field Name="MANYENEMIES">
+      <Value>many enemies</Value>
+      <Value>few friends</Value>
+      <Value>no friends</Value>
+    </Field>
+    <Field Name="RUTHLESS">
+      <Value>ruthless</Value>
+      <Value>callous</Value>
+      <Value>cold-blooded</Value>
+      <Value>cutthroat</Value>
+      <Value>unyielding</Value>
+    </Field>
+    <Field Name="LAND">
+      <Value>land</Value>
+      <Value>area</Value>
+      <Value>territory</Value>
+      <Value>homesteads</Value>
+      <Value>country</Value>
+      <Value>farmland</Value>
+    </Field>
+    <Field Name="SURROUNDING">
+      <Value>surrounding</Value>
+      <Value>neighboring</Value>
+      <Value>adjacent</Value>
+    </Field>
+    <Field Name="TAKEOVER">
+      <Value>takeover</Value>
+      <Value>annexation</Value>
+      <Value>appropriation</Value>
+      <Value>acquisition</Value>
+    </Field>
+    <Field Name="STEADFAST">
+      <Value>steadfast</Value>
+      <Value>dedicated</Value>
+      <Value>resolute</Value>
+      <Value>unflinching</Value>
+      <Value>unwavering</Value>
+      <Value>unyielding</Value>
+    </Field>
+    <Field Name="ASYSTEMATIC">
+      <Value>a systematic</Value>
+      <Value>a methodical</Value>
+      <Value>an analytical</Value>
+      <Value>a systematized</Value>
+    </Field>
+    <Field Name="EMBARKEDON">
+      <Value>embarked on</Value>
+      <Value>began</Value>
+      <Value>commenced</Value>
+      <Value>launched</Value>
+    </Field>
+    <Field Name="WEALTH">
+      <Value>wealth</Value>
+      <Value>treasure</Value>
+      <Value>resources</Value>
+    </Field>
+    <Field Name="NEWFOUND">
+      <Value>newfound</Value>
+      <Value>recently discovered</Value>
+      <Value>newly discovered</Value>
+      <Value>newly found</Value>
+    </Field>
+    <Field Name="WILDS">
+      <Value>wilds</Value>
+      <Value>wilderness</Value>
+      <Value>wastelands</Value>
+    </Field>
+    <Field Name="DIGGING">
+      <Value>digging</Value>
+      <Value>excavating</Value>
+      <Value>shoveling</Value>
+    </Field>
+    <Field Name="VEIN">
+      <Value>vein</Value>
+      <Value>lode</Value>
+      <Value>deposit</Value>
+    </Field>
+    <Field Name="ALARGE">
+      <Value>a large</Value>
+      <Value>a huge</Value>
+      <Value>an extensive</Value>
+      <Value>an enormous</Value>
+    </Field>
+    <Field Name="DISCOVERED">
+      <Value>discovered</Value>
+      <Value>unearthed</Value>
+      <Value>uncovered</Value>
+      <Value>found</Value>
+    </Field>
+    <Field Name="KILLED">
+      <Value>assassinated</Value>
+      <Value>dispatched</Value>
+      <Value>eliminated</Value>
+      <Value>executed</Value>
+      <Value>killed</Value>
+      <Value>murdered</Value>
+      <Value>slaughtered</Value>
+      <Value>slayed</Value>
+    </Field>
+    <Field Name="JOB">
+      <Value>task</Value>
+      <Value>dangerous job</Value>
+      <Value>job</Value>
+      <Value>quest</Value>
+      <Value>assignment</Value>
+      <Value>important quest</Value>
+      <Value>opportunity</Value>
+      <Value>undertaking</Value>
+      <Value>mission</Value>
+    </Field>
+    <Field Name="RECENTLY">
+      <Value>A few months ago</Value>
+      <Value>A short while ago</Value>
+      <Value>Not long ago</Value>
+      <Value>Recently</Value>
+      <Value>Several months ago</Value>
+    </Field>
+    <Field Name="A_LONG_TIME_AGO">
+      <Value>A long time ago</Value>
+      <Value>Decades ago</Value>
+      <Value>In times past</Value>
+      <Value>In years past</Value>
+      <Value>Long ago</Value>
+      <Value>Many years ago</Value>
+      <Value>Years ago</Value>
+      <Value>Decades ago</Value>
+    </Field>
+    <Field Name="VENGEANCE">
+      <Value>avengement</Value>
+      <Value>punishment</Value>
+      <Value>reprisal</Value>
+      <Value>retaliation</Value>
+      <Value>retribution</Value>
+      <Value>revenge</Value>
+      <Value>vengeance</Value>
+    </Field>
+    <Field Name="VALUABLE">
+      <Value>valuable</Value>
+      <Value>prized</Value>
+      <Value>treasured</Value>
+      <Value>cherished</Value>
+    </Field>
+    <Field Name="NAMED">
+      <Value>named</Value>
+      <Value>called</Value>
+      <Value>nicknamed</Value>
+    </Field>
+  </Story_Fields>
+</Story_Generator>

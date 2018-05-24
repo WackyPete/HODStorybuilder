@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>Sewer</Group>
+  <Story>A [SIMPLE] [SERVICEPERSON] from the Slum of the Dogs was [WRONGLY] [CONVICTEDOF] [DETONATING] [ANEXPLOSIVE] [MAGICAL] [DEVICE] at the local [GUILD]. The [EXPLOSION] [KILLED] [SEVERAL] [ARTISANS]. The [SERVICEPERSON] was [BRUTALLY] "[INTERROGATED]" by a [CORRUPT] [POLICE] and signed a [FALSE] [CONFESSION] [FORCIBLY]. &#xD;
+&#xD;
+Responding to [PUBLIC] [OUTCRY], [A_FAMOUS] lawyer agreed to help the [SERVICEPERSON]. In her [INVESTIGATIONS], she [UNCOVERED] a [CONSPIRACY] [INVOLVING] the [POLICE] and a local crime boss; the same person who had [ACTUALLY] [COMMITTED] the [CRIME]. Not being [ABLE] to find [LEGAL] [JUSTICE] for her client, the lawyer needs help to [STOP] the [EVIL] [CRIMINAL]s. &#xD;
+&#xD;
+She requests you first start with the crime boss, [BOSSNAME]. The {BOSSRACE} {BOSSTYPE} [LIVESAT] [MAPNAME] with {BOSSHISHER} {MINIONRACE} [ASSOCIATES]. Your payment will be {REWARDNAME}.</Story>
+  <Story_Fields>
+    <Field Name="INTERROGATED">
+      <Value>interrogated</Value>
+      <Value>interviewed</Value>
+    </Field>
+    <Field Name="ARTISANS">
+      <Value>artisans</Value>
+      <Value>craftsmen</Value>
+      <Value>traders</Value>
+      <Value>merchants</Value>
+    </Field>
+    <Field Name="EXPLOSION">
+      <Value>explosion</Value>
+      <Value>blast</Value>
+      <Value>detonation</Value>
+    </Field>
+    <Field Name="INVOLVING">
+      <Value>involving</Value>
+      <Value>connecting</Value>
+      <Value>linking</Value>
+      <Value>implicating</Value>
+    </Field>
+    <Field Name="CONSPIRACY">
+      <Value>conspiracy</Value>
+      <Value>plot</Value>
+      <Value>scheme</Value>
+    </Field>
+    <Field Name="UNCOVERED">
+      <Value>uncovered</Value>
+      <Value>unearthed</Value>
+      <Value>exposed</Value>
+    </Field>
+    <Field Name="INVESTIGATIONS">
+      <Value>investigations</Value>
+      <Value>scrutiny of the case</Value>
+    </Field>
+    <Field Name="A_FAMOUS">
+      <Value>a famous</Value>
+      <Value>a renowned</Value>
+      <Value>a well-renowned</Value>
+      <Value>a distinguished</Value>
+    </Field>
+    <Field Name="CONFESSION">
+      <Value>confession</Value>
+      <Value>statement</Value>
+    </Field>
+    <Field Name="CORRUPT">
+      <Value>corrupt</Value>
+      <Value>crooked</Value>
+      <Value>venal</Value>
+      <Value>bribed</Value>
+    </Field>
+    <Field Name="SIMPLE">
+      <Value>simple</Value>
+      <Value>soft-headed</Value>
+    </Field>
+    <Field Name="BRUTALLY">
+      <Value>brutally</Value>
+      <Value>relentlessly</Value>
+      <Value>callously</Value>
+    </Field>
+    <Field Name="SEVERAL">
+      <Value>several</Value>
+      <Value>many</Value>
+    </Field>
+    <Field Name="MAGICAL">
+      <Value>magical</Value>
+      <Value>bewitched</Value>
+      <Value>bedeviled</Value>
+      <Value>spellbound</Value>
+      <Value>sorcerous</Value>
+      <Value>demoniac</Value>
+      <Value>enchanted</Value>
+      <Value>arcane</Value>
+    </Field>
+    <Field Name="ANEXPLOSIVE">
+      <Value>an explosive</Value>
+      <Value>a fiery</Value>
+      <Value>a volatile</Value>
+    </Field>
+    <Field Name="DETONATING">
+      <Value>detonating</Value>
+      <Value>exploding</Value>
+      <Value>setting off</Value>
+    </Field>
+    <Field Name="CONVICTEDOF">
+      <Value>convicted of</Value>
+      <Value>sentenced for</Value>
+      <Value>tried and convicted for</Value>
+    </Field>
+    <Field Name="WRONGLY">
+      <Value>wrongly</Value>
+      <Value>unlawfully</Value>
+      <Value>wrongfully</Value>
+    </Field>
+    <Field Name="STOP">
+      <Value>stop</Value>
+      <Value>thwart</Value>
+      <Value>put an end to</Value>
+    </Field>
+    <Field Name="JUSTICE">
+      <Value>justice</Value>
+      <Value>vindication</Value>
+      <Value>exoneration</Value>
+      <Value>absolution</Value>
+    </Field>
+    <Field Name="LEGAL">
+      <Value>legal</Value>
+      <Value>fair</Value>
+      <Value>lawful</Value>
+    </Field>
+    <Field Name="ABLE">
+      <Value>able</Value>
+      <Value>competent</Value>
+      <Value>skilled enough</Value>
+    </Field>
+    <Field Name="ACTUALLY">
+      <Value>actually</Value>
+      <Value>really</Value>
+      <Value>truly</Value>
+      <Value>in fact</Value>
+    </Field>
+    <Field Name="PUBLIC">
+      <Value>public</Value>
+      <Value>civic</Value>
+      <Value>popular</Value>
+    </Field>
+    <Field Name="OUTCRY">
+      <Value>outcry</Value>
+      <Value>clamor</Value>
+      <Value>complaint</Value>
+      <Value>objections</Value>
+    </Field>
+    <Field Name="FALSE">
+      <Value>false</Value>
+      <Value>bogus</Value>
+      <Value>contrived</Value>
+      <Value>phony</Value>
+    </Field>
+    <Field Name="FORCIBLY">
+      <Value>by force</Value>
+      <Value>under protest</Value>
+      <Value>against his will</Value>
+    </Field>
+    <Field Name="SERVICEPERSON">
+      <Value>accountant</Value>
+      <Value>bailiff</Value>
+      <Value>bartender</Value>
+      <Value>bath attendent</Value>
+      <Value>bodyguard</Value>
+      <Value>bodyservant</Value>
+      <Value>carter</Value>
+      <Value>chimney sweep</Value>
+      <Value>cook</Value>
+      <Value>courtesan</Value>
+      <Value>ditch digger</Value>
+      <Value>dung carter</Value>
+      <Value>ferryman</Value>
+      <Value>miller</Value>
+      <Value>porter</Value>
+      <Value>privycleaner</Value>
+      <Value>rat catcher</Value>
+      <Value>scullion</Value>
+      <Value>stablehand</Value>
+      <Value>valet</Value>
+      <Value>wagoner</Value>
+      <Value>potboy</Value>
+      <Value>gong farmer</Value>
+    </Field>
+    <Field Name="EVIL">
+      <Value>accursed</Value>
+      <Value>corrupt</Value>
+      <Value>debased</Value>
+      <Value>devilish</Value>
+      <Value>evil</Value>
+      <Value>heinous</Value>
+      <Value>loathsome</Value>
+      <Value>malevolent</Value>
+      <Value>nefarious</Value>
+      <Value>vile</Value>
+      <Value>villainous</Value>
+      <Value>callous</Value>
+      <Value>diabolical</Value>
+      <Value>heartless</Value>
+      <Value>implacable</Value>
+      <Value>remorseless</Value>
+    </Field>
+    <Field Name="ASSOCIATES">
+      <Value>affiliates</Value>
+      <Value>allies</Value>
+      <Value>associates</Value>
+      <Value>brood of bastards</Value>
+      <Value>cadre</Value>
+      <Value>cohort</Value>
+      <Value>confederates</Value>
+      <Value>gaggle of crooks</Value>
+      <Value>gang of thugs</Value>
+      <Value>gang</Value>
+      <Value>partners</Value>
+    </Field>
+    <Field Name="LIVESAT">
+      <Value>dwells in</Value>
+      <Value>found shelter in</Value>
+      <Value>has gone into hiding at</Value>
+      <Value>has gone underground in</Value>
+      <Value>has settled</Value>
+      <Value>hides in</Value>
+      <Value>is holed-up in</Value>
+      <Value>inhabits</Value>
+      <Value>is lying low in</Value>
+      <Value>is rumored to be at</Value>
+      <Value>lives at</Value>
+      <Value>lives in</Value>
+      <Value>occupies</Value>
+      <Value>resides at</Value>
+      <Value>resides in</Value>
+      <Value>roosts in</Value>
+      <Value>sought shelter at</Value>
+      <Value>squats at</Value>
+      <Value>squats in</Value>
+      <Value>bunks at</Value>
+      <Value>has found lodge at</Value>
+      <Value>has taken root at</Value>
+      <Value>has set up home at</Value>
+      <Value>has set up home in</Value>
+      <Value>has taken up residence at</Value>
+      <Value>has taken up residence in</Value>
+      <Value>has taken cover at</Value>
+      <Value>has set up camp in</Value>
+      <Value>has found shelter at</Value>
+      <Value>has tucked-away at</Value>
+      <Value>has sheltered in</Value>
+      <Value>was spotted at</Value>
+      <Value>was sighted in</Value>
+      <Value>has been located at</Value>
+      <Value>was seen at</Value>
+      <Value>was last seen at</Value>
+    </Field>
+    <Field Name="GUILD">
+      <Value>Adventurers Guild</Value>
+      <Value>Alchemists Guild</Value>
+      <Value>Archers Guild</Value>
+      <Value>Artisans Guild</Value>
+      <Value>Bounty Hunters Guild</Value>
+      <Value>Dock Workers Guild</Value>
+      <Value>Explorers Guild</Value>
+      <Value>Fighters Guild</Value>
+      <Value>Gladiators Guild</Value>
+      <Value>Healers Guild</Value>
+      <Value>Laborers Guild</Value>
+      <Value>Mages Guild</Value>
+      <Value>Mariners Guild</Value>
+      <Value>Mercenaries Guild</Value>
+      <Value>Paladins Guild</Value>
+      <Value>Rogues Guild</Value>
+      <Value>Spice Conglomerate</Value>
+      <Value>Miners Guild</Value>
+    </Field>
+    <Field Name="KILLED">
+      <Value>killed</Value>
+      <Value>murdered</Value>
+      <Value>obliterated</Value>
+      <Value>annihilated</Value>
+    </Field>
+    <Field Name="CRIMINAL">
+      <Value>criminal</Value>
+      <Value>culprit</Value>
+      <Value>hood</Value>
+      <Value>hoodlum</Value>
+      <Value>hooligan</Value>
+      <Value>lawbreaker</Value>
+      <Value>offender</Value>
+      <Value>outlaw</Value>
+      <Value>scofflaw</Value>
+      <Value>wrongdoer</Value>
+    </Field>
+    <Field Name="POLICE">
+      <Value>constable</Value>
+      <Value>deputy</Value>
+      <Value>lawman</Value>
+      <Value>marshal</Value>
+      <Value>sheriff</Value>
+      <Value>sheriff's deputy</Value>
+      <Value>investigator</Value>
+      <Value>detective</Value>
+    </Field>
+    <Field Name="CRIME">
+      <Value>crime</Value>
+      <Value>misdeed</Value>
+      <Value>offense</Value>
+    </Field>
+    <Field Name="COMMITTED">
+      <Value>committed</Value>
+      <Value>perpetrated</Value>
+      <Value>carried out</Value>
+    </Field>
+    <Field Name="DEVICE">
+      <Value>device</Value>
+      <Value>mechanism</Value>
+      <Value>apparatus</Value>
+    </Field>
+  </Story_Fields>
+</Story_Generator>

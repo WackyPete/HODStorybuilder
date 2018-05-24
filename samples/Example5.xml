@@ -1,0 +1,420 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>City</Group>
+  <Story>[A_LONG_TIME_AGO], [AYOUNG] and [NAIVE] [STUDENT] [QUIT] his [SCHOLARLY] [STUDIES] to [ENLIST] in [THEARMY]. After [TRAINING], he was [DEPLOYEDTO] the [WILDS] near [MAPNAME] with his [PLATOON]. He [QUICKLY] [LEARNED] that his [WORLDVIEW] was very naive. [WAR] is [CHAOTIC], dark, [GRITTY], and far from [GLAMOROUS]; for each [FAMOUS] [HERO] there [ARE] hundreds of [EVIL] [VILLAINS] that [COMMIT] [INHUMANE] [ATROCITIES]. &#xD;
+&#xD;
+This war-hardened [VETERAN] now needs your [HELP] to [STOP] a [MONSTER]. A [DISGRACED] former soldier from his [PLATOON] [NAMED] [BOSSNAME] [LIVESAT] [MAPNAME] with {A_GROUP_OF} {BLOODTHIRSTY} {MINIONRACES}. &#xD;
+&#xD;
+Known for collecting grisly trophies, the [INFAMOUS] [FIEND] now has the physical scars to match the [CORRUPTION] of his soul. The soldier is {A_SKILLED_LOWERCASE} {BOSSRACE} {BOSSTYPE}, so [BE_CAREFUL].&#xD;
+&#xD;
+The veteran has trouble sleeping at night, but will rest a bit easier knowing that one less [EVIL] [KILLER] walks the [LANDS]. Your reward for completing this [GRIM] [JOB] is {REWARDNAME}.</Story>
+  <Story_Fields>
+    <Field Name="ARE">
+      <Value>are</Value>
+      <Value>exist</Value>
+    </Field>
+    <Field Name="TRAINING">
+      <Value>training</Value>
+      <Value>boot camp</Value>
+      <Value>military training</Value>
+      <Value>basic training</Value>
+    </Field>
+    <Field Name="GRIM">
+      <Value>grim</Value>
+      <Value>glum</Value>
+      <Value>somber</Value>
+      <Value>bleak</Value>
+    </Field>
+    <Field Name="LANDS">
+      <Value>land</Value>
+      <Value>realm</Value>
+    </Field>
+    <Field Name="KILLER">
+      <Value>killer</Value>
+      <Value>butcher</Value>
+      <Value>murderer</Value>
+    </Field>
+    <Field Name="CORRUPTION">
+      <Value>corruption</Value>
+      <Value>evil</Value>
+      <Value>depravity</Value>
+      <Value>infamy</Value>
+    </Field>
+    <Field Name="BLOODTHIRSTY">
+      <Value>bloodthirsty</Value>
+      <Value>homicidal</Value>
+      <Value>ruthless</Value>
+      <Value>murderous</Value>
+    </Field>
+    <Field Name="MONSTER">
+      <Value>monster</Value>
+      <Value>beast</Value>
+      <Value>devil</Value>
+      <Value>villain</Value>
+    </Field>
+    <Field Name="STOP">
+      <Value>stop</Value>
+      <Value>thwart</Value>
+      <Value>defeat</Value>
+    </Field>
+    <Field Name="VETERAN">
+      <Value>veteran</Value>
+      <Value>vet</Value>
+      <Value>warhorse</Value>
+    </Field>
+    <Field Name="INHUMANE">
+      <Value>inhumane</Value>
+      <Value>barbaric</Value>
+      <Value>bestial</Value>
+      <Value>cold-blooded</Value>
+      <Value>diabolical</Value>
+    </Field>
+    <Field Name="COMMIT">
+      <Value>commit</Value>
+      <Value>carry out</Value>
+      <Value>perpetrate</Value>
+    </Field>
+    <Field Name="VILLAINS">
+      <Value>villains</Value>
+      <Value>fiends</Value>
+      <Value>evildoers</Value>
+    </Field>
+    <Field Name="HERO">
+      <Value>hero</Value>
+      <Value>champion</Value>
+      <Value>warrior</Value>
+    </Field>
+    <Field Name="GLAMOROUS">
+      <Value>glamorous</Value>
+    </Field>
+    <Field Name="GRITTY">
+      <Value>gritty</Value>
+      <Value>tough</Value>
+      <Value>hard</Value>
+      <Value>harsh</Value>
+    </Field>
+    <Field Name="WAR">
+      <Value>War</Value>
+      <Value>Combat</Value>
+      <Value>Warfare</Value>
+      <Value>Combat</Value>
+    </Field>
+    <Field Name="WORLDVIEW">
+      <Value>worldview</Value>
+      <Value>perspective</Value>
+      <Value>belief system</Value>
+    </Field>
+    <Field Name="LEARNED">
+      <Value>learned</Value>
+      <Value>figured out</Value>
+      <Value>discovered</Value>
+      <Value>ascertained</Value>
+    </Field>
+    <Field Name="PLATOON">
+      <Value>platoon</Value>
+      <Value>squad</Value>
+      <Value>division</Value>
+    </Field>
+    <Field Name="WILDS">
+      <Value>wilds</Value>
+      <Value>wilderness</Value>
+      <Value>wastelands</Value>
+    </Field>
+    <Field Name="ENLIST">
+      <Value>enlist</Value>
+      <Value>enroll</Value>
+      <Value>volunteer</Value>
+    </Field>
+    <Field Name="QUIT">
+      <Value>quit</Value>
+      <Value>dropped out of</Value>
+      <Value>left</Value>
+      <Value>renounced</Value>
+      <Value>vacated</Value>
+    </Field>
+    <Field Name="STUDIES">
+      <Value>studies</Value>
+      <Value>inquiries</Value>
+      <Value>research</Value>
+    </Field>
+    <Field Name="SCHOLARLY">
+      <Value>scholarly</Value>
+      <Value>intellectual</Value>
+      <Value>academic</Value>
+    </Field>
+    <Field Name="STUDENT">
+      <Value>student</Value>
+      <Value>pupil</Value>
+    </Field>
+    <Field Name="AYOUNG">
+      <Value>a young</Value>
+      <Value>a youthful</Value>
+      <Value>an inexperienced</Value>
+    </Field>
+    <Field Name="DEPLOYEDTO">
+      <Value>deployed to</Value>
+      <Value>stationed at</Value>
+      <Value>assigned to</Value>
+      <Value>posted at</Value>
+    </Field>
+    <Field Name="THEARMY">
+      <Value>The King's Army</Value>
+      <Value>King Idris IV's Army</Value>
+      <Value>The Lyraen Army</Value>
+    </Field>
+    <Field Name="EVIL">
+      <Value>abhorrent</Value>
+      <Value>accursed</Value>
+      <Value>atrocious</Value>
+      <Value>awful</Value>
+      <Value>corrupt</Value>
+      <Value>cruel</Value>
+      <Value>dangerous</Value>
+      <Value>debased</Value>
+      <Value>debauched</Value>
+      <Value>demented</Value>
+      <Value>depraved</Value>
+      <Value>deranged</Value>
+      <Value>deviant</Value>
+      <Value>devilish</Value>
+      <Value>evil</Value>
+      <Value>foul</Value>
+      <Value>grotesque</Value>
+      <Value>hateful</Value>
+      <Value>heinous</Value>
+      <Value>hideous</Value>
+      <Value>infamous</Value>
+      <Value>loathsome</Value>
+      <Value>malevolent</Value>
+      <Value>monstrous</Value>
+      <Value>nasty</Value>
+      <Value>nefarious</Value>
+      <Value>obscene</Value>
+      <Value>pernicious</Value>
+      <Value>perverse</Value>
+      <Value>perverted</Value>
+      <Value>psychopathic</Value>
+      <Value>sick</Value>
+      <Value>sociopathic</Value>
+      <Value>twisted</Value>
+      <Value>vicious</Value>
+      <Value>vile</Value>
+      <Value>villainous</Value>
+      <Value>violent</Value>
+      <Value>wicked</Value>
+      <Value>"misunderstood"</Value>
+      <Value>callous</Value>
+      <Value>diabolical</Value>
+      <Value>heartless</Value>
+      <Value>implacable</Value>
+      <Value>inhumane</Value>
+      <Value>malicious</Value>
+      <Value>remorseless</Value>
+      <Value>ruthless</Value>
+      <Value>sadistic</Value>
+      <Value>savage</Value>
+    </Field>
+    <Field Name="LIVESAT">
+      <Value>dwells in</Value>
+      <Value>found shelter in</Value>
+      <Value>has gone into hiding at</Value>
+      <Value>has gone underground in</Value>
+      <Value>has settled</Value>
+      <Value>hides in</Value>
+      <Value>is holed-up in</Value>
+      <Value>inhabits</Value>
+      <Value>is lying low in</Value>
+      <Value>is rumored to be at</Value>
+      <Value>lives at</Value>
+      <Value>lives in</Value>
+      <Value>occupies</Value>
+      <Value>resides at</Value>
+      <Value>resides in</Value>
+      <Value>roosts in</Value>
+      <Value>sought shelter at</Value>
+      <Value>squats at</Value>
+      <Value>squats in</Value>
+      <Value>bunks at</Value>
+      <Value>has found lodge at</Value>
+      <Value>has taken root at</Value>
+      <Value>has set up home at</Value>
+      <Value>has set up home in</Value>
+      <Value>has taken up residence at</Value>
+      <Value>has taken up residence in</Value>
+      <Value>has taken cover at</Value>
+      <Value>has set up camp in</Value>
+      <Value>has found shelter at</Value>
+      <Value>has tucked-away at</Value>
+      <Value>has sheltered in</Value>
+      <Value>was spotted at</Value>
+      <Value>was sighted in</Value>
+      <Value>has been located at</Value>
+      <Value>was seen at</Value>
+      <Value>was last seen at</Value>
+    </Field>
+    <Field Name="INFAMOUS">
+      <Value>contemptible</Value>
+      <Value>corrupt</Value>
+      <Value>creepy</Value>
+      <Value>disgraceful</Value>
+      <Value>egregious</Value>
+      <Value>infamous</Value>
+      <Value>knavish</Value>
+      <Value>loathsome</Value>
+      <Value>miscreant</Value>
+      <Value>nefarious</Value>
+      <Value>notorious</Value>
+      <Value>odious</Value>
+      <Value>questionable</Value>
+      <Value>salty</Value>
+      <Value>scandalous</Value>
+      <Value>scurvy</Value>
+      <Value>shadowy</Value>
+      <Value>shady</Value>
+      <Value>sleazy</Value>
+      <Value>tawdry</Value>
+      <Value>treacherous</Value>
+      <Value>two-faced</Value>
+      <Value>unscrupulous</Value>
+      <Value>villainous</Value>
+      <Value>vulgar</Value>
+    </Field>
+    <Field Name="FAMOUS">
+      <Value>acclaimed</Value>
+      <Value>distinguished</Value>
+      <Value>exalted</Value>
+      <Value>famous</Value>
+      <Value>honored</Value>
+      <Value>renowned</Value>
+    </Field>
+    <Field Name="A_SKILLED_LOWERCASE">
+      <Value>an adept</Value>
+      <Value>an adroit</Value>
+      <Value>an apt</Value>
+      <Value>a capable</Value>
+      <Value>a competent</Value>
+      <Value>an experienced</Value>
+      <Value>an expert</Value>
+      <Value>a practiced</Value>
+      <Value>a proficient</Value>
+      <Value>a qualified</Value>
+      <Value>a seasoned</Value>
+      <Value>a skilled</Value>
+      <Value>a well-honed</Value>
+      <Value>a talented</Value>
+    </Field>
+    <Field Name="JOB">
+      <Value>task</Value>
+      <Value>dangerous job</Value>
+      <Value>job</Value>
+      <Value>quest</Value>
+      <Value>assignment</Value>
+      <Value>important quest</Value>
+      <Value>opportunity</Value>
+      <Value>undertaking</Value>
+      <Value>mission</Value>
+    </Field>
+    <Field Name="CHAOTIC">
+      <Value>anarchic</Value>
+      <Value>chaotic</Value>
+      <Value>discordant</Value>
+      <Value>lawless</Value>
+      <Value>tumultuous</Value>
+      <Value>turbulent</Value>
+      <Value>unruly</Value>
+    </Field>
+    <Field Name="A_LONG_TIME_AGO">
+      <Value>A long time ago</Value>
+      <Value>Decades ago</Value>
+      <Value>In days past</Value>
+      <Value>In times past</Value>
+      <Value>In years past</Value>
+      <Value>Long ago</Value>
+      <Value>Many years ago</Value>
+      <Value>Years ago</Value>
+    </Field>
+    <Field Name="NAIVE">
+      <Value>dupable</Value>
+      <Value>foolish</Value>
+      <Value>guileless</Value>
+      <Value>idealistic</Value>
+      <Value>inexperienced</Value>
+      <Value>innocent</Value>
+      <Value>naive</Value>
+      <Value>unworldly</Value>
+      <Value>wide-eyed</Value>
+    </Field>
+    <Field Name="DISGRACED">
+      <Value>besmirched</Value>
+      <Value>defamed</Value>
+      <Value>disgraced</Value>
+      <Value>dishonored</Value>
+      <Value>shamed</Value>
+      <Value>sullied</Value>
+    </Field>
+    <Field Name="BE_CAREFUL">
+      <Value>be careful</Value>
+      <Value>use caution</Value>
+      <Value>use caution on your adventure</Value>
+      <Value>take precautions</Value>
+      <Value>bring protection</Value>
+      <Value>anticipate problems</Value>
+      <Value>anticipate a fight</Value>
+      <Value>expect problems</Value>
+      <Value>expect a fight</Value>
+      <Value>use foresight</Value>
+      <Value>use foresight and be prepared</Value>
+      <Value>be prudent</Value>
+      <Value>be prudent and expect a rough fight</Value>
+      <Value>assume there will be violence</Value>
+      <Value>count on fighting</Value>
+      <Value>prepare for a hard fight</Value>
+    </Field>
+    <Field Name="A_GROUP_OF">
+      <Value>a group of</Value>
+      <Value>an assemblage of</Value>
+      <Value>a company of</Value>
+      <Value>a gang of</Value>
+      <Value>a party of</Value>
+      <Value>a bevy of</Value>
+      <Value>a cartel of</Value>
+      <Value>a covey of</Value>
+      <Value>a posse of</Value>
+    </Field>
+    <Field Name="FIEND">
+      <Value>fiend</Value>
+      <Value>menace</Value>
+      <Value>degenerate</Value>
+      <Value>dastard</Value>
+      <Value>sadist</Value>
+      <Value>evildoer</Value>
+      <Value>villain</Value>
+      <Value>troublemaker</Value>
+      <Value>lowlife</Value>
+    </Field>
+    <Field Name="HELP">
+      <Value>help</Value>
+      <Value>aid</Value>
+      <Value>assistance</Value>
+    </Field>
+    <Field Name="QUICKLY">
+      <Value>quickly</Value>
+      <Value>rapidly</Value>
+      <Value>swiftly</Value>
+    </Field>
+    <Field Name="NAMED">
+      <Value>named</Value>
+      <Value>called</Value>
+      <Value>nicknamed</Value>
+    </Field>
+    <Field Name="ATROCITIES">
+      <Value>atrocities</Value>
+      <Value>horrors</Value>
+      <Value>crimes</Value>
+      <Value>evils</Value>
+      <Value>offenses</Value>
+      <Value>cruelness</Value>
+      <Value>barbarities</Value>
+    </Field>
+  </Story_Fields>
+</Story_Generator>

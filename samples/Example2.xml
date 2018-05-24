@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>Village</Group>
+  <Story>The [SPOILED] daughter of Duke Eisen has an [INFATUATION] [BOSSNAME]. [BOSSHESHE] [PLANS] to [MARRY] [ANOTHER], but the daughter will have none of it! The Duke has learned that she [PLANSX] to throw herself at the {BOSSRACE} during [ANUPCOMING] [BARBECUE] at Toro, her father's plantation.&#xD;
+&#xD;
+This [SITUATION] will [UNDOUBTEDLY] [EMBARRASS] the family and [DAMAGE] their social standing. Duke Eisen [REQUESTS] you [DISCREETLY] "[INTIMIDATE]" [BOSSNAME] and "encourage" {BOSSHIMHER} to not [ATTEND] the [GATHERING]. [BOSSHESHE] is [A_SKILLED] {BOSSTYPE}, so don't expect this [JOB] to be [EASY]. [BOSSHESHE] can be found at [MAPNAME] with several of his {MINIONRACE} [FRIENDS].&#xD;
+&#xD;
+The Duke will reward you with {REWARDNAME} from his [PRIVATE] [HOLDINGS] for getting his [FAMILY] out of this [AWKWARD] and [SCANDALOUS] [PREDICAMENT].</Story>
+  <Story_Fields>
+    <Field Name="PREDICAMENT">
+      <Value>predicament</Value>
+      <Value>dilemma</Value>
+      <Value>hardship</Value>
+      <Value>plight</Value>
+      <Value>mess</Value>
+    </Field>
+    <Field Name="SCANDALOUS">
+      <Value>scandalous</Value>
+      <Value>disgraceful</Value>
+      <Value>shameful</Value>
+      <Value>unseemly</Value>
+    </Field>
+    <Field Name="AWKWARD">
+      <Value>awkward</Value>
+      <Value>delicate</Value>
+      <Value>troublesome</Value>
+      <Value>unpleasant</Value>
+    </Field>
+    <Field Name="FAMILY">
+      <Value>family</Value>
+      <Value>clan</Value>
+      <Value>house</Value>
+    </Field>
+    <Field Name="HOLDINGS">
+      <Value>holdings</Value>
+      <Value>estate</Value>
+    </Field>
+    <Field Name="PRIVATE">
+      <Value>personal</Value>
+      <Value>private</Value>
+      <Value>family's</Value>
+    </Field>
+    <Field Name="FRIENDS">
+      <Value>friends</Value>
+      <Value>companions</Value>
+      <Value>comrades</Value>
+    </Field>
+    <Field Name="EASY">
+      <Value>easy</Value>
+      <Value>simple</Value>
+      <Value>straightforward</Value>
+      <Value>effortless</Value>
+    </Field>
+    <Field Name="GATHERING">
+      <Value>gathering</Value>
+      <Value>function</Value>
+      <Value>party</Value>
+    </Field>
+    <Field Name="ATTEND">
+      <Value>attend</Value>
+      <Value>make an appearance at</Value>
+      <Value>go to</Value>
+      <Value>show up at</Value>
+    </Field>
+    <Field Name="INTIMIDATE">
+      <Value>intimidate</Value>
+      <Value>frighten</Value>
+      <Value>dishearten</Value>
+      <Value>scare</Value>
+      <Value>terrorize</Value>
+    </Field>
+    <Field Name="DAMAGE">
+      <Value>damage</Value>
+      <Value>harm</Value>
+      <Value>bruise</Value>
+    </Field>
+    <Field Name="EMBARRASS">
+      <Value>embarrass</Value>
+      <Value>mortify</Value>
+      <Value>shame</Value>
+      <Value>scandalize</Value>
+      <Value>disgrace</Value>
+    </Field>
+    <Field Name="UNDOUBTEDLY">
+      <Value>undoubtedly</Value>
+      <Value>assuredly</Value>
+      <Value>surely</Value>
+    </Field>
+    <Field Name="BARBECUE">
+      <Value>barbecue</Value>
+      <Value>picnic</Value>
+      <Value>party</Value>
+      <Value>clam bake</Value>
+      <Value>celebration</Value>
+      <Value>social gathering</Value>
+    </Field>
+    <Field Name="ANUPCOMING">
+      <Value>an upcoming</Value>
+      <Value>an approaching</Value>
+    </Field>
+    <Field Name="PLANSX">
+      <Value>plans</Value>
+      <Value>intends</Value>
+      <Value>plots</Value>
+    </Field>
+    <Field Name="ANOTHER">
+      <Value>another</Value>
+      <Value>a different person</Value>
+      <Value>someone else</Value>
+    </Field>
+    <Field Name="MARRY">
+      <Value>marry</Value>
+      <Value>wed</Value>
+    </Field>
+    <Field Name="PLANS">
+      <Value>plans</Value>
+      <Value>intends</Value>
+    </Field>
+    <Field Name="INFATUATION">
+      <Value>infatuation with</Value>
+      <Value>obsession with</Value>
+      <Value>crush on</Value>
+    </Field>
+    <Field Name="SPOILED">
+      <Value>spoiled</Value>
+      <Value>self-indulgent</Value>
+      <Value>spoon-fed</Value>
+      <Value>overindulged</Value>
+      <Value>coddled</Value>
+      <Value>mollycoddled</Value>
+      <Value>pampered</Value>
+    </Field>
+    <Field Name="REQUESTS">
+      <Value>asks</Value>
+      <Value>begs</Value>
+      <Value>insists</Value>
+      <Value>requests</Value>
+    </Field>
+    <Field Name="A_SKILLED">
+      <Value>an adept</Value>
+      <Value>a capable</Value>
+      <Value>a competent</Value>
+      <Value>an experienced</Value>
+      <Value>an expert</Value>
+      <Value>a practiced</Value>
+      <Value>a skilled</Value>
+      <Value>a talented</Value>
+    </Field>
+    <Field Name="JOB">
+      <Value>task</Value>
+      <Value>job</Value>
+      <Value>quest</Value>
+      <Value>assignment</Value>
+      <Value>undertaking</Value>
+      <Value>mission</Value>
+    </Field>
+    <Field Name="SITUATION">
+      <Value>situation</Value>
+      <Value>debacle</Value>
+      <Value>fiasco</Value>
+      <Value>mess</Value>
+    </Field>
+    <Field Name="DISCREETLY">
+      <Value>discreetly</Value>
+      <Value>quietly</Value>
+    </Field>
+  </Story_Fields>
+</Story_Generator>

@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>City</Group>
+  <Story>[DURING] the Lyraen War of Succession, a [HANDFUL] of [LOYAL] ship captains were [GIVEN] Writs of Privateering. These [DECREES] [GAVE] the captains [OFFICIAL] [PERMISSION] to [COMMANDEER] ships and cargo from any [VESSEL] flying an enemy's [FLAG]. The privateers were very [SUCCESSFUL] at [STOPPING] the enemy's merchant [FLEET]; captains and crew alike [PROFITED] [GREATLY].&#xD;
+&#xD;
+[FOLLOWING] the war, all Writs were [REVOKED] as part of the [PEACEAGREEMENT]. [SEVERAL] now-[DISGRACED] captains [DISREGARDED] the new peace and turned to piracy, placing [MONEY] above [HONOR]. [BOSSNAME] is one such captain. &#xD;
+&#xD;
+The {BOSSRACE} {BOSSTYPE} and {BOSSHISHER} {MINIONRACE} [CREW] have recently [DOCKED]. They plan on fencing their [SPOILS] and carousing in the town's [TAVERNS]. Go to [MAPNAME] and [CAPTURE] the [PIRATES] so they can be [BROUGHT] to The King's [JUSTICE]. &#xD;
+&#xD;
+You will be rewarded with {REWARDNAME} from Lyrae's [TREASURY] for [APPREHENDING] the [WAYWARD] buccaneers.</Story>
+  <Story_Fields>
+    <Field Name="GREATLY">
+      <Value>greatly</Value>
+      <Value>significantly</Value>
+    </Field>
+    <Field Name="PROFITED">
+      <Value>benefited</Value>
+      <Value>profited</Value>
+    </Field>
+    <Field Name="HONOR">
+      <Value>honor</Value>
+      <Value>integrity</Value>
+      <Value>decency</Value>
+      <Value>decorum</Value>
+    </Field>
+    <Field Name="MONEY">
+      <Value>money</Value>
+      <Value>wealth</Value>
+      <Value>silvers</Value>
+    </Field>
+    <Field Name="FLEET">
+      <Value>fleet</Value>
+      <Value>vessels</Value>
+      <Value>ships</Value>
+      <Value>armada</Value>
+    </Field>
+    <Field Name="STOPPING">
+      <Value>stopping</Value>
+      <Value>deterring</Value>
+      <Value>slowing</Value>
+      <Value>hindering</Value>
+    </Field>
+    <Field Name="SUCCESSFUL">
+      <Value>successful</Value>
+      <Value>effective</Value>
+    </Field>
+    <Field Name="DECREES">
+      <Value>decrees</Value>
+      <Value>mandates</Value>
+      <Value>documents</Value>
+    </Field>
+    <Field Name="GIVEN">
+      <Value>given</Value>
+      <Value>granted</Value>
+      <Value>presented with</Value>
+    </Field>
+    <Field Name="WAYWARD">
+      <Value>wayward</Value>
+      <Value>errant</Value>
+      <Value>capricious</Value>
+      <Value>unruly</Value>
+    </Field>
+    <Field Name="APPREHENDING">
+      <Value>apprehending</Value>
+      <Value>catching</Value>
+      <Value>capturing</Value>
+    </Field>
+    <Field Name="HANDFUL">
+      <Value>handful</Value>
+      <Value>group of</Value>
+      <Value>small number</Value>
+    </Field>
+    <Field Name="JUSTICE">
+      <Value>justice</Value>
+      <Value>court</Value>
+      <Value>magistrate</Value>
+    </Field>
+    <Field Name="BROUGHT">
+      <Value>brought</Value>
+      <Value>delivered</Value>
+      <Value>handed-over</Value>
+    </Field>
+    <Field Name="PIRATES">
+      <Value>pirates</Value>
+      <Value>corsairs</Value>
+      <Value>freebooters</Value>
+      <Value>picaroons</Value>
+      <Value>buccaneers</Value>
+    </Field>
+    <Field Name="CAPTURE">
+      <Value>capture</Value>
+      <Value>seize</Value>
+      <Value>arrest</Value>
+      <Value>apprehend</Value>
+    </Field>
+    <Field Name="SPOILS">
+      <Value>spoils</Value>
+      <Value>stolen goods</Value>
+      <Value>booty</Value>
+      <Value>plunder</Value>
+      <Value>swag</Value>
+    </Field>
+    <Field Name="DOCKED">
+      <Value>docked</Value>
+      <Value>landed</Value>
+      <Value>come ashore</Value>
+      <Value>dropped anchor</Value>
+      <Value>come to berth</Value>
+    </Field>
+    <Field Name="CREW">
+      <Value>crew</Value>
+      <Value>sailors</Value>
+      <Value>mariners</Value>
+      <Value>shipmates</Value>
+      <Value>seafarers</Value>
+    </Field>
+    <Field Name="DISREGARDED">
+      <Value>disregarded</Value>
+      <Value>ignored</Value>
+      <Value>"overlooked"</Value>
+      <Value>decried</Value>
+      <Value>denounced</Value>
+    </Field>
+    <Field Name="SEVERAL">
+      <Value>Several</Value>
+      <Value>A few</Value>
+      <Value>A handful of</Value>
+    </Field>
+    <Field Name="PEACEAGREEMENT">
+      <Value>peace agreement</Value>
+      <Value>peace accord</Value>
+      <Value>truce</Value>
+      <Value>armistice</Value>
+    </Field>
+    <Field Name="REVOKED">
+      <Value>revoked</Value>
+      <Value>annulled</Value>
+      <Value>rescinded</Value>
+    </Field>
+    <Field Name="FOLLOWING">
+      <Value>Following</Value>
+      <Value>After</Value>
+    </Field>
+    <Field Name="FLAG">
+      <Value>flag</Value>
+      <Value>colors</Value>
+    </Field>
+    <Field Name="VESSEL">
+      <Value>vessel</Value>
+      <Value>craft</Value>
+    </Field>
+    <Field Name="COMMANDEER">
+      <Value>commandeer</Value>
+      <Value>confiscate</Value>
+      <Value>seize</Value>
+    </Field>
+    <Field Name="PERMISSION">
+      <Value>permission</Value>
+      <Value>authorization</Value>
+      <Value>license</Value>
+      <Value>dispensation</Value>
+    </Field>
+    <Field Name="OFFICIAL">
+      <Value>official</Value>
+      <Value>formal</Value>
+    </Field>
+    <Field Name="GAVE">
+      <Value>gave</Value>
+      <Value>granted</Value>
+    </Field>
+    <Field Name="DURING">
+      <Value>During</Value>
+      <Value>Amidst</Value>
+      <Value>Throughout</Value>
+    </Field>
+    <Field Name="TAVERNS">
+      <Value>bars</Value>
+      <Value>canteens</Value>
+      <Value>cantinas</Value>
+      <Value>drinkeries</Value>
+      <Value>pubs</Value>
+      <Value>rathskellers</Value>
+      <Value>taverns</Value>
+      <Value>dens of iniquity</Value>
+    </Field>
+    <Field Name="LOYAL">
+      <Value>ardent</Value>
+      <Value>dedicated</Value>
+      <Value>dependable</Value>
+      <Value>devoted</Value>
+      <Value>dutiful</Value>
+      <Value>loyal</Value>
+      <Value>nationalistic</Value>
+      <Value>patriotic</Value>
+    </Field>
+    <Field Name="DISGRACED">
+      <Value>besmirched</Value>
+      <Value>defamed</Value>
+      <Value>disgraced</Value>
+      <Value>dishonored</Value>
+      <Value>shamed</Value>
+      <Value>sullied</Value>
+    </Field>
+    <Field Name="TREASURY">
+      <Value>treasury</Value>
+      <Value>coffers</Value>
+      <Value>bursary</Value>
+    </Field>
+  </Story_Fields>
+</Story_Generator>

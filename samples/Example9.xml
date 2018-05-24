@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>Village</Group>
+  <Story>A [VALIANT] [WARRIOR]'s life was [TRANSFORMED] after [ANENCOUNTER] with [A_MYSTERIOUS_LOWERCASE] female [WIGHT]. The [SPIRIT] [OFFERED] the [WARRIOR] a [FAR-REACHING] [PROPHECY]: in time he would [SURPASS] his [FAMOUS] [MASTER] and [BECOME] a [FAMED] [LEADER] of men. Upon learning of the forecast, the [WARRIOR]'s [WIFE] [SOUGHT] to [EXPEDITE] the [FORETELLING] by [KILLING] her [LOYAL] husband's [MASTER] in cold blood. &#xD;
+&#xD;
+[CONSUMED] by [GUILT] and [BETRAYAL], the [DISGRACED] [WARRIOR] [FLED] to [MAPNAME] to [PURSUE] the [SOLITARY] [LIFE] of [AHERMIT]. &#xD;
+&#xD;
+The [MASTER]'s [FAMILY] has [RECENTLY] [DISPATCHED] [BOSSNAME] to the [REGION], [UNFAIRLY] [SEEKING] [VENGEANCE] against the [WARRIOR] for his [WIFE]'s [BETRAYALX]. [BOSSNAME] is [A_SKILLED_LOWERCASE] {BOSSTYPE} who {ASSOCIATES_WITH} {A_GROUP_OF} {MINIONRACES}, so {BE_CAREFUL}.&#xD;
+&#xD;
+An innocent man is in [DANGER]. Go to [MAPNAME] and stop the [ATTACKERS]. Your [PAYMENT] for [PROTECTING] him will be {REWARDNAME}.</Story>
+  <Story_Fields>
+    <Field Name="PROTECTING">
+      <Value>protecting</Value>
+      <Value>shielding</Value>
+      <Value>safeguarding</Value>
+    </Field>
+    <Field Name="PAYMENT">
+      <Value>payment</Value>
+      <Value>reward</Value>
+      <Value>subsidy</Value>
+    </Field>
+    <Field Name="ATTACKERS">
+      <Value>attackers</Value>
+      <Value>assailants</Value>
+      <Value>aggressors</Value>
+    </Field>
+    <Field Name="DANGER">
+      <Value>danger</Value>
+      <Value>jeopardy</Value>
+      <Value>peril</Value>
+      <Value>trouble</Value>
+    </Field>
+    <Field Name="RECENTLY">
+      <Value>recently</Value>
+      <Value>now</Value>
+    </Field>
+    <Field Name="PURSUE">
+      <Value>pursue</Value>
+    </Field>
+    <Field Name="FAR-REACHING">
+      <Value>far-reaching</Value>
+      <Value>momentous</Value>
+      <Value>pervaisive</Value>
+      <Value>sweeping</Value>
+      <Value>weighty</Value>
+      <Value>fateful</Value>
+    </Field>
+    <Field Name="SOUGHT">
+      <Value>sought</Value>
+      <Value>tried to</Value>
+      <Value>desired to</Value>
+    </Field>
+    <Field Name="BETRAYAL">
+      <Value>betrayal</Value>
+      <Value>treachery</Value>
+      <Value>crime</Value>
+    </Field>
+    <Field Name="SEEKING">
+      <Value>seeking</Value>
+    </Field>
+    <Field Name="UNFAIRLY">
+      <Value>unfairly</Value>
+      <Value>unjustly</Value>
+    </Field>
+    <Field Name="DISPATCHED">
+      <Value>dispatched</Value>
+      <Value>sent</Value>
+    </Field>
+    <Field Name="FAMILY">
+      <Value>family</Value>
+      <Value>clan</Value>
+    </Field>
+    <Field Name="AHERMIT">
+      <Value>a hermit</Value>
+      <Value>a recluse</Value>
+      <Value>an ascetic</Value>
+      <Value>an eremite</Value>
+      <Value>a cenobite</Value>
+    </Field>
+    <Field Name="LIFE">
+      <Value>life</Value>
+      <Value>existence</Value>
+      <Value>way-of-life</Value>
+    </Field>
+    <Field Name="SOLITARY">
+      <Value>solitary</Value>
+      <Value>lonely</Value>
+      <Value>cloistered</Value>
+      <Value>reclusive</Value>
+      <Value>secluded</Value>
+    </Field>
+    <Field Name="FLED">
+      <Value>fled</Value>
+      <Value>departed</Value>
+      <Value>retreated</Value>
+    </Field>
+    <Field Name="BETRAYALX">
+      <Value>betrayal</Value>
+      <Value>disloyalty</Value>
+      <Value>unfaithfulness</Value>
+      <Value>perfidy</Value>
+    </Field>
+    <Field Name="GUILT">
+      <Value>guilt</Value>
+      <Value>disgrace</Value>
+      <Value>remorse</Value>
+      <Value>shame</Value>
+    </Field>
+    <Field Name="CONSUMED">
+      <Value>Consumed</Value>
+      <Value>Wrought</Value>
+      <Value>Drained</Value>
+      <Value>Ravaged</Value>
+      <Value>Ruined</Value>
+      <Value>Overwhelmed</Value>
+    </Field>
+    <Field Name="FORETELLING">
+      <Value>foretelling</Value>
+      <Value>portend</Value>
+      <Value>prophecy</Value>
+      <Value>revelation</Value>
+      <Value>oracle</Value>
+      <Value>vision</Value>
+    </Field>
+    <Field Name="EXPEDITE">
+      <Value>expedite</Value>
+      <Value>hasten</Value>
+      <Value>facilitate</Value>
+    </Field>
+    <Field Name="WIFE">
+      <Value>wife</Value>
+      <Value>mate</Value>
+      <Value>partner</Value>
+      <Value>spouse</Value>
+      <Value>consort</Value>
+    </Field>
+    <Field Name="FAMED">
+      <Value>famed</Value>
+      <Value>noted</Value>
+      <Value>renowned</Value>
+      <Value>popular</Value>
+      <Value>successful</Value>
+      <Value>celebrated</Value>
+    </Field>
+    <Field Name="LEADER">
+      <Value>leader</Value>
+      <Value>ruler</Value>
+    </Field>
+    <Field Name="BECOME">
+      <Value>become</Value>
+    </Field>
+    <Field Name="MASTER">
+      <Value>master</Value>
+      <Value>guru</Value>
+      <Value>sensei</Value>
+      <Value>teacher</Value>
+    </Field>
+    <Field Name="SURPASS">
+      <Value>surpass</Value>
+      <Value>soon surpass</Value>
+      <Value>eventually surpass</Value>
+      <Value>eclipse</Value>
+    </Field>
+    <Field Name="PROPHECY">
+      <Value>prophecy</Value>
+      <Value>revelation</Value>
+      <Value>portent</Value>
+      <Value>auspice</Value>
+    </Field>
+    <Field Name="OFFERED">
+      <Value>offered</Value>
+      <Value>showed</Value>
+      <Value>presented</Value>
+    </Field>
+    <Field Name="SPIRIT">
+      <Value>spirit</Value>
+      <Value>ghost</Value>
+      <Value>apparition</Value>
+      <Value>haunt</Value>
+      <Value>revenant</Value>
+      <Value>visitant</Value>
+    </Field>
+    <Field Name="WIGHT">
+      <Value>wight</Value>
+      <Value>ghost</Value>
+      <Value>spirit</Value>
+      <Value>phantom</Value>
+      <Value>specter</Value>
+      <Value>apparition</Value>
+      <Value>phantasm</Value>
+    </Field>
+    <Field Name="ANENCOUNTER">
+      <Value>an encounter</Value>
+      <Value>a brush</Value>
+      <Value>an experience</Value>
+    </Field>
+    <Field Name="TRANSFORMED">
+      <Value>transformed</Value>
+      <Value>forever altered</Value>
+      <Value>changed completely</Value>
+    </Field>
+    <Field Name="WARRIOR">
+      <Value>warrior</Value>
+      <Value>champion</Value>
+      <Value>martial artist</Value>
+      <Value>monk</Value>
+    </Field>
+    <Field Name="VALIANT">
+      <Value>valiant</Value>
+      <Value>gallant</Value>
+      <Value>heroic</Value>
+      <Value>bold</Value>
+      <Value>chivalrous</Value>
+      <Value>principled</Value>
+      <Value>moralistic</Value>
+    </Field>
+    <Field Name="REGION">
+      <Value>area</Value>
+      <Value>county</Value>
+      <Value>region</Value>
+      <Value>territory</Value>
+    </Field>
+    <Field Name="FAMOUS">
+      <Value>acclaimed</Value>
+      <Value>exalted</Value>
+      <Value>honored</Value>
+      <Value>illustrious</Value>
+      <Value>renowned</Value>
+      <Value>well-renowned</Value>
+      <Value>world-renowned</Value>
+    </Field>
+    <Field Name="A_MYSTERIOUS_LOWERCASE">
+      <Value>a mysterious</Value>
+      <Value>a mysterious</Value>
+      <Value>a strange</Value>
+      <Value>an eerie</Value>
+      <Value>an uncanny</Value>
+      <Value>an unworldy</Value>
+      <Value>an unearthly</Value>
+    </Field>
+    <Field Name="KILLING">
+      <Value>assassinating</Value>
+      <Value>executing</Value>
+      <Value>killing</Value>
+      <Value>murdering</Value>
+      <Value>slaying</Value>
+    </Field>
+    <Field Name="A_SKILLED_LOWERCASE">
+      <Value>an adept</Value>
+      <Value>an apt</Value>
+      <Value>a capable</Value>
+      <Value>a competent</Value>
+      <Value>an experienced</Value>
+      <Value>an expert</Value>
+      <Value>a practiced</Value>
+      <Value>a proficient</Value>
+      <Value>a seasoned</Value>
+      <Value>a skilled</Value>
+      <Value>a talented</Value>
+    </Field>
+    <Field Name="LOYAL">
+      <Value>dedicated</Value>
+      <Value>dependable</Value>
+      <Value>devoted</Value>
+      <Value>devout</Value>
+      <Value>dutiful</Value>
+      <Value>faithful</Value>
+      <Value>loyal</Value>
+    </Field>
+    <Field Name="VENGEANCE">
+      <Value>vengeance</Value>
+      <Value>reprisal</Value>
+      <Value>retaliation</Value>
+      <Value>retribution</Value>
+      <Value>revenge</Value>
+    </Field>
+    <Field Name="DISGRACED">
+      <Value>besmirched</Value>
+      <Value>defamed</Value>
+      <Value>disgraced</Value>
+      <Value>dishonored</Value>
+      <Value>shamed</Value>
+      <Value>sullied</Value>
+    </Field>
+    <Field Name="BE_CAREFUL">
+      <Value>be careful</Value>
+      <Value>use caution</Value>
+      <Value>use caution on your adventure</Value>
+      <Value>take precautions</Value>
+      <Value>bring protection</Value>
+      <Value>anticipate problems</Value>
+      <Value>anticipate a fight</Value>
+      <Value>expect a fight</Value>
+      <Value>use foresight and be prepared</Value>
+      <Value>be prudent and expect a rough fight</Value>
+      <Value>assume there will be violence</Value>
+      <Value>count on fighting</Value>
+      <Value>prepare for a hard fight</Value>
+    </Field>
+    <Field Name="ASSOCIATES_WITH">
+      <Value>associates with</Value>
+      <Value>hangs out with</Value>
+      <Value>is accompanied by</Value>
+      <Value>consorts with</Value>
+      <Value>fraternizes with</Value>
+      <Value>hobnobs with</Value>
+      <Value>chums around with</Value>
+      <Value>keeps company with</Value>
+      <Value>knocks around with</Value>
+      <Value>pals around with</Value>
+      <Value>rubs elbows with</Value>
+    </Field>
+    <Field Name="A_GROUP_OF">
+      <Value>a group of</Value>
+      <Value>an assemblage of</Value>
+      <Value>a company of</Value>
+      <Value>a gang of</Value>
+      <Value>a party of</Value>
+      <Value>a bevy of</Value>
+      <Value>a cartel of</Value>
+      <Value>a covey of</Value>
+      <Value>a posse of</Value>
+    </Field>
+  </Story_Fields>
+</Story_Generator>

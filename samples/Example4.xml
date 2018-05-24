@@ -1,0 +1,321 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>Castle</Group>
+  <Story>[A_SPOILED] [HEIRESS] [MARRIED] a [FORTUNE]-[HUNTING] [ADVENTURER] [DESPITE] her family's [OBJECTIONS] over the [RELATIONSHIP]. [FALLINGFOR] a [DEVIOUS] [PLOY] set by her [FAMILYMEMBER], the heiress was trapped and [HELD] [CAPTIVE] on the family's [YACHT]; this all done with the [INTENT] of "[PROTECTING]" her.&#xD;
+&#xD;
+The woman grew [DISTRAUGHT] as the [WEEKS] passed, until one day when she saw [HERCHANCE] for [FREEDOM]. As the [YACHT] approached [COAST], she jumped-ship and swam to the shores of [PROPERCITY], forever [FORGOING] her old life. &#xD;
+&#xD;
+Without any money or resources, the [HEIRESS] [TRIED] to [SNEAKABOARD] a [CARRIAGE] [HEADEDFOR] Lyrae, but was [CAUGHT]. A [KIND] [STRANGER], feeling sorry for her, [OFFERED] to pay her way. Along the [LENGTHY] [JOURNEY], the two fell [DEEPLY] in love. Upon reaching Lyrae, the [COUPLE] built a [HAPPY] [HOME] together.&#xD;
+&#xD;
+After many years, the heiress's [ADVENTURER] husband [UNWITTINGLY] [DISCOVERED] her fate. Assuming the worst when she had [DISAPPEARED], the [DEPRESSED] man had given-up on life and lost everything. When he [LEARNEDOFHER] [BETRAYAL], he went [RED] with rage. The man has now placed a [SIZABLE] bounty on his wife's paramour, the {BOSSRACE} {BOSSTYPE} [NAMED] [BOSSNAME].&#xD;
+&#xD;
+In fear for his life, the [LOVER] has [FLED] Lyrae and can be found at [MAPNAME]. The [ADVENTURER] will reward you with {REWARDNAME} for making sure the heiress suffers as much [PAIN] as possible.</Story>
+  <Story_Fields>
+    <Field Name="PAIN">
+      <Value>pain</Value>
+      <Value>agony</Value>
+      <Value>anguish</Value>
+      <Value>grief</Value>
+      <Value>heartache</Value>
+      <Value>woe</Value>
+    </Field>
+    <Field Name="PROTECTING">
+      <Value>protecting</Value>
+      <Value>looking after</Value>
+      <Value>safeguarding</Value>
+    </Field>
+    <Field Name="PROPERCITY">
+      <Value>Bad Oldesloe</Value>
+      <Value>Bradley Stoke</Value>
+      <Value>Lycae</Value>
+      <Value>Haven</Value>
+      <Value>Nebelheim</Value>
+      <Value>Nordburg</Value>
+      <Value>Soryben</Value>
+      <Value>Nye Mjolberg</Value>
+    </Field>
+    <Field Name="COAST">
+      <Value>the Arcadian Coast</Value>
+      <Value>Paradise Coast</Value>
+    </Field>
+    <Field Name="HAPPY">
+      <Value>happy</Value>
+      <Value>joyous</Value>
+    </Field>
+    <Field Name="DEEPLY">
+      <Value>deeply</Value>
+      <Value>intensely</Value>
+      <Value>passionately</Value>
+      <Value>profoundly</Value>
+    </Field>
+    <Field Name="INTENT">
+      <Value>intent</Value>
+      <Value>goal</Value>
+    </Field>
+    <Field Name="RELATIONSHIP">
+      <Value>relationship</Value>
+      <Value>affair</Value>
+    </Field>
+    <Field Name="DESPITE">
+      <Value>despite</Value>
+      <Value>in spite of</Value>
+      <Value>in defiance of</Value>
+      <Value>undeterred by</Value>
+    </Field>
+    <Field Name="FLED">
+      <Value>left</Value>
+      <Value>fled</Value>
+      <Value>flown from</Value>
+    </Field>
+    <Field Name="NAMED">
+      <Value>named</Value>
+      <Value>called</Value>
+      <Value>nicknamed</Value>
+    </Field>
+    <Field Name="LOVER">
+      <Value>lover</Value>
+      <Value>companion</Value>
+      <Value>paramour</Value>
+    </Field>
+    <Field Name="SIZABLE">
+      <Value>sizable</Value>
+      <Value>considerable</Value>
+      <Value>large</Value>
+    </Field>
+    <Field Name="RED">
+      <Value>red</Value>
+      <Value>mad</Value>
+      <Value>insane</Value>
+      <Value>livid</Value>
+    </Field>
+    <Field Name="BETRAYAL">
+      <Value>betrayal</Value>
+      <Value>unfaithfulness</Value>
+    </Field>
+    <Field Name="LEARNEDOFHER">
+      <Value>learned of her</Value>
+      <Value>discovered her</Value>
+      <Value>uncovered her</Value>
+    </Field>
+    <Field Name="DEPRESSED">
+      <Value>depressed</Value>
+      <Value>morose</Value>
+      <Value>despondent</Value>
+      <Value>hurting</Value>
+    </Field>
+    <Field Name="DISAPPEARED">
+      <Value>disappeared</Value>
+      <Value>vanished</Value>
+    </Field>
+    <Field Name="UNWITTINGLY">
+      <Value>unwittingly</Value>
+      <Value>by-chance</Value>
+    </Field>
+    <Field Name="DISCOVERED">
+      <Value>discovered</Value>
+      <Value>uncovered</Value>
+      <Value>unearthed</Value>
+      <Value>found out</Value>
+      <Value>stumbled upon</Value>
+    </Field>
+    <Field Name="HOME">
+      <Value>home</Value>
+      <Value>life</Value>
+    </Field>
+    <Field Name="COUPLE">
+      <Value>couple</Value>
+      <Value>twosome</Value>
+      <Value>paramours</Value>
+    </Field>
+    <Field Name="JOURNEY">
+      <Value>journey</Value>
+      <Value>trek</Value>
+      <Value>crossing</Value>
+      <Value>pilgrimage</Value>
+      <Value>sojourn</Value>
+      <Value>route</Value>
+    </Field>
+    <Field Name="LENGTHY">
+      <Value>lengthy</Value>
+      <Value>long</Value>
+      <Value>tedious</Value>
+    </Field>
+    <Field Name="OFFERED">
+      <Value>offered</Value>
+      <Value>endeavored</Value>
+    </Field>
+    <Field Name="STRANGER">
+      <Value>stranger</Value>
+      <Value>foreigner</Value>
+      <Value>immigrant</Value>
+    </Field>
+    <Field Name="HEADEDFOR">
+      <Value>headed for</Value>
+      <Value>headed towards</Value>
+      <Value>bound for</Value>
+      <Value>in transit to</Value>
+      <Value>en route to</Value>
+    </Field>
+    <Field Name="CAUGHT">
+      <Value>caught</Value>
+      <Value>detected</Value>
+      <Value>revealed</Value>
+      <Value>discovered</Value>
+    </Field>
+    <Field Name="CARRIAGE">
+      <Value>carriage</Value>
+      <Value>convoy</Value>
+      <Value>caravan</Value>
+    </Field>
+    <Field Name="SNEAKABOARD">
+      <Value>sneak aboard</Value>
+      <Value>hide within</Value>
+      <Value>smuggle herself aboard</Value>
+      <Value>stow away on</Value>
+    </Field>
+    <Field Name="TRIED">
+      <Value>tried</Value>
+      <Value>attempted</Value>
+    </Field>
+    <Field Name="FORGOING">
+      <Value>forgoing</Value>
+      <Value>abandoning</Value>
+      <Value>abdicating</Value>
+      <Value>forsaking</Value>
+    </Field>
+    <Field Name="FREEDOM">
+      <Value>freedom</Value>
+      <Value>escape</Value>
+      <Value>liberation</Value>
+    </Field>
+    <Field Name="HERCHANCE">
+      <Value>a chance</Value>
+      <Value>an opportunity</Value>
+    </Field>
+    <Field Name="WEEKS">
+      <Value>weeks</Value>
+      <Value>months</Value>
+    </Field>
+    <Field Name="DISTRAUGHT">
+      <Value>distraught</Value>
+      <Value>increasing distressed</Value>
+      <Value>frantic</Value>
+      <Value>hysterical</Value>
+    </Field>
+    <Field Name="YACHT">
+      <Value>yacht</Value>
+      <Value>sailboat</Value>
+      <Value>sloop</Value>
+    </Field>
+    <Field Name="CAPTIVE">
+      <Value>captive</Value>
+      <Value>in bondage</Value>
+    </Field>
+    <Field Name="HELD">
+      <Value>held</Value>
+    </Field>
+    <Field Name="PLOY">
+      <Value>ploy</Value>
+      <Value>trick</Value>
+      <Value>contrivance</Value>
+    </Field>
+    <Field Name="DEVIOUS">
+      <Value>devious</Value>
+      <Value>deceitful</Value>
+      <Value>insidious</Value>
+      <Value>sly</Value>
+      <Value>wily</Value>
+      <Value>dishonest</Value>
+    </Field>
+    <Field Name="FALLINGFOR">
+      <Value>Falling for</Value>
+      <Value>Being tricked by</Value>
+      <Value>Succumbing to</Value>
+    </Field>
+    <Field Name="OBJECTIONS">
+      <Value>objections</Value>
+      <Value>disapproval</Value>
+      <Value>protestations</Value>
+    </Field>
+    <Field Name="HUNTING">
+      <Value>hunting</Value>
+      <Value>seeking</Value>
+    </Field>
+    <Field Name="FORTUNE">
+      <Value>fortune</Value>
+      <Value>treasure</Value>
+      <Value>fame</Value>
+    </Field>
+    <Field Name="MARRIED">
+      <Value>secretly married</Value>
+      <Value>secretly wed</Value>
+      <Value>eloped with</Value>
+    </Field>
+    <Field Name="HEIRESS">
+      <Value>heiress</Value>
+      <Value>debutante</Value>
+    </Field>
+    <Field Name="FAMILYMEMBER">
+      <Value>aunt</Value>
+      <Value>best friend</Value>
+      <Value>boy</Value>
+      <Value>boyfriend</Value>
+      <Value>brother</Value>
+      <Value>brother-in-law</Value>
+      <Value>cousin</Value>
+      <Value>dad</Value>
+      <Value>daddy</Value>
+      <Value>father</Value>
+      <Value>father-in-law</Value>
+      <Value>grammy</Value>
+      <Value>grandfather</Value>
+      <Value>grandmother</Value>
+      <Value>grandpa</Value>
+      <Value>grandpa's war buddy</Value>
+      <Value>great aunt</Value>
+      <Value>great grandfather</Value>
+      <Value>great grandmother</Value>
+      <Value>great uncle</Value>
+      <Value>mommy</Value>
+      <Value>mother</Value>
+      <Value>mother-in-law</Value>
+      <Value>mum</Value>
+      <Value>nanna</Value>
+      <Value>nephew</Value>
+      <Value>niece</Value>
+      <Value>papa</Value>
+      <Value>second cousin</Value>
+      <Value>sister</Value>
+      <Value>sister's BFF</Value>
+      <Value>sister-in-law</Value>
+      <Value>third cousin (once removed)</Value>
+      <Value>uncle</Value>
+    </Field>
+    <Field Name="KIND">
+      <Value>beneficent</Value>
+      <Value>benevolent</Value>
+      <Value>bighearted</Value>
+      <Value>kind</Value>
+      <Value>kindly</Value>
+      <Value>noble</Value>
+      <Value>principled</Value>
+      <Value>selfless</Value>
+    </Field>
+    <Field Name="A_SPOILED">
+      <Value>A spoiled</Value>
+      <Value>A self-indulgent</Value>
+      <Value>A spoon-fed</Value>
+      <Value>An overindulged</Value>
+      <Value>A coddled</Value>
+      <Value>A mollycoddled</Value>
+      <Value>A pampered</Value>
+    </Field>
+    <Field Name="ADVENTURER">
+      <Value>adventurer</Value>
+      <Value>hero</Value>
+      <Value>explorer</Value>
+      <Value>daredevil</Value>
+      <Value>madcap</Value>
+    </Field>
+  </Story_Fields>
+</Story_Generator>

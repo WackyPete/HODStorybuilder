@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<Story_Generator>
+  <Group>City</Group>
+  <Story>[A_LONG_TIME_AGO], [ACHARISMATIC] [NOBLE] named Benjan Hurd was [FALSELY] [ACCUSEDOF] an assassination attempt against {A_FAMOUS} {COMMANDER} in the [KINGSARMY]. Not [UNRELATED], the {COMMANDER} was the man's [CHILDHOOD] [ADVERSARY]. Benjan was [SENTTO] [THEGALLEONS] for life, and his family was [CRUELLY] [IMPRISONED] as [CO-CONSPIRATORS].&#xD;
+&#xD;
+[ASTIME], Benjan [BECAME] [AWELL-RESPECTED] [ROWER] [ABOARDA] [MILITARY] [SHIP] belonging to the Lyraen Navy. When he saved the [SHIP] from [ANOILFIRE], Benjan was taken under-wing by the ship's captain. He was [EDUCATEDIN] the art of war, and [QUICKLY] [ROSE] through the [RANKS] as [A_SKILLED_LOWERCASE] charioteer. &#xD;
+&#xD;
+[WITHIN] [AFEWMONTHS], Benjan [EARNED] [GREAT] [FAME] at the Circus of Heroes. [EVENTUALLY], [ITWASPOSSIBLE] for him [BUY] his [FREEDOM] with his [WINNINGS]. A freed man, he [RETURNED] [HOME] to [REUNITE] with his [FAMILY].&#xD;
+&#xD;
+After [MONTHS] of [SEARCHING], Benjan [FOUND] his mother and sister. Both were [STILL] [IMPRISONED] and [GRIEVOUSLY] [SICKWITH] [DISEASE]. Benjan now seeks [VENGEANCE] against the [ASSHOLE] who [CALLOUSLY] [DESTROYED] his life.&#xD;
+&#xD;
+For the first [PART] of his [PLAN] to [SUCCEED], he [SEEKS] a [BAND] of [ADVENTURERS] to [GO] to [MAPNAME] and "[INTIMIDATE]" [BOSSNAME]. The {BOSSRACE} is {A_TALENTED} {BOSSTYPE} who is [GUARDED] by {A_GROUP_OF} {MINIONRACE} {LACKIES}, so {BE_CAREFUL}.&#xD;
+&#xD;
+Your reward will be {REWARDNAME}, a [VALUABLE] [HEIRLOOM] [EARNED] from one of Benjan's [FAMED] chariot races.</Story>
+  <Story_Fields>
+    <Field Name="SEEKS">
+      <Value>seeks</Value>
+      <Value>needs</Value>
+    </Field>
+    <Field Name="FAMED">
+      <Value>famed</Value>
+      <Value>famous</Value>
+      <Value>renowned</Value>
+      <Value>notable</Value>
+    </Field>
+    <Field Name="LACKIES">
+      <Value>lackeys</Value>
+      <Value>hirelings</Value>
+      <Value>hired-killers</Value>
+      <Value>guardsmen</Value>
+      <Value>flunkeys</Value>
+      <Value>underlings</Value>
+    </Field>
+    <Field Name="GUARDED">
+      <Value>guarded</Value>
+      <Value>protected</Value>
+      <Value>shielded</Value>
+    </Field>
+    <Field Name="A_TALENTED">
+      <Value>a talented</Value>
+      <Value>a skilled</Value>
+      <Value>an expert</Value>
+    </Field>
+    <Field Name="INTIMIDATE">
+      <Value>intimidate</Value>
+      <Value>threaten</Value>
+      <Value>scare</Value>
+      <Value>subdue</Value>
+      <Value>dispirit</Value>
+      <Value>"lean on"</Value>
+      <Value>"push around"</Value>
+    </Field>
+    <Field Name="GO">
+      <Value>go</Value>
+      <Value>travel</Value>
+      <Value>adventure</Value>
+      <Value>journey</Value>
+      <Value>voyage</Value>
+    </Field>
+    <Field Name="PLAN">
+      <Value>plan</Value>
+      <Value>scheme</Value>
+      <Value>revenge</Value>
+    </Field>
+    <Field Name="PART">
+      <Value>part</Value>
+      <Value>phase</Value>
+    </Field>
+    <Field Name="DESTROYED">
+      <Value>destroyed</Value>
+      <Value>devastated</Value>
+      <Value>ruined</Value>
+    </Field>
+    <Field Name="CALLOUSLY">
+      <Value>callously</Value>
+      <Value>ruthlessly</Value>
+      <Value>vindictively</Value>
+      <Value>spitefully</Value>
+      <Value>coldly</Value>
+    </Field>
+    <Field Name="SICKWITH">
+      <Value>sick with</Value>
+      <Value>ill with</Value>
+      <Value>infected with</Value>
+    </Field>
+    <Field Name="GRIEVOUSLY">
+      <Value>acutely</Value>
+      <Value>badly</Value>
+      <Value>severely</Value>
+      <Value>very</Value>
+      <Value>grievously</Value>
+    </Field>
+    <Field Name="STILL">
+      <Value>still</Value>
+    </Field>
+    <Field Name="FOUND">
+      <Value>found</Value>
+      <Value>finally found</Value>
+      <Value>located</Value>
+      <Value>finally located</Value>
+    </Field>
+    <Field Name="SEARCHING">
+      <Value>searching</Value>
+      <Value>inquiring</Value>
+      <Value>probing</Value>
+    </Field>
+    <Field Name="MONTHS">
+      <Value>months</Value>
+      <Value>many months</Value>
+      <Value>nearly a year</Value>
+    </Field>
+    <Field Name="FAMILY">
+      <Value>family</Value>
+      <Value>clan</Value>
+      <Value>kin</Value>
+    </Field>
+    <Field Name="REUNITE">
+      <Value>reunite</Value>
+      <Value>rejoin</Value>
+      <Value>reunify</Value>
+    </Field>
+    <Field Name="HOME">
+      <Value>to his homeland</Value>
+      <Value>home</Value>
+    </Field>
+    <Field Name="RETURNED">
+      <Value>returned</Value>
+      <Value>went back</Value>
+    </Field>
+    <Field Name="FREEDOM">
+      <Value>freedom</Value>
+      <Value>liberation</Value>
+      <Value>emancipation</Value>
+    </Field>
+    <Field Name="BUY">
+      <Value>buy</Value>
+      <Value>purchase</Value>
+    </Field>
+    <Field Name="ITWASPOSSIBLE">
+      <Value>it was possible</Value>
+      <Value>it was achievable</Value>
+    </Field>
+    <Field Name="EVENTUALLY">
+      <Value>Eventually</Value>
+      <Value>In the course of time</Value>
+      <Value>Ultimately</Value>
+      <Value>Within time</Value>
+    </Field>
+    <Field Name="FAME">
+      <Value>fame</Value>
+      <Value>glory</Value>
+      <Value>celebrity</Value>
+      <Value>popularity</Value>
+      <Value>acclaim</Value>
+    </Field>
+    <Field Name="GREAT">
+      <Value>great</Value>
+      <Value>heroic</Value>
+      <Value>terrific</Value>
+    </Field>
+    <Field Name="AFEWMONTHS">
+      <Value>many months</Value>
+      <Value>a few years</Value>
+    </Field>
+    <Field Name="WITHIN">
+      <Value>Within</Value>
+      <Value>Inside</Value>
+    </Field>
+    <Field Name="RANKS">
+      <Value>military ranks</Value>
+      <Value>military echelons</Value>
+    </Field>
+    <Field Name="ROSE">
+      <Value>rose</Value>
+      <Value>advanced</Value>
+    </Field>
+    <Field Name="EDUCATEDIN">
+      <Value>educated in</Value>
+      <Value>taught</Value>
+      <Value>schooled in</Value>
+      <Value>trained in</Value>
+    </Field>
+    <Field Name="ANOILFIRE">
+      <Value>an oil fire</Value>
+      <Value>running aground</Value>
+      <Value>running ashore</Value>
+      <Value>being reefed</Value>
+      <Value>being shipwrecked</Value>
+      <Value>a cooking fire</Value>
+    </Field>
+    <Field Name="SHIP">
+      <Value>ship</Value>
+      <Value>galley</Value>
+      <Value>galleon</Value>
+    </Field>
+    <Field Name="MILITARY">
+      <Value>military</Value>
+      <Value>logistics</Value>
+      <Value>service</Value>
+    </Field>
+    <Field Name="ABOARDA">
+      <Value>on board a</Value>
+      <Value>aboard a</Value>
+    </Field>
+    <Field Name="ROWER">
+      <Value>rower</Value>
+      <Value>paddler</Value>
+      <Value>oarsman</Value>
+      <Value>gondolier</Value>
+    </Field>
+    <Field Name="AWELL-RESPECTED">
+      <Value>a well-respected</Value>
+      <Value>a respected</Value>
+      <Value>an appreciated</Value>
+      <Value>an admired</Value>
+      <Value>a well-liked</Value>
+    </Field>
+    <Field Name="BECAME">
+      <Value>became</Value>
+      <Value>grew into</Value>
+      <Value>turned out to be</Value>
+    </Field>
+    <Field Name="ASTIME">
+      <Value>As time passed</Value>
+      <Value>As the months went by</Value>
+      <Value>As the years went by</Value>
+    </Field>
+    <Field Name="CO-CONSPIRATORS">
+      <Value>co-conspirators</Value>
+      <Value>accessories to the crime</Value>
+      <Value>his accomplices</Value>
+    </Field>
+    <Field Name="IMPRISONED">
+      <Value>imprisoned</Value>
+      <Value>jailed</Value>
+      <Value>incarcerated</Value>
+      <Value>arrested</Value>
+    </Field>
+    <Field Name="CRUELLY">
+      <Value>cruelly</Value>
+      <Value>inhumanly</Value>
+    </Field>
+    <Field Name="THEGALLEONS">
+      <Value>the galleons</Value>
+      <Value>the galleys</Value>
+    </Field>
+    <Field Name="SENTTO">
+      <Value>sent to</Value>
+      <Value>sentenced to</Value>
+      <Value>condemned to</Value>
+    </Field>
+    <Field Name="ADVERSARY">
+      <Value>adversary</Value>
+      <Value>enemy</Value>
+      <Value>rival</Value>
+      <Value>antagonist</Value>
+      <Value>bully</Value>
+    </Field>
+    <Field Name="CHILDHOOD">
+      <Value>childhood</Value>
+      <Value>adolescent</Value>
+    </Field>
+    <Field Name="UNRELATED">
+      <Value>unrelated to his plight</Value>
+      <Value>germane to the situation</Value>
+      <Value>insignificant to the incident</Value>
+      <Value>inconsequential to the situation</Value>
+    </Field>
+    <Field Name="KINGSARMY">
+      <Value>King's Army</Value>
+      <Value>King's Guard</Value>
+      <Value>King's Infantry</Value>
+      <Value>King's Cavalry</Value>
+    </Field>
+    <Field Name="ACCUSEDOF">
+      <Value>accused of</Value>
+      <Value>blamed for</Value>
+      <Value>implicated in</Value>
+    </Field>
+    <Field Name="FALSELY">
+      <Value>falsely</Value>
+      <Value>maliciously</Value>
+      <Value>dishonestly</Value>
+      <Value>malevolently</Value>
+      <Value>falseheartedly</Value>
+      <Value>treacherously</Value>
+    </Field>
+    <Field Name="NOBLE">
+      <Value>noble</Value>
+      <Value>wellborn</Value>
+      <Value>highborn</Value>
+    </Field>
+    <Field Name="SUCCEED">
+      <Value>succeed</Value>
+      <Value>prevail</Value>
+    </Field>
+    <Field Name="WINNINGS">
+      <Value>winnings</Value>
+      <Value>collected winnings</Value>
+      <Value>earnings</Value>
+    </Field>
+    <Field Name="EARNED">
+      <Value>earned</Value>
+      <Value>reaped</Value>
+      <Value>garnered</Value>
+    </Field>
+    <Field Name="COMMANDER">
+      <Value>captain</Value>
+      <Value>commander</Value>
+      <Value>general</Value>
+      <Value>officer</Value>
+      <Value>overlord</Value>
+      <Value>warlord</Value>
+      <Value>marshal</Value>
+      <Value>sheriff</Value>
+    </Field>
+    <Field Name="ASSHOLE">
+      <Value>animal</Value>
+      <Value>asshat</Value>
+      <Value>bastard</Value>
+      <Value>beast</Value>
+      <Value>butthead</Value>
+      <Value>cad</Value>
+      <Value>chicken-lover</Value>
+      <Value>churl</Value>
+      <Value>clod</Value>
+      <Value>coward</Value>
+      <Value>craven</Value>
+      <Value>cur</Value>
+      <Value>dastard</Value>
+      <Value>degenerate</Value>
+      <Value>devil</Value>
+      <Value>evildoer</Value>
+      <Value>fiend</Value>
+      <Value>jerk</Value>
+      <Value>loathsome malefactor</Value>
+      <Value>lout</Value>
+      <Value>lowlife</Value>
+      <Value>lummox</Value>
+      <Value>maggot</Value>
+      <Value>malodorous mucker</Value>
+      <Value>mean dastard</Value>
+      <Value>mucker</Value>
+      <Value>poltroon</Value>
+      <Value>rat</Value>
+      <Value>recreant</Value>
+      <Value>scum</Value>
+      <Value>scumbag</Value>
+      <Value>snake</Value>
+      <Value>son-of-a-goblin</Value>
+      <Value>wretch</Value>
+      <Value>wretched rat</Value>
+      <Value>cretin</Value>
+      <Value>jabroni</Value>
+      <Value>goblin lover</Value>
+      <Value>gonk</Value>
+      <Value>prat</Value>
+    </Field>
+    <Field Name="A_FAMOUS">
+      <Value>a distinguished</Value>
+      <Value>an exalted</Value>
+      <Value>an honored</Value>
+      <Value>a renowned</Value>
+      <Value>a well-known</Value>
+    </Field>
+    <Field Name="A_SKILLED_LOWERCASE">
+      <Value>an adept</Value>
+      <Value>an adroit</Value>
+      <Value>an apt</Value>
+      <Value>a capable</Value>
+      <Value>a competent</Value>
+      <Value>an expert</Value>
+      <Value>a practiced</Value>
+      <Value>a proficient</Value>
+      <Value>a skilled</Value>
+      <Value>a talented</Value>
+    </Field>
+    <Field Name="ACHARISMATIC">
+      <Value>an affable</Value>
+      <Value>an amiable</Value>
+      <Value>a charismatic</Value>
+      <Value>a cordial</Value>
+      <Value>a likable</Value>
+      <Value>an honest</Value>
+      <Value>an honorable</Value>
+    </Field>
+    <Field Name="DISEASE">
+      <Value>Black Water Fever</Value>
+      <Value>Grocer's Itch</Value>
+      <Value>King's Evil</Value>
+      <Value>ablepsy</Value>
+      <Value>bilious fever</Value>
+      <Value>the black fever</Value>
+      <Value>black pox</Value>
+      <Value>breakbone fever</Value>
+      <Value>cancer</Value>
+      <Value>chorea</Value>
+      <Value>the cold plague</Value>
+      <Value>consumption</Value>
+      <Value>cramp colic</Value>
+      <Value>distemper</Value>
+      <Value>dock fever</Value>
+      <Value>the dropsy</Value>
+      <Value>dry bellyache</Value>
+      <Value>falling sickness</Value>
+      <Value>leprosy</Value>
+      <Value>lupus</Value>
+      <Value>milk fever</Value>
+      <Value>milk leg</Value>
+      <Value>the puking fever</Value>
+      <Value>rabies</Value>
+      <Value>scrivener's palsy</Value>
+      <Value>scurvy</Value>
+      <Value>the shakes</Value>
+      <Value>the black shakes</Value>
+      <Value>the bloody flux</Value>
+      <Value>the bloody sweats</Value>
+      <Value>the grippe</Value>
+      <Value>the miasma</Value>
+      <Value>the palsy</Value>
+      <Value>the shakes</Value>
+      <Value>trench mouth</Value>
+      <Value>ulcerative colitis</Value>
+      <Value>unbalanced humors</Value>
+      <Value>viper's dance</Value>
+      <Value>winter fever</Value>
+      <Value>the worm fit</Value>
+    </Field>
+    <Field Name="A_LONG_TIME_AGO">
+      <Value>A long time ago</Value>
+      <Value>In days past</Value>
+      <Value>In times past</Value>
+      <Value>In years past</Value>
+      <Value>Many years ago</Value>
+      <Value>Years ago</Value>
+    </Field>
+    <Field Name="VENGEANCE">
+      <Value>avengement</Value>
+      <Value>punishment</Value>
+      <Value>reprisal</Value>
+      <Value>retaliation</Value>
+      <Value>retribution</Value>
+      <Value>revenge</Value>
+      <Value>vengeance</Value>
+      <Value>payback</Value>
+    </Field>
+    <Field Name="BE_CAREFUL">
+      <Value>be careful</Value>
+      <Value>use caution</Value>
+      <Value>take precautions</Value>
+      <Value>bring protection</Value>
+      <Value>anticipate problems</Value>
+      <Value>anticipate a fight</Value>
+      <Value>expect problems</Value>
+      <Value>expect a fight</Value>
+      <Value>use foresight</Value>
+      <Value>use foresight and be prepared</Value>
+      <Value>be prudent</Value>
+      <Value>be prudent and expect a rough fight</Value>
+      <Value>assume there will be violence</Value>
+      <Value>count on fighting</Value>
+      <Value>prepare for a hard fight</Value>
+    </Field>
+    <Field Name="A_GROUP_OF">
+      <Value>a group of</Value>
+      <Value>an assemblage of</Value>
+      <Value>a company of</Value>
+      <Value>a gang of</Value>
+      <Value>a party of</Value>
+      <Value>a bevy of</Value>
+      <Value>a cartel of</Value>
+      <Value>a covey of</Value>
+      <Value>a posse of</Value>
+    </Field>
+    <Field Name="VALUABLE">
+      <Value>valuable</Value>
+      <Value>prized</Value>
+      <Value>treasured</Value>
+      <Value>valued</Value>
+    </Field>
+    <Field Name="HEIRLOOM">
+      <Value>antique</Value>
+      <Value>treasure</Value>
+      <Value>artifact</Value>
+      <Value>relic</Value>
+      <Value>curio</Value>
+      <Value>keepsake</Value>
+      <Value>memento</Value>
+      <Value>trophy</Value>
+    </Field>
+    <Field Name="QUICKLY">
+      <Value>quickly</Value>
+      <Value>hastily</Value>
+      <Value>rapidly</Value>
+      <Value>speedily</Value>
+      <Value>swiftly</Value>
+    </Field>
+    <Field Name="ADVENTURERS">
+      <Value>adventurers</Value>
+      <Value>heroes</Value>
+      <Value>venturers</Value>
+    </Field>
+    <Field Name="BAND">
+      <Value>band</Value>
+      <Value>gang</Value>
+      <Value>crew</Value>
+    </Field>
+  </Story_Fields>
+</Story_Generator>
